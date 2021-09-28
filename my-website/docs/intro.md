@@ -2,13 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting started with the API
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Lettria in less than 5 minutes**.
 
-## Getting Started
+## Getting you API key
 
-Get started by **creating a new site**.
+To be able to make requests on our API you need an API key.
+You can manage your subscriptions and get a free key directly from your Dashboard.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
