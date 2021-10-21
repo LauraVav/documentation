@@ -11,14 +11,13 @@ Let's discover **Lettria in less than 5 minutes**.
 To be able to make requests on our API you need an API key.
 You can manage your subscriptions and get a free key directly from your Dashboard.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Installing Lettria
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
+Lettria provides you with a Python package to facilitate the use of its API.
+You can install the latest version via pip, a package manager for Python.
 
 ```shell
-npx @docusaurus/init@latest init my-website classic
+pip install lettria
 ```
 
 ## Start your site
