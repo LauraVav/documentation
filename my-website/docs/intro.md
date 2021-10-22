@@ -20,16 +20,16 @@ You can install the latest version via pip, a package manager for Python.
 pip install lettria
 ```
 
-## Start your site
+## Importing the library
 
-Run the development server:
+In order to use the Lettria API you'll need to import the library.
 
 ```shell
-cd my-website
-
-npx docusaurus start
+import lettria
 ```
 
-Your site starts at `http://localhost:3000`.
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
