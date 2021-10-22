@@ -2,28 +2,32 @@
 sidebar_position: 1
 ---
 
-# Getting started with the API
+# Getting started 🚀
 
-Let's discover **Lettria in less than 5 minutes**.
+This page will help you get started with **Lettria documentation**. You'll be up and running in no time!
 
-## Getting you API key
+Our documentation is here to guide you through your usage of our public API. You'll find all you need in regards to every object returned by the Lettria API.
 
-To be able to make requests on our API you need an API key.
-You can manage your subscriptions and get a free key directly from your Dashboard.
+## Getting you API key 🔑
 
-## Installing Lettria
+In order to start using our API you'll need a personal API key from Lettria. Once you install the Lettria Python SDK you can add you own documents and start analyzing using our NLP.
 
-Lettria provides you with a Python package to facilitate the use of its API.
-You can install the latest version via pip, a package manager for Python.
+## Installing Lettria 👨🏻‍💻
+
+Lettria provides you with a Python package to facilitate the use of its API. You can install the latest version via pip, a package manager for Python.
 
 ```shell
 pip install lettria
 ```
 
-## Importing the library
+## Importing the library 📚
 
 In order to use the Lettria API you'll need to import the library.
 
 ```shell
 import lettria
 ```
+## Ready, set....go! 🏃‍♀️
+
+Now your ready to add your document and start analyzing your text. Check out the left hand menu 👈 to see which tools you would like to use to extract the elements you need. 
+

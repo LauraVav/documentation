@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # What's the NLP class?
 
-## What's the NLP class?
-
 **NLP** inherits from [TextChunk](https://lettria-documentation.readme.io/docs/textchunk).
 
 **NLP** is a class designed to give access to relevant data at the different levels (document, sentence, subsentence) in an intuitive way. It allows you to perform quick data exploration, manipulation and analysis.
@@ -21,9 +19,12 @@ NLP is iterable and will yield Document instances.
 
 ## Attributes & Properties
 
-| Name        | Types       | Description |
-| ----------- | ----------- | ----------- |
-| Header      | Title       |             |
-| Paragraph   | Text        |             |
-|             |             |             |
-|             |             |             |
+| Name        | Types                      | Description                             |
+| ------------| ---------------------------| --------------------------------------  |
+| Documents   | list of Document instances | list of all the **Document** instances. |
+| Sentences   | list of Sentence instances |                                         |
+| Sunsentences|                            |                                         |
+| Tokens      |                            |                                         |
+| Fields      |                            |                                         |
+| Client      |                            |                                         |
+| Common properties |                      |                                         |
