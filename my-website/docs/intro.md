@@ -27,9 +27,3 @@ In order to use the Lettria API you'll need to import the library.
 ```shell
 import lettria
 ```
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-

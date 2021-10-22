@@ -43,7 +43,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       navbar: {
         title: 'lettria',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Lettria Site Logo',
           src: 'img/logo.png',
         },
         items: [
