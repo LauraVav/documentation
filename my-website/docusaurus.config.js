@@ -5,7 +5,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 (module.exports = {
   title: 'Documentation & Tutorials',
   tagline: 'Discover what lettria has to offer',
-  url: 'https://lettria-doc.netlify.app/docs/intro',
+  url: 'https://lettria-doc.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
