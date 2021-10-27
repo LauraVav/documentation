@@ -16,3 +16,4 @@ sidebar_position: 2
 | subsentences                                                                           	| list of [Subsentence](https://lettria-doc.netlify.app/docs/python-sdk/subsentence-class) instances 	| Direct access to list of **Subsentence** for the document.     	|
 | id                                                                                     	| str                                                                                                	| Id of document, by default sequential integer if not provided. 	|
 | [common properties](https://lettria-doc.netlify.app/docs/python-sdk/common-properties) 	| depends on property                                                                                	| Properties allowing access to specific data (pos, token etc.). 	|
+

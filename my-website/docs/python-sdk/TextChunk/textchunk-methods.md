@@ -26,7 +26,7 @@ Returns vocabulary from current data with their associated POStag i.e. if a word
 
 ## word_count 🔢
 
-```shell
+```python
 word_count(filter_pos = None, lemma=False):
 ```
 
@@ -48,7 +48,7 @@ Returns count of words from current data with their associated POStag i.e. if a 
 
 ## word_frequency 🙉
 
-```shell
+```python
 word_frequency(filter_pos = None, lemma=False)
 ```
 
@@ -69,7 +69,7 @@ Returns words or lemma frequency, allows filtering by POS tag
 
 ## list_entities 📝
 
-```shell
+```python
 list_entities()
 ```
 
@@ -83,7 +83,7 @@ Returns dictionaries of detected entities by type.
 
 ## get_emotion 😀
 
-```shell
+```python
 get_emotion(granularity = 'sentence')
 ```
 
@@ -104,7 +104,7 @@ Returns emotion results, **granularity** defines whether to use emotion by sente
 
 ## get_sentiment 😍
 
-```shell
+```python
 get_sentiment(granularity = 'sentence')
 ```
 
@@ -125,7 +125,7 @@ Returns sentiment results, granularity defines whether to use sentiment by sente
 
 ## word_sentiment 🤓
 
-```shell
+```python
 word_sentiment(granularity = 'sentence', lemma = False, filter_pos = None, average=True)
 ```
 
@@ -149,7 +149,7 @@ Returns an average sentiment score for each word or lemma. For each sentence or 
 
 ## word_emotion 🧐
 
-```shell
+```python
 word_emotion(granularity = 'sentence', lemma = False, filter_pos = None, average=True)
 ```
 
@@ -173,7 +173,7 @@ Returns the average score for each emotion for each word or lemma in the vocabul
 
 ## meaning_sentiment 😏
 
-```shell
+```python
 meaning_sentiment(granularity='sentence', filter_meaning=None, average=True)
 ```
 
@@ -195,7 +195,7 @@ Returns average sentiment score for each **meaning** For each sentence or subsen
 
 ## meaning_emotion 🤗
 
-```shell
+```python
 meaning_emotion(granularity='sentence', filter_meaning=None, average=True)
 ```
 
@@ -217,7 +217,7 @@ Returns average emotion scores for each **meaning**. For each sentence or subsen
 
 ## filter_polarity 🐻‍❄️
 
-```shell
+```python
 filter_polarity(polarity, granularity='sentence')
 ```
 
@@ -239,7 +239,7 @@ Filters **Sentence** or **Subsentence** of the specified polarity.
 
 ## filter_emotion 😊
 
-```shell
+```python
 filter_emotion(emotions, granularity='sentence')
 ```
 
@@ -261,7 +261,7 @@ Filters **Sentence** of the specified emotions.
 
 ## filter_type ⌨️
 
-```shell
+```python
 filter_type(sentence_type)
 ```
 
@@ -282,7 +282,7 @@ Filters **Sentence** of the specified emotions.
 
 ## match_pattern 🏁
 
-```shell
+```python
 match_pattern(self, patterns_json, level = None, print_tree=False, skip_errors=False)
 ```
 
