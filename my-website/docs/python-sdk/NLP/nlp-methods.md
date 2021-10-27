@@ -17,7 +17,7 @@ Below is an overview list of the methods that can be used to manage data with th
 | [add_client()](https://lettria-doc.netlify.app/docs/python-sdk/NLP/nlp-methods#add_client-)              	| Adds new client / api_key          	|
 
 ## add_document() 📄
-```shell
+```python
 add_document(document, skip_document = False, id=None, verbose=True)
 ```
 Performs a request to the lettria API using the API_KEY provided. Results are appended as an additional Document instance to the documents attribute.
@@ -32,7 +32,7 @@ Performs a request to the lettria API using the API_KEY provided. Results are ap
 | verbose       	| bool                     	| Whether to print additional statements about document processing.True        	|          	|
 
 ## save_results() 💾
-```shell
+```python
 save_results(file = '')
 ```
 Writes current results to a JSON file. If no file is specified the default path is results_X.json with X being next 'free' integer.
@@ -45,7 +45,7 @@ Writes current results to a JSON file. If no file is specified the default path 
 
 
 ## load_results() ⌛️
-```shell
+```python
 load_results(path = 'results_0', reset = False)
 ```
 Loads results from a JSON file.
@@ -71,7 +71,7 @@ Erase all data inside NLP and reinitialise documents ids.
 | reset 	| bool   	| Whether to erase current data. 	| True     	|
 
 ## add_client() 🧮
-```shell
+```python
 add_client(client = None, api_key = None)
 ```
 Replaces current client with provided one, or creates a new client using the provided api_key.

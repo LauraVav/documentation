@@ -4,40 +4,15 @@ sidebar_position: 2
 
 # Document class
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+**Document** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+**Document** stores the information for a document (for example an online review for a product or a news article). The class is iterable and will yield instances of **Sentence**.
 
-## Create your first React Page
+## Attributes / Properties
 
-Create a file at `src/pages/my-react-page.js`:
-
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at `http://localhost:3000/my-react-page`.
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+| Name                                                                                   	| Type                                                                                               	| Description                                                    	|
+|----------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------	|----------------------------------------------------------------	|
+| sentences                                                                              	| list of [Sentence](https://lettria-doc.netlify.app/docs/python-sdk/sentence-class) instances       	| List of **Sentences** of the document.                         	|
+| subsentences                                                                           	| list of [Subsentence](https://lettria-doc.netlify.app/docs/python-sdk/subsentence-class) instances 	| Direct access to list of **Subsentence** for the document.     	|
+| id                                                                                     	| str                                                                                                	| Id of document, by default sequential integer if not provided. 	|
+| [common properties](https://lettria-doc.netlify.app/docs/python-sdk/common-properties) 	| depends on property                                                                                	| Properties allowing access to specific data (pos, token etc.). 	|

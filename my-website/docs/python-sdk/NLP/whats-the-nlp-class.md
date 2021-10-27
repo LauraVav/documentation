@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # What's the NLP class?
 
-**NLP** inherits from [TextChunk](https://lettria-documentation.readme.io/docs/textchunk).
+**NLP** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
 
 **NLP** is a class designed to give access to relevant data at the different levels (document, sentence, subsentence) in an intuitive way. It allows you to perform quick data exploration, manipulation and analysis.
 It's also used to perform requests and can save as well as load result as **JSON** objects.

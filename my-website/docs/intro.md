@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Getting started 🚀
+# Getting started 
 
 This page will help you get started with **Lettria documentation**. You'll be up and running in no time!
 
@@ -16,7 +16,7 @@ In order to start using our API you'll need a personal API key from Lettria. Onc
 
 Lettria provides you with a Python package to facilitate the use of its API. You can install the latest version via pip, a package manager for Python.
 
-```shell
+```python
 pip install lettria
 ```
 
@@ -24,7 +24,7 @@ pip install lettria
 
 In order to use the Lettria API you'll need to import the library.
 
-```shell
+```python
 import lettria
 ```
 ## Ready, set....go! 🏃‍♀️
