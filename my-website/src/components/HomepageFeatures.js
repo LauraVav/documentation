@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Get your API key',
+    Svg: require('../../static/img/undraw_dev_focus.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        In order to start using the Lettria API you'll need to get an API key. Then you can install the API and start using the Lettria API.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Using the API',
+    Svg: require('../../static/img/undraw_code_thinking.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        In order to get the most out of the API you'll need to know all the tools available. Browse our documentation and get familiar with the Lettria API.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Tutorials',
+    Svg: require('../../static/img/undraw_tutorial_video.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Not sure where to start? Take a look at our tutorials to see what tools the Lettrai library contains to make your document analysis easier.
       </>
     ),
   },

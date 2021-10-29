@@ -3,7 +3,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'Documentation Center',
+  title: 'Doc Center',
   tagline: 'Learn how to use our powerful API',
   url: 'https://lettria-doc.netlify.app',
   baseUrl: '/',
