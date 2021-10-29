@@ -9,7 +9,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/favicon.png',
   organizationName: 'LauraVav', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
