@@ -3,8 +3,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'Documentation & Tutorials',
-  tagline: 'Discover what lettria has to offer',
+  title: 'Documentation Center',
+  tagline: 'Learn how to use our powerful API',
   url: 'https://lettria-doc.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -40,7 +40,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'lettria',
+        title: '',
         logo: {
           alt: 'Lettria Site Logo',
           src: 'img/logo.png',
@@ -57,13 +57,13 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
@@ -71,17 +71,14 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           {
             title: 'Community',
             items: [
+            
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/lettria/mycompany/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/lettria_fr?lang=en',
               },
             ],
           },
@@ -94,12 +91,12 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Lettria',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lettria`,
       },
       prism: {
         theme: lightCodeTheme,
