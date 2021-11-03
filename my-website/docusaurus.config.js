@@ -23,12 +23,6 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
           // Please change this to your repo.
           editUrl: 'https://github.com/LauraVav/documentation',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/LauraVav/documentation/edit/main/website/blog/',
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -52,7 +46,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             position: 'left',
             label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+      
           
         ],
       },

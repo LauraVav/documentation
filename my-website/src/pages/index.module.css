@@ -8,6 +8,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: #fff;
 }
 
 @media screen and (max-width: 966px) {
@@ -22,4 +23,8 @@
   justify-content: center;
 }
 
-
+html[data-theme='dark'] .heroBanner{
+  background-image: url(/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/static/img/background-dark.png);
+  background-repeat: no-repeat;
+  background-size: 200%;;
+  }
