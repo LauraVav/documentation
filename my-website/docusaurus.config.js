@@ -80,10 +80,6 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/Lettria',
               },
