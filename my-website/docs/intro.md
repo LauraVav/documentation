@@ -4,13 +4,23 @@ sidebar_position: 1
 
 # Getting started 
 
-This page will help you get started with **Lettria documentation**. You'll be up and running in no time!
+This page will help you get started with the  **Lettria doc center**. You'll be up and running in no time ⏱
 
 Our documentation is here to guide you through your usage of our public API. You'll find all you need in regards to every object returned by the Lettria API.
 
+If you are looking for information reagarding a specific topic select one of the categories from the side menu and select the corresponding topic you`d like to know more about.
+
+If you are new to NLP you can take a look at our tutorials to get an idea of what inforamtion you`d like to extract and analyze from your document. 
+
 ## Getting you API key 
 
-In order to start using our API you'll need a personal API key from Lettria. Once you install the Lettria Python SDK you can add you own documents and start analyzing using our NLP.
+In order to start using our API you'll need a personal API key from Lettria. 
+
+Create you free Lettria account [here](https://www.lettria.com/fr/demo) 👈
+
+Create a **project** and from the project page select the **tokens** menu and copy you free API key 🔑
+
+Once you've installed the Lettria API you can add you own documents and start analyzing using our NLP.
 
 ## Installing Lettria 
 

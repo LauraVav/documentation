@@ -28,3 +28,9 @@ html[data-theme='dark'] .heroBanner{
   background-repeat: no-repeat;
   background-size: 200%;;
   }
+
+  html[data-theme='light'] .heroBanner{
+    background-image: url(/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/static/img/background-light.png);
+    background-repeat: no-repeat;
+    background-size: 200%;;
+    }
