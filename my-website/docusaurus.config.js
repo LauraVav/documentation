@@ -4,7 +4,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Doc Center',
-  tagline: 'Learn how to use our powerful API',
+  tagline: 'Lettria documentation & tutorials',
   url: 'https://lettria-doc.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
