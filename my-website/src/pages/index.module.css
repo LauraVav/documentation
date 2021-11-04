@@ -26,11 +26,13 @@
 html[data-theme='dark'] .heroBanner{
   background-image: url(/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/static/img/background-dark.png);
   background-repeat: no-repeat;
-  background-size: 200%;;
+  background-size: 200%;
+  filter: drop-shadow(0 0 0.75rem grey);
   }
 
   html[data-theme='light'] .heroBanner{
     background-image: url(/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/static/img/background-light.png);
     background-repeat: no-repeat;
-    background-size: 200%;;
+    background-size: 200%;
+    filter: drop-shadow(0 0 0.75rem grey);
     }

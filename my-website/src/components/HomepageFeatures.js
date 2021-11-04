@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Get your API key',
-    Svg: require('../../static/img/undraw_dev_focus.svg').default,
+    Svg: require('../../static/img/left.svg').default,
     description: (
       <>
         In order to start using the Lettria API you'll need to get an API key. Then you can install the API and start using the Lettria API.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Using the API',
-    Svg: require('../../static/img/undraw_code_thinking.svg').default,
+    Svg: require('../../static/img/center.svg').default,
     description: (
       <>
         In order to get the most out of the API you'll need to know all the tools available. Browse our documentation and get familiar with the Lettria API.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Tutorials',
-    Svg: require('../../static/img/undraw_tutorial_video.svg').default,
+    Svg: require('../../static/img/right.svg').default,
     description: (
       <>
         Not sure where to start? Take a look at our tutorials to see what tools the Lettrai library contains to make your document analysis easier.
