@@ -6,9 +6,9 @@ sidebar_position: 3
 
 | VALUE 	| EXAMPLES 	|
 |-------	|----------	|
-| 1     	| mon      	|
-| 2     	| ton      	|
-| 3     	| son      	|
-| 4     	| nos      	|
-| 5     	| vos      	|
-| 6     	| leur     	|
+| 1     	| my      	|
+| 2     	| your      	|
+| 3     	| his/her     	|
+| 4     	| our      	|
+| 5     	| its      	|
+| 6     	| their     	|
