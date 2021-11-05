@@ -17,11 +17,10 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
     [
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      (
+        {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/LauraVav/documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

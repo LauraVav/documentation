@@ -41,4 +41,6 @@ html[data-theme='dark'] .navbar .navbar__logo {
     --ifm-color-primary-dark: #fff;
   }
 
-  
+  table {
+    empty-cells: hide;
+}
