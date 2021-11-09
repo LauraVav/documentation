@@ -8,6 +8,7 @@ sidebar_position: 4
 
 ## Video
 
+
 ## Tutorial
 
 In order to extract the language you'll need to have you document saved on your computer.
