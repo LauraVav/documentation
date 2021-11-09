@@ -1,0 +1,196 @@
+{
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog/archive-f4c": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-050": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/API/coreference-b80": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-coreference-484-0e3"
+  },
+  "/docs/API/disturbance-d00": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-disturbance-9-ad-094"
+  },
+  "/docs/API/emoticons-023": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-emoticons-0-d-6-384"
+  },
+  "/docs/API/emotions-3ca": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-emotions-7-e-0-3a8"
+  },
+  "/docs/API/entities-numeral-e9b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-entities-numeral-534-a47"
+  },
+  "/docs/API/Glossary/categories-232": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-categories-97-e-2d9"
+  },
+  "/docs/API/Glossary/conjugations-1ba": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-conjugations-71-b-37c"
+  },
+  "/docs/API/Glossary/dependency-tags-c4b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-dependency-tags-31-e-17c"
+  },
+  "/docs/API/Glossary/entities-38a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-entitiesb-72-635"
+  },
+  "/docs/API/Glossary/possessive-determiners-370": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-possessive-determiners-7-a-3-678"
+  },
+  "/docs/API/Glossary/pronouns-61b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-pronounsc-1-f-1af"
+  },
+  "/docs/API/Glossary/tags-861": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-glossary-tags-59-d-3cb"
+  },
+  "/docs/API/language-used-449": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-language-usedac-6-f82"
+  },
+  "/docs/API/lettria-sentence-object-126": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-lettria-sentence-object-734-a94"
+  },
+  "/docs/API/ml-emotion-68c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-ml-emotion-6-bd-7ca"
+  },
+  "/docs/API/ml-sentiment-caa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-ml-sentiment-7-c-0-45f"
+  },
+  "/docs/API/ner-994": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-nerf-59-8b4"
+  },
+  "/docs/API/nlp-343": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-nlpb-5-c-a81"
+  },
+  "/docs/API/nlu-915": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-nlue-04-ad5"
+  },
+  "/docs/API/parser-dependency-e62": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-parser-dependency-5-d-7-a27"
+  },
+  "/docs/API/pos-tagger-69c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-pos-tagger-8-aa-6cd"
+  },
+  "/docs/API/proposition-74b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-propositionde-8-482"
+  },
+  "/docs/API/sentence-acts-b44": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-sentence-acts-1-ec-03f"
+  },
+  "/docs/API/sentiment-c45": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-sentiment-27-b-948"
+  },
+  "/docs/API/synthesis-6c3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-api-synthesisca-3-2d4"
+  },
+  "/docs/intro-aed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/python-sdk/client-class-d61": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-client-class-58-f-1a3"
+  },
+  "/docs/python-sdk/common-properties-1f2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-common-properties-921-859"
+  },
+  "/docs/python-sdk/document-class-d2e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-document-classaf-6-7ea"
+  },
+  "/docs/python-sdk/nlp-class-c1c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-nlp-class-3-fb-eb0"
+  },
+  "/docs/python-sdk/patterns-e48": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-patternsd-25-a94"
+  },
+  "/docs/python-sdk/sentence-class-44d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-sentence-classc-03-bbf"
+  },
+  "/docs/python-sdk/subsentence-class-cc8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-subsentence-classb-15-ca8"
+  },
+  "/docs/python-sdk/texctchunk-634": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-texctchunk-189-250"
+  },
+  "/docs/python-sdk/token-class-aa2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-python-sdk-token-class-08-c-299"
+  },
+  "/docs/Tutorials/language-recognition-fdd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-language-recognitionb-42-0f2"
+  },
+  "/docs/Tutorials/lemmatizer-7d0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-lemmatizer-4-c-2-f9f"
+  },
+  "/docs/Tutorials/pos-tagger-cb4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-pos-tagger-3-dc-1c9"
+  },
+  "/docs/Tutorials/sentence-type-6a6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-sentence-type-3-e-8-309"
+  },
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  }
+}

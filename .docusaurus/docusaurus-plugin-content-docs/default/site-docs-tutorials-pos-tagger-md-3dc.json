@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/pos-tagger",
+  "id": "Tutorials/pos-tagger",
+  "isDocsHomePage": false,
+  "title": "POS tagger",
+  "description": "What’s a pos-tagger ?",
+  "source": "@site/docs/Tutorials/pos-tagger.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/pos-tagger",
+  "permalink": "/docs/Tutorials/pos-tagger",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Categories",
+    "permalink": "/docs/API/Glossary/categories"
+  },
+  "next": {
+    "title": "Lemmatizer",
+    "permalink": "/docs/Tutorials/lemmatizer"
+  }
+}

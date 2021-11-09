@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/nlu",
+  "id": "API/nlu",
+  "isDocsHomePage": false,
+  "title": "NLU",
+  "description": "Understanding for each token in the sentence.",
+  "source": "@site/docs/API/nlu.md",
+  "sourceDirName": "API",
+  "slug": "/API/nlu",
+  "permalink": "/docs/API/nlu",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NLP",
+    "permalink": "/docs/API/nlp"
+  },
+  "next": {
+    "title": "Entities numeral",
+    "permalink": "/docs/API/entities-numeral"
+  }
+}
