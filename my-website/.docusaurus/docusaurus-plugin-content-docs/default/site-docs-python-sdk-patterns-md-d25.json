@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/patterns",
+  "id": "python-sdk/patterns",
+  "isDocsHomePage": false,
+  "title": "Patterns",
+  "description": "Patterns let you find documents, sentences or tokens according to certain rules that will describe token attributes and relations between tokens. Attributes refer to information about a token like postag, raw text, dependency, entity type ...",
+  "source": "@site/docs/python-sdk/patterns.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/patterns",
+  "permalink": "/docs/python-sdk/patterns",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client class",
+    "permalink": "/docs/python-sdk/client-class"
+  },
+  "next": {
+    "title": "Lettria sentence object",
+    "permalink": "/docs/API/lettria-sentence-object"
+  }
+}

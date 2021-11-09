@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Tutorials/language-recognition",
+  "id": "Tutorials/language-recognition",
+  "isDocsHomePage": false,
+  "title": "Language Recognition",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/language-recognition.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/language-recognition",
+  "permalink": "/docs/Tutorials/language-recognition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentence type",
+    "permalink": "/docs/Tutorials/sentence-type"
+  }
+}

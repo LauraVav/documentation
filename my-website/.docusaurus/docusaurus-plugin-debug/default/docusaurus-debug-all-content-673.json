@@ -1,0 +1,1252 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/sidebars.js",
+          "contentPath": "/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/docs",
+          "contentPathLocalized": "/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "unversionedId": "API/coreference",
+              "id": "API/coreference",
+              "isDocsHomePage": false,
+              "title": "Coreference",
+              "description": "Coreference Object",
+              "source": "@site/docs/API/coreference.md",
+              "sourceDirName": "API",
+              "slug": "/API/coreference",
+              "permalink": "/docs/API/coreference",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Parser dependency",
+                "permalink": "/docs/API/parser-dependency"
+              },
+              "next": {
+                "title": "Sentence acts",
+                "permalink": "/docs/API/sentence-acts"
+              }
+            },
+            {
+              "unversionedId": "API/disturbance",
+              "id": "API/disturbance",
+              "isDocsHomePage": false,
+              "title": "Disturbance",
+              "description": "Disturbance Object",
+              "source": "@site/docs/API/disturbance.md",
+              "sourceDirName": "API",
+              "slug": "/API/disturbance",
+              "permalink": "/docs/API/disturbance",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "POS tagger",
+                "permalink": "/docs/API/pos-tagger"
+              },
+              "next": {
+                "title": "NLP",
+                "permalink": "/docs/API/nlp"
+              }
+            },
+            {
+              "unversionedId": "API/emoticons",
+              "id": "API/emoticons",
+              "isDocsHomePage": false,
+              "title": "Emoticons",
+              "description": "List all emoticons found.",
+              "source": "@site/docs/API/emoticons.md",
+              "sourceDirName": "API",
+              "slug": "/API/emoticons",
+              "permalink": "/docs/API/emoticons",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Synthesis",
+                "permalink": "/docs/API/synthesis"
+              },
+              "next": {
+                "title": "Language used",
+                "permalink": "/docs/API/language-used"
+              }
+            },
+            {
+              "unversionedId": "API/emotions",
+              "id": "API/emotions",
+              "isDocsHomePage": false,
+              "title": "Emotions",
+              "description": "Emotions Object",
+              "source": "@site/docs/API/emotions.md",
+              "sourceDirName": "API",
+              "slug": "/API/emotions",
+              "permalink": "/docs/API/emotions",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sentence acts",
+                "permalink": "/docs/API/sentence-acts"
+              },
+              "next": {
+                "title": "Sentiment",
+                "permalink": "/docs/API/sentiment"
+              }
+            },
+            {
+              "unversionedId": "API/entities-numeral",
+              "id": "API/entities-numeral",
+              "isDocsHomePage": false,
+              "title": "Entities numeral",
+              "description": "Numeral Entity Object",
+              "source": "@site/docs/API/entities-numeral.md",
+              "sourceDirName": "API",
+              "slug": "/API/entities-numeral",
+              "permalink": "/docs/API/entities-numeral",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NLU",
+                "permalink": "/docs/API/nlu"
+              },
+              "next": {
+                "title": "NER",
+                "permalink": "/docs/API/ner"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/categories",
+              "id": "API/Glossary/categories",
+              "isDocsHomePage": false,
+              "title": "Categories",
+              "description": "List of all categories that can be found in Category Objects. Categories are organised by super-categories, each containing a number of sub-categories.",
+              "source": "@site/docs/API/Glossary/categories.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/categories",
+              "permalink": "/docs/API/Glossary/categories",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Entities",
+                "permalink": "/docs/API/Glossary/entities"
+              },
+              "next": {
+                "title": "POS tagger",
+                "permalink": "/docs/Tutorials/pos-tagger"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/conjugations",
+              "id": "API/Glossary/conjugations",
+              "isDocsHomePage": false,
+              "title": "Conjugations",
+              "description": "| MODE        \t| TENSES                \t|",
+              "source": "@site/docs/API/Glossary/conjugations.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/conjugations",
+              "permalink": "/docs/API/Glossary/conjugations",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pronouns",
+                "permalink": "/docs/API/Glossary/pronouns"
+              },
+              "next": {
+                "title": "Entities",
+                "permalink": "/docs/API/Glossary/entities"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/dependency-tags",
+              "id": "API/Glossary/dependency-tags",
+              "isDocsHomePage": false,
+              "title": "Dependency tags",
+              "description": "We use the universal dependencies for our dependency parser.",
+              "source": "@site/docs/API/Glossary/dependency-tags.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/dependency-tags",
+              "permalink": "/docs/API/Glossary/dependency-tags",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tags",
+                "permalink": "/docs/API/Glossary/tags"
+              },
+              "next": {
+                "title": "Possessive determiners",
+                "permalink": "/docs/API/Glossary/possessive-determiners"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/entities",
+              "id": "API/Glossary/entities",
+              "isDocsHomePage": false,
+              "title": "Entities",
+              "description": "Entity types",
+              "source": "@site/docs/API/Glossary/entities.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/entities",
+              "permalink": "/docs/API/Glossary/entities",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conjugations",
+                "permalink": "/docs/API/Glossary/conjugations"
+              },
+              "next": {
+                "title": "Categories",
+                "permalink": "/docs/API/Glossary/categories"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/possessive-determiners",
+              "id": "API/Glossary/possessive-determiners",
+              "isDocsHomePage": false,
+              "title": "Possessive determiners",
+              "description": "| VALUE \t| EXAMPLES \t|",
+              "source": "@site/docs/API/Glossary/possessive-determiners.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/possessive-determiners",
+              "permalink": "/docs/API/Glossary/possessive-determiners",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dependency tags",
+                "permalink": "/docs/API/Glossary/dependency-tags"
+              },
+              "next": {
+                "title": "Pronouns",
+                "permalink": "/docs/API/Glossary/pronouns"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/pronouns",
+              "id": "API/Glossary/pronouns",
+              "isDocsHomePage": false,
+              "title": "Pronouns",
+              "description": "| VALUE \t| EXAMPLES    \t|",
+              "source": "@site/docs/API/Glossary/pronouns.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/pronouns",
+              "permalink": "/docs/API/Glossary/pronouns",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Possessive determiners",
+                "permalink": "/docs/API/Glossary/possessive-determiners"
+              },
+              "next": {
+                "title": "Conjugations",
+                "permalink": "/docs/API/Glossary/conjugations"
+              }
+            },
+            {
+              "unversionedId": "API/Glossary/tags",
+              "id": "API/Glossary/tags",
+              "isDocsHomePage": false,
+              "title": "Tags",
+              "description": "Here's a list of possible word tags. Used in the POS Tagger and Parser Dependency.",
+              "source": "@site/docs/API/Glossary/tags.md",
+              "sourceDirName": "API/Glossary",
+              "slug": "/API/Glossary/tags",
+              "permalink": "/docs/API/Glossary/tags",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Proposition",
+                "permalink": "/docs/API/proposition"
+              },
+              "next": {
+                "title": "Dependency tags",
+                "permalink": "/docs/API/Glossary/dependency-tags"
+              }
+            },
+            {
+              "unversionedId": "API/language-used",
+              "id": "API/language-used",
+              "isDocsHomePage": false,
+              "title": "Language used",
+              "description": "Language used Object",
+              "source": "@site/docs/API/language-used.md",
+              "sourceDirName": "API",
+              "slug": "/API/language-used",
+              "permalink": "/docs/API/language-used",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Emoticons",
+                "permalink": "/docs/API/emoticons"
+              },
+              "next": {
+                "title": "POS tagger",
+                "permalink": "/docs/API/pos-tagger"
+              }
+            },
+            {
+              "unversionedId": "API/lettria-sentence-object",
+              "id": "API/lettria-sentence-object",
+              "isDocsHomePage": false,
+              "title": "Lettria sentence object",
+              "description": "In this object, each key corresponds to the returned object from a sub-API.",
+              "source": "@site/docs/API/lettria-sentence-object.md",
+              "sourceDirName": "API",
+              "slug": "/API/lettria-sentence-object",
+              "permalink": "/docs/API/lettria-sentence-object",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Patterns",
+                "permalink": "/docs/python-sdk/patterns"
+              },
+              "next": {
+                "title": "Synthesis",
+                "permalink": "/docs/API/synthesis"
+              }
+            },
+            {
+              "unversionedId": "API/ml-emotion",
+              "id": "API/ml-emotion",
+              "isDocsHomePage": false,
+              "title": "ML emotion",
+              "description": "ML emotion is a multilabel model that returns the emotions expressed in a sentence or subsentence.",
+              "source": "@site/docs/API/ml-emotion.md",
+              "sourceDirName": "API",
+              "slug": "/API/ml-emotion",
+              "permalink": "/docs/API/ml-emotion",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "sidebar_position": 16
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sentiment",
+                "permalink": "/docs/API/sentiment"
+              },
+              "next": {
+                "title": "ML sentiment",
+                "permalink": "/docs/API/ml-sentiment"
+              }
+            },
+            {
+              "unversionedId": "API/ml-sentiment",
+              "id": "API/ml-sentiment",
+              "isDocsHomePage": false,
+              "title": "ML sentiment",
+              "description": "Subsentences IA Sentiment Object",
+              "source": "@site/docs/API/ml-sentiment.md",
+              "sourceDirName": "API",
+              "slug": "/API/ml-sentiment",
+              "permalink": "/docs/API/ml-sentiment",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "sidebar_position": 17
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ML emotion",
+                "permalink": "/docs/API/ml-emotion"
+              },
+              "next": {
+                "title": "Proposition",
+                "permalink": "/docs/API/proposition"
+              }
+            },
+            {
+              "unversionedId": "API/ner",
+              "id": "API/ner",
+              "isDocsHomePage": false,
+              "title": "NER",
+              "description": "The NER sub-api lists all the Numeral Entities and Named Entities found in the sentence.",
+              "source": "@site/docs/API/ner.md",
+              "sourceDirName": "API",
+              "slug": "/API/ner",
+              "permalink": "/docs/API/ner",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Entities numeral",
+                "permalink": "/docs/API/entities-numeral"
+              },
+              "next": {
+                "title": "Parser dependency",
+                "permalink": "/docs/API/parser-dependency"
+              }
+            },
+            {
+              "unversionedId": "API/nlp",
+              "id": "API/nlp",
+              "isDocsHomePage": false,
+              "title": "NLP",
+              "description": "NLP Object",
+              "source": "@site/docs/API/nlp.md",
+              "sourceDirName": "API",
+              "slug": "/API/nlp",
+              "permalink": "/docs/API/nlp",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Disturbance",
+                "permalink": "/docs/API/disturbance"
+              },
+              "next": {
+                "title": "NLU",
+                "permalink": "/docs/API/nlu"
+              }
+            },
+            {
+              "unversionedId": "API/nlu",
+              "id": "API/nlu",
+              "isDocsHomePage": false,
+              "title": "NLU",
+              "description": "Understanding for each token in the sentence.",
+              "source": "@site/docs/API/nlu.md",
+              "sourceDirName": "API",
+              "slug": "/API/nlu",
+              "permalink": "/docs/API/nlu",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NLP",
+                "permalink": "/docs/API/nlp"
+              },
+              "next": {
+                "title": "Entities numeral",
+                "permalink": "/docs/API/entities-numeral"
+              }
+            },
+            {
+              "unversionedId": "API/parser-dependency",
+              "id": "API/parser-dependency",
+              "isDocsHomePage": false,
+              "title": "Parser dependency",
+              "description": "Dependency Object",
+              "source": "@site/docs/API/parser-dependency.md",
+              "sourceDirName": "API",
+              "slug": "/API/parser-dependency",
+              "permalink": "/docs/API/parser-dependency",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NER",
+                "permalink": "/docs/API/ner"
+              },
+              "next": {
+                "title": "Coreference",
+                "permalink": "/docs/API/coreference"
+              }
+            },
+            {
+              "unversionedId": "API/pos-tagger",
+              "id": "API/pos-tagger",
+              "isDocsHomePage": false,
+              "title": "POS tagger",
+              "description": "POS Tagger Object",
+              "source": "@site/docs/API/pos-tagger.md",
+              "sourceDirName": "API",
+              "slug": "/API/pos-tagger",
+              "permalink": "/docs/API/pos-tagger",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Language used",
+                "permalink": "/docs/API/language-used"
+              },
+              "next": {
+                "title": "Disturbance",
+                "permalink": "/docs/API/disturbance"
+              }
+            },
+            {
+              "unversionedId": "API/proposition",
+              "id": "API/proposition",
+              "isDocsHomePage": false,
+              "title": "Proposition",
+              "description": "Subsentence Object",
+              "source": "@site/docs/API/proposition.md",
+              "sourceDirName": "API",
+              "slug": "/API/proposition",
+              "permalink": "/docs/API/proposition",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 18,
+              "frontMatter": {
+                "sidebar_position": 18
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ML sentiment",
+                "permalink": "/docs/API/ml-sentiment"
+              },
+              "next": {
+                "title": "Tags",
+                "permalink": "/docs/API/Glossary/tags"
+              }
+            },
+            {
+              "unversionedId": "API/sentence-acts",
+              "id": "API/sentence-acts",
+              "isDocsHomePage": false,
+              "title": "Sentence acts",
+              "description": "Sentence_acts Object",
+              "source": "@site/docs/API/sentence-acts.md",
+              "sourceDirName": "API",
+              "slug": "/API/sentence-acts",
+              "permalink": "/docs/API/sentence-acts",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Coreference",
+                "permalink": "/docs/API/coreference"
+              },
+              "next": {
+                "title": "Emotions",
+                "permalink": "/docs/API/emotions"
+              }
+            },
+            {
+              "unversionedId": "API/sentiment",
+              "id": "API/sentiment",
+              "isDocsHomePage": false,
+              "title": "Sentiment",
+              "description": "Sentiment Object",
+              "source": "@site/docs/API/sentiment.md",
+              "sourceDirName": "API",
+              "slug": "/API/sentiment",
+              "permalink": "/docs/API/sentiment",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "sidebar_position": 15
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Emotions",
+                "permalink": "/docs/API/emotions"
+              },
+              "next": {
+                "title": "ML emotion",
+                "permalink": "/docs/API/ml-emotion"
+              }
+            },
+            {
+              "unversionedId": "API/synthesis",
+              "id": "API/synthesis",
+              "isDocsHomePage": false,
+              "title": "Synthesis",
+              "description": "Compiles all the most relevant information for each token.",
+              "source": "@site/docs/API/synthesis.md",
+              "sourceDirName": "API",
+              "slug": "/API/synthesis",
+              "permalink": "/docs/API/synthesis",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lettria sentence object",
+                "permalink": "/docs/API/lettria-sentence-object"
+              },
+              "next": {
+                "title": "Emoticons",
+                "permalink": "/docs/API/emoticons"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Getting started",
+              "description": "This page will help you get started with the  Lettria doc center. You'll be up and running in no time ⏱",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "NLP Class",
+                "permalink": "/docs/python-sdk/nlp-class"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/client-class",
+              "id": "python-sdk/client-class",
+              "isDocsHomePage": false,
+              "title": "Client class",
+              "description": "Client used to perform requests to our API.",
+              "source": "@site/docs/python-sdk/client-class.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/client-class",
+              "permalink": "/docs/python-sdk/client-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Common properties",
+                "permalink": "/docs/python-sdk/common-properties"
+              },
+              "next": {
+                "title": "Patterns",
+                "permalink": "/docs/python-sdk/patterns"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/common-properties",
+              "id": "python-sdk/common-properties",
+              "isDocsHomePage": false,
+              "title": "Common properties",
+              "description": "These properties are accessible at all analysis levels : NLP, Document, Sentence, Subsentence, Token.",
+              "source": "@site/docs/python-sdk/common-properties.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/common-properties",
+              "permalink": "/docs/python-sdk/common-properties",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Token class",
+                "permalink": "/docs/python-sdk/token-class"
+              },
+              "next": {
+                "title": "Client class",
+                "permalink": "/docs/python-sdk/client-class"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/document-class",
+              "id": "python-sdk/document-class",
+              "isDocsHomePage": false,
+              "title": "Document class",
+              "description": "Document inherits from TextChunk.",
+              "source": "@site/docs/python-sdk/document-class.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/document-class",
+              "permalink": "/docs/python-sdk/document-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "TextChunk",
+                "permalink": "/docs/python-sdk/texctchunk"
+              },
+              "next": {
+                "title": "Sentence class",
+                "permalink": "/docs/python-sdk/sentence-class"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/nlp-class",
+              "id": "python-sdk/nlp-class",
+              "isDocsHomePage": false,
+              "title": "NLP Class",
+              "description": "What's the NLP class?",
+              "source": "@site/docs/python-sdk/nlp-class.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/nlp-class",
+              "permalink": "/docs/python-sdk/nlp-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting started",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "TextChunk",
+                "permalink": "/docs/python-sdk/texctchunk"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/patterns",
+              "id": "python-sdk/patterns",
+              "isDocsHomePage": false,
+              "title": "Patterns",
+              "description": "Patterns let you find documents, sentences or tokens according to certain rules that will describe token attributes and relations between tokens. Attributes refer to information about a token like postag, raw text, dependency, entity type ...",
+              "source": "@site/docs/python-sdk/patterns.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/patterns",
+              "permalink": "/docs/python-sdk/patterns",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Client class",
+                "permalink": "/docs/python-sdk/client-class"
+              },
+              "next": {
+                "title": "Lettria sentence object",
+                "permalink": "/docs/API/lettria-sentence-object"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/sentence-class",
+              "id": "python-sdk/sentence-class",
+              "isDocsHomePage": false,
+              "title": "Sentence class",
+              "description": "Sentence inherits from TextChunk.",
+              "source": "@site/docs/python-sdk/sentence-class.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/sentence-class",
+              "permalink": "/docs/python-sdk/sentence-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Document class",
+                "permalink": "/docs/python-sdk/document-class"
+              },
+              "next": {
+                "title": "Subsentence class",
+                "permalink": "/docs/python-sdk/subsentence-class"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/subsentence-class",
+              "id": "python-sdk/subsentence-class",
+              "isDocsHomePage": false,
+              "title": "Subsentence class",
+              "description": "Subsentence inherits from TextChunk.",
+              "source": "@site/docs/python-sdk/subsentence-class.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/subsentence-class",
+              "permalink": "/docs/python-sdk/subsentence-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sentence class",
+                "permalink": "/docs/python-sdk/sentence-class"
+              },
+              "next": {
+                "title": "Token class",
+                "permalink": "/docs/python-sdk/token-class"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/texctchunk",
+              "id": "python-sdk/texctchunk",
+              "isDocsHomePage": false,
+              "title": "TextChunk",
+              "description": "What is TextChunk?",
+              "source": "@site/docs/python-sdk/texctchunk.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/texctchunk",
+              "permalink": "/docs/python-sdk/texctchunk",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NLP Class",
+                "permalink": "/docs/python-sdk/nlp-class"
+              },
+              "next": {
+                "title": "Document class",
+                "permalink": "/docs/python-sdk/document-class"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/token-class",
+              "id": "python-sdk/token-class",
+              "isDocsHomePage": false,
+              "title": "Token class",
+              "description": "Token stores data relative to a specific token. Tokens are delimited according to our Tokenizer.",
+              "source": "@site/docs/python-sdk/token-class.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/token-class",
+              "permalink": "/docs/python-sdk/token-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Subsentence class",
+                "permalink": "/docs/python-sdk/subsentence-class"
+              },
+              "next": {
+                "title": "Common properties",
+                "permalink": "/docs/python-sdk/common-properties"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/language-recognition",
+              "id": "Tutorials/language-recognition",
+              "isDocsHomePage": false,
+              "title": "Language Recognition",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/language-recognition.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/language-recognition",
+              "permalink": "/docs/Tutorials/language-recognition",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sentence type",
+                "permalink": "/docs/Tutorials/sentence-type"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/lemmatizer",
+              "id": "Tutorials/lemmatizer",
+              "isDocsHomePage": false,
+              "title": "Lemmatizer",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/lemmatizer.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/lemmatizer",
+              "permalink": "/docs/Tutorials/lemmatizer",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "POS tagger",
+                "permalink": "/docs/Tutorials/pos-tagger"
+              },
+              "next": {
+                "title": "Sentence type",
+                "permalink": "/docs/Tutorials/sentence-type"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/pos-tagger",
+              "id": "Tutorials/pos-tagger",
+              "isDocsHomePage": false,
+              "title": "POS tagger",
+              "description": "What’s a pos-tagger ?",
+              "source": "@site/docs/Tutorials/pos-tagger.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/pos-tagger",
+              "permalink": "/docs/Tutorials/pos-tagger",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Categories",
+                "permalink": "/docs/API/Glossary/categories"
+              },
+              "next": {
+                "title": "Lemmatizer",
+                "permalink": "/docs/Tutorials/lemmatizer"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/sentence-type",
+              "id": "Tutorials/sentence-type",
+              "isDocsHomePage": false,
+              "title": "Sentence type",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/sentence-type.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/sentence-type",
+              "permalink": "/docs/Tutorials/sentence-type",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lemmatizer",
+                "permalink": "/docs/Tutorials/lemmatizer"
+              },
+              "next": {
+                "title": "Language Recognition",
+                "permalink": "/docs/Tutorials/language-recognition"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Python SDK",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/nlp-class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/texctchunk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/document-class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/sentence-class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/subsentence-class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/token-class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/common-properties"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/client-class"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/patterns"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "API/lettria-sentence-object"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/synthesis"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/emoticons"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/language-used"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/pos-tagger"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/disturbance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/nlp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/nlu"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/entities-numeral"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/ner"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/parser-dependency"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/coreference"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/sentence-acts"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/emotions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/sentiment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/ml-emotion"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/ml-sentiment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/proposition"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Glossary",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/tags"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/dependency-tags"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/possessive-determiners"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/pronouns"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/conjugations"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/entities"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "API/Glossary/categories"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Tutorials",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/pos-tagger"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/lemmatizer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/sentence-type"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/language-recognition"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

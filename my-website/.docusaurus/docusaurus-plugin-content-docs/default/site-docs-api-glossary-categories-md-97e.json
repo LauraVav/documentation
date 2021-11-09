@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/categories",
+  "id": "API/Glossary/categories",
+  "isDocsHomePage": false,
+  "title": "Categories",
+  "description": "List of all categories that can be found in Category Objects. Categories are organised by super-categories, each containing a number of sub-categories.",
+  "source": "@site/docs/API/Glossary/categories.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/categories",
+  "permalink": "/docs/API/Glossary/categories",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/docs/API/Glossary/entities"
+  },
+  "next": {
+    "title": "POS tagger",
+    "permalink": "/docs/Tutorials/pos-tagger"
+  }
+}

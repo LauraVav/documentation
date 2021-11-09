@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/ner",
+  "id": "API/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "The NER sub-api lists all the Numeral Entities and Named Entities found in the sentence.",
+  "source": "@site/docs/API/ner.md",
+  "sourceDirName": "API",
+  "slug": "/API/ner",
+  "permalink": "/docs/API/ner",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entities numeral",
+    "permalink": "/docs/API/entities-numeral"
+  },
+  "next": {
+    "title": "Parser dependency",
+    "permalink": "/docs/API/parser-dependency"
+  }
+}

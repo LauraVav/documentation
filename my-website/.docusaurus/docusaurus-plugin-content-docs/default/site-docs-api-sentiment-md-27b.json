@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentiment",
+  "id": "API/sentiment",
+  "isDocsHomePage": false,
+  "title": "Sentiment",
+  "description": "Sentiment Object",
+  "source": "@site/docs/API/sentiment.md",
+  "sourceDirName": "API",
+  "slug": "/API/sentiment",
+  "permalink": "/docs/API/sentiment",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emotions",
+    "permalink": "/docs/API/emotions"
+  },
+  "next": {
+    "title": "ML emotion",
+    "permalink": "/docs/API/ml-emotion"
+  }
+}

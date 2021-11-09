@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/proposition",
+  "id": "API/proposition",
+  "isDocsHomePage": false,
+  "title": "Proposition",
+  "description": "Subsentence Object",
+  "source": "@site/docs/API/proposition.md",
+  "sourceDirName": "API",
+  "slug": "/API/proposition",
+  "permalink": "/docs/API/proposition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML sentiment",
+    "permalink": "/docs/API/ml-sentiment"
+  },
+  "next": {
+    "title": "Tags",
+    "permalink": "/docs/API/Glossary/tags"
+  }
+}
