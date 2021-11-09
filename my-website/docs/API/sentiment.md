@@ -44,3 +44,14 @@ Subject is the word which represents the subject of the action1
 Source is the word which conveys the sentiment
 
 Target is the word which represents the target of the sentiment
+
+## Sentiment Values Object
+
+| KEY      	| TYPE  	| DESCRIPTION                                                          	| CONSTRAINTS        	|
+|----------	|-------	|----------------------------------------------------------------------	|--------------------	|
+| positive 	| float 	| normalized addition of all positive sentiment values in the sentence 	| 0 <= positive < 1  	|
+| negative 	| float 	| normalized addition of all negative sentiment values in the sentence 	| -1 < negative <= 0 	|
+| total    	| float 	| positive + negative                                                  	| -1 < total < 1     	|
+
+
+Values are calculated either by using sentiment elements objects if available, or by a prediction model at the subsentence level. Values are normalized to stay in the the [-1 : 1] interval between element, subsentence and sentence level therefore comparisons should be made made with elements of the same depth.
