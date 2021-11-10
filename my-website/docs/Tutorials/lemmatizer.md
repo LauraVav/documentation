@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Video
 
-[![Lemma Video](/img/lemma-thumbnail.png)](https://youtu.be/hkvzQUJ7HM8)
+[![Lemma Video](/img/lemma-thumbnail.png)](https://youtu.be/8wqI7Wzoxkk)
 
 Lemmatization is a tool of computational linguistics that does the work of **extracting the lexical roots of words.** It does not rely on sentence construction but on the lexicon, bringing out the root form of the word without inflection (no “s” for plural or other suffixes, for example).
 

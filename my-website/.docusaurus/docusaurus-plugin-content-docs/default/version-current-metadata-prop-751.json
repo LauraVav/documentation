@@ -209,6 +209,54 @@
       },
       {
         "type": "category",
+        "label": "Tool Sheets",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Tokenizer",
+            "href": "/docs/Tool sheets/tokenizer"
+          },
+          {
+            "type": "link",
+            "label": "POS Tagger",
+            "href": "/docs/Tool sheets/pos-tagger"
+          },
+          {
+            "type": "link",
+            "label": "Lemmatizer",
+            "href": "/docs/Tool sheets/lemmatizer"
+          },
+          {
+            "type": "link",
+            "label": "Dependency Parser",
+            "href": "/docs/Tool sheets/dependency-parser"
+          },
+          {
+            "type": "link",
+            "label": "NLU",
+            "href": "/docs/Tool sheets/nlu"
+          },
+          {
+            "type": "link",
+            "label": "NER",
+            "href": "/docs/Tool sheets/ner"
+          },
+          {
+            "type": "link",
+            "label": "Sentiment Analysis",
+            "href": "/docs/Tool sheets/sentiment-analysis"
+          },
+          {
+            "type": "link",
+            "label": "Coreference",
+            "href": "/docs/Tool sheets/coreference"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Tutorials",
         "collapsible": true,
         "collapsed": true,
@@ -225,7 +273,7 @@
           },
           {
             "type": "link",
-            "label": "Sentence type",
+            "label": "Sentence Type",
             "href": "/docs/Tutorials/sentence-type"
           },
           {

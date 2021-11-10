@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool sheets/lemmatizer",
+  "id": "Tool sheets/lemmatizer",
+  "isDocsHomePage": false,
+  "title": "Lemmatizer",
+  "description": "What’s a lemmatizer?",
+  "source": "@site/docs/Tool sheets/lemmatizer.md",
+  "sourceDirName": "Tool sheets",
+  "slug": "/Tool sheets/lemmatizer",
+  "permalink": "/docs/Tool sheets/lemmatizer",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/docs/Tool sheets/pos-tagger"
+  },
+  "next": {
+    "title": "Dependency Parser",
+    "permalink": "/docs/Tool sheets/dependency-parser"
+  }
+}

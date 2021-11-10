@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool sheets/sentiment-analysis",
+  "id": "Tool sheets/sentiment-analysis",
+  "isDocsHomePage": false,
+  "title": "Sentiment Analysis",
+  "description": "What is sentiment analysis?",
+  "source": "@site/docs/Tool sheets/sentiment-analysis.md",
+  "sourceDirName": "Tool sheets",
+  "slug": "/Tool sheets/sentiment-analysis",
+  "permalink": "/docs/Tool sheets/sentiment-analysis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/docs/Tool sheets/ner"
+  },
+  "next": {
+    "title": "Coreference",
+    "permalink": "/docs/Tool sheets/coreference"
+  }
+}

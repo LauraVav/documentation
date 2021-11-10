@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Video
 
-[![POS Video](/img/POS-thumbnail.png)](https://youtu.be/Vmwbwvu4wEo)
+[![POS Video](/img/POS-thumbnail.png)](https://youtu.be/HoTprYNVQ20)
 
 ## What’s a pos-tagger ?
 

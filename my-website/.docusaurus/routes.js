@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','857'),
+    component: ComponentCreator('/docs','4bc'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -224,6 +224,54 @@ export default [
       {
         path: '/docs/python-sdk/token-class',
         component: ComponentCreator('/docs/python-sdk/token-class','aa2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/coreference',
+        component: ComponentCreator('/docs/Tool sheets/coreference','3e8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/dependency-parser',
+        component: ComponentCreator('/docs/Tool sheets/dependency-parser','d2b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/lemmatizer',
+        component: ComponentCreator('/docs/Tool sheets/lemmatizer','1fe'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/ner',
+        component: ComponentCreator('/docs/Tool sheets/ner','4f8'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/nlu',
+        component: ComponentCreator('/docs/Tool sheets/nlu','48a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/pos-tagger',
+        component: ComponentCreator('/docs/Tool sheets/pos-tagger','039'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/sentiment-analysis',
+        component: ComponentCreator('/docs/Tool sheets/sentiment-analysis','a7d'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tool sheets/tokenizer',
+        component: ComponentCreator('/docs/Tool sheets/tokenizer','178'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

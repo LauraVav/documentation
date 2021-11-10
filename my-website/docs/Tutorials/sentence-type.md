@@ -2,9 +2,11 @@
 sidebar_position: 3
 ---
 
-# Sentence type
+# Sentence Type
 
 ## Video
+
+[![Sentence Type Video](/img/sentence-type-thumbnail.png)](https://youtu.be/TRwULybXU7U)
 
 ## Tutorial
 

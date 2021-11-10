@@ -20,7 +20,7 @@
     "permalink": "/docs/API/Glossary/entities"
   },
   "next": {
-    "title": "POS tagger",
-    "permalink": "/docs/Tutorials/pos-tagger"
+    "title": "Tokenizer",
+    "permalink": "/docs/Tool sheets/tokenizer"
   }
 }

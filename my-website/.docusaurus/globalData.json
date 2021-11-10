@@ -186,6 +186,46 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tool sheets/coreference",
+              "path": "/docs/Tool sheets/coreference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/dependency-parser",
+              "path": "/docs/Tool sheets/dependency-parser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/lemmatizer",
+              "path": "/docs/Tool sheets/lemmatizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/ner",
+              "path": "/docs/Tool sheets/ner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/nlu",
+              "path": "/docs/Tool sheets/nlu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/pos-tagger",
+              "path": "/docs/Tool sheets/pos-tagger",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/sentiment-analysis",
+              "path": "/docs/Tool sheets/sentiment-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tool sheets/tokenizer",
+              "path": "/docs/Tool sheets/tokenizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/language-recognition",
               "path": "/docs/Tutorials/language-recognition",
               "sidebar": "tutorialSidebar"

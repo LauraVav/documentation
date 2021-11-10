@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ## Video
 
-[![Video](/img/LR-thumbnail.png)](https://www.youtube.com/watch?v=nx6ElALenPc)
+[![Video](/img/LR-thumbnail.png)](https://www.youtube.com/watch?v=dpoxhXB3gw0)
 
 ## Tutorial
 

@@ -4,23 +4,9 @@ sidebar_position: 5
 
 # Tokenizer
 
-## What’s a tokenizer?
+## Video
 
-A tokenizer is a tool founded on an algorithm based on a set of rules or on the learning of a manually-labelled corpus. **It allows text to be broken down into words.** It’s a morphological analysis.
-
-## What does it do? How does it work?
-
-Tokenization is a type of segmentation that **breaks down a sentence into multiple elements.**
-
-In Natural Language Processing (NLP), tokenization is a part of the standardization process. It segments the input text into manipulable linguistic units like words, punctuation, numbers, alphanumeric data, etc. Each element corresponds to a **token** that will be used for analysis.
-
-The goal of this process is to separate the basic units of a text that will then lend themselves to in-depth analysis. One might think that it would be sufficient to detect the spaces between words, but it’s not always that simple.
-
-What to do with hyphens? Where to cut when there are apostrophes? What to make of nominal phrases like “clothes iron” that are composed of several words but designate a single entity?
-
-So, if we accept that the word “go-to-market” is composed of 3 distinct lexical units, (go/to/market), it is more difficult to determine the number of words. One must **define that it’s a token** before pursuing the analysis.
-
-Efficient pattern recognition needs to adapt itself to the conveyed realities of the text subject to analysis. A tokenizer is completely dependent on the language we’re working on.
+[![Tokenizer Video](/img/tokenizer-thumbnail.png)](https://youtu.be/7uaUvXByu3w)
 
 ## Tutorial
 

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Categories",
-    "permalink": "/docs/API/Glossary/categories"
+    "title": "Coreference",
+    "permalink": "/docs/Tool sheets/coreference"
   },
   "next": {
     "title": "Lemmatizer",

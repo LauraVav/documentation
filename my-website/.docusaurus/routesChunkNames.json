@@ -7,7 +7,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/docs-857": {
+  "/docs-4bc": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -150,6 +150,38 @@
   "/docs/python-sdk/token-class-aa2": {
     "component": "17896441",
     "content": "08c2b411"
+  },
+  "/docs/Tool sheets/coreference-3e8": {
+    "component": "17896441",
+    "content": "cec50520"
+  },
+  "/docs/Tool sheets/dependency-parser-d2b": {
+    "component": "17896441",
+    "content": "5003798d"
+  },
+  "/docs/Tool sheets/lemmatizer-1fe": {
+    "component": "17896441",
+    "content": "25fe9aee"
+  },
+  "/docs/Tool sheets/ner-4f8": {
+    "component": "17896441",
+    "content": "7dd3bdef"
+  },
+  "/docs/Tool sheets/nlu-48a": {
+    "component": "17896441",
+    "content": "97d3c6d8"
+  },
+  "/docs/Tool sheets/pos-tagger-039": {
+    "component": "17896441",
+    "content": "bb4a62cf"
+  },
+  "/docs/Tool sheets/sentiment-analysis-a7d": {
+    "component": "17896441",
+    "content": "ba69a9d3"
+  },
+  "/docs/Tool sheets/tokenizer-178": {
+    "component": "17896441",
+    "content": "e0e2c136"
   },
   "/docs/Tutorials/language-recognition-fdd": {
     "component": "17896441",

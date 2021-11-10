@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool sheets/nlu",
+  "id": "Tool sheets/nlu",
+  "isDocsHomePage": false,
+  "title": "NLU",
+  "description": "What is Natural Language Understanding ?",
+  "source": "@site/docs/Tool sheets/nlu.md",
+  "sourceDirName": "Tool sheets",
+  "slug": "/Tool sheets/nlu",
+  "permalink": "/docs/Tool sheets/nlu",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependency Parser",
+    "permalink": "/docs/Tool sheets/dependency-parser"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/docs/Tool sheets/ner"
+  }
+}
