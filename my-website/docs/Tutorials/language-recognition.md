@@ -5,9 +5,9 @@ sidebar_position: 4
 # Language Recognition
 
 
-
 ## Video
 
+[![Video](/img/LR-thumbnail.png)](https://www.youtube.com/watch?v=nx6ElALenPc)
 
 ## Tutorial
 

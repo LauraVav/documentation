@@ -232,6 +232,11 @@
             "type": "link",
             "label": "Language Recognition",
             "href": "/docs/Tutorials/language-recognition"
+          },
+          {
+            "type": "link",
+            "label": "Tokenizer",
+            "href": "/docs/Tutorials/tokenizer"
           }
         ]
       }

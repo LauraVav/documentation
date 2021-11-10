@@ -204,6 +204,11 @@
               "id": "Tutorials/sentence-type",
               "path": "/docs/Tutorials/sentence-type",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/tokenizer",
+              "path": "/docs/Tutorials/tokenizer",
+              "sidebar": "tutorialSidebar"
             }
           ]
         }

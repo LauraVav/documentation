@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # POS tagger
 
+## Video
+
+[![POS Video](/img/POS-thumbnail.png)](https://youtu.be/Vmwbwvu4wEo)
+
 ## What’s a pos-tagger ?
 
 The part-of-speech (pos) tag or "tagging” dependent on parts of speech is a labelling process that **assigns all the words of a text to the correct grammatical elements.** It’s a morpho-syntactic labelling process at the word level, which is part of a larger process of computational linguistics.
@@ -16,8 +20,6 @@ A tag must:
 
 - Recognize the grammatical parameters of the word
 - Identify the function of the word in its context
-
-## Video
 
 ## Tutorial
 

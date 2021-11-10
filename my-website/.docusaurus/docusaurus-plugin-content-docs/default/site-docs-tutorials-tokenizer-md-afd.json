@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Tutorials/tokenizer",
+  "id": "Tutorials/tokenizer",
+  "isDocsHomePage": false,
+  "title": "Tokenizer",
+  "description": "What’s a tokenizer?",
+  "source": "@site/docs/Tutorials/tokenizer.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/tokenizer",
+  "permalink": "/docs/Tutorials/tokenizer",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Recognition",
+    "permalink": "/docs/Tutorials/language-recognition"
+  }
+}

@@ -943,6 +943,10 @@
               "previous": {
                 "title": "Sentence type",
                 "permalink": "/docs/Tutorials/sentence-type"
+              },
+              "next": {
+                "title": "Tokenizer",
+                "permalink": "/docs/Tutorials/tokenizer"
               }
             },
             {
@@ -976,7 +980,7 @@
               "id": "Tutorials/pos-tagger",
               "isDocsHomePage": false,
               "title": "POS tagger",
-              "description": "What’s a pos-tagger ?",
+              "description": "Video",
               "source": "@site/docs/Tutorials/pos-tagger.md",
               "sourceDirName": "Tutorials",
               "slug": "/Tutorials/pos-tagger",
@@ -1019,6 +1023,28 @@
                 "permalink": "/docs/Tutorials/lemmatizer"
               },
               "next": {
+                "title": "Language Recognition",
+                "permalink": "/docs/Tutorials/language-recognition"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/tokenizer",
+              "id": "Tutorials/tokenizer",
+              "isDocsHomePage": false,
+              "title": "Tokenizer",
+              "description": "What’s a tokenizer?",
+              "source": "@site/docs/Tutorials/tokenizer.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/tokenizer",
+              "permalink": "/docs/Tutorials/tokenizer",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
                 "title": "Language Recognition",
                 "permalink": "/docs/Tutorials/language-recognition"
               }
@@ -1211,6 +1237,10 @@
                   {
                     "type": "doc",
                     "id": "Tutorials/language-recognition"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/tokenizer"
                   }
                 ]
               }

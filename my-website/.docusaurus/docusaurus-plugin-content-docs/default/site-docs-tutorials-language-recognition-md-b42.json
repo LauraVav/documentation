@@ -18,5 +18,9 @@
   "previous": {
     "title": "Sentence type",
     "permalink": "/docs/Tutorials/sentence-type"
+  },
+  "next": {
+    "title": "Tokenizer",
+    "permalink": "/docs/Tutorials/tokenizer"
   }
 }
