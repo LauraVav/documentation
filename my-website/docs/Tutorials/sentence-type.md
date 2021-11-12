@@ -8,7 +8,11 @@ sidebar_position: 3
 
 [![Sentence Type Video](/img/sentence-type-thumbnail.png)](https://youtu.be/TRwULybXU7U)
 
-## Tutorial
+## What is sentence identification?
+
+Sentence identification is an **NLP tasks that have a wide range of applications such as document classification, spam filtering, and sentiment analysis**. The Lettria sentence type tool enables us to quickly recognize and extract the sentence type from your document. 
+
+## Importing the library & your personal API key
 
 In order to define the sentence type from your document you'll need to have your document saved on your computer.
 
@@ -24,8 +28,10 @@ via the Lettria platform in the dashboard.
 
 ```python
 api_key = 'your personal API key'
-api_key = 'your personal API key'
+nlp = lettria.NLP(api_key)
 ```
+
+## Adding your document
 
 Now you will need to open your saved document. Be sure to add the name of
 
@@ -36,11 +42,13 @@ with open("example.txt", "r") as f:
 	example_data = f.readlines()
 ```
 
-Next you will need to add your document to the NLP.
+Next I am going to add the document to the NLP.
 
 ```python
 nlp.add_document(example_data)
 ```
+
+## Extracting the sentence type
 
 Next I am going to add my sentence and print it.
 
@@ -51,9 +59,13 @@ for s in nlp.sentences:
 
 To see the type of sentence I am going to to print the sentence_type command in the the NLP.
 
+```python
 print([s.sentence_type for s in nlp.sentences])
+```
 
-As you can seen I have my sentence and my sentence type.
+The results will reveal your sentence type.
+
+## Saving your results
 
 If you have a lot of sentence to analyze you can save your results in a JSON file for further analysis
 

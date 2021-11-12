@@ -7,7 +7,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/docs-921": {
+  "/docs-3ab": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -182,6 +182,14 @@
   "/docs/Tool guides/tokenizer-1d0": {
     "component": "17896441",
     "content": "ccd01640"
+  },
+  "/docs/Tutorials/dependency-parser-663": {
+    "component": "17896441",
+    "content": "0057b8e1"
+  },
+  "/docs/Tutorials/emotion-analysis-8ff": {
+    "component": "17896441",
+    "content": "21d8d069"
   },
   "/docs/Tutorials/language-recognition-fdd": {
     "component": "17896441",

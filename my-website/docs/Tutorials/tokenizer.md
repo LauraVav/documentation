@@ -8,9 +8,11 @@ sidebar_position: 5
 
 [![Tokenizer Video](/img/tokenizer-thumbnail.png)](https://youtu.be/7uaUvXByu3w)
 
-## Tutorial
+# **What’s a tokenizer?**
 
-Tokenization is a type of segmentation that **breaks down a sentence into multiple elements.** The goal of this process is to separate the basic units of a text that will then lend themselves to in-depth analysis.
+A tokenizer is a tool founded on an algorithm based on a set of rules or on the learning of a manually-labelled corpus. **It allows text to be broken down into words.** It’s a morphological analysis.
+
+## Importing the library & adding your personal API Key
 
 If you want to extract tokens from your document you'll need to have your document saved on your computer.
 
@@ -29,6 +31,8 @@ api_key = 'your personal API key'
 nlp = lettria.NLP(api_key)
 ```
 
+## Adding your document
+
 Now you will need to open your saved document. Be sure to add the name of
 
 ‘your file’ since it may differ from the name of the example file.
@@ -44,12 +48,16 @@ Next add your document to the NLP.
 nlp.add_document(example_data)
 ```
 
+## Extracting tokens
+
 Next you will need to call the nlp and print all tokens from the document.
 
 ```python
 for t in nlp.tokens:
 	print(t.token)
 ```
+
+## Saving your results
 
 In order to save your results you can use the following command.
 

@@ -226,6 +226,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/dependency-parser",
+              "path": "/docs/Tutorials/dependency-parser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/emotion-analysis",
+              "path": "/docs/Tutorials/emotion-analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/language-recognition",
               "path": "/docs/Tutorials/language-recognition",
               "sidebar": "tutorialSidebar"

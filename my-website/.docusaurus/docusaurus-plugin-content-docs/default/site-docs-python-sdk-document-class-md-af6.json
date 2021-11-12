@@ -2,7 +2,7 @@
   "unversionedId": "python-sdk/document-class",
   "id": "python-sdk/document-class",
   "isDocsHomePage": false,
-  "title": "Document class",
+  "title": "Document Class",
   "description": "Document inherits from TextChunk.",
   "source": "@site/docs/python-sdk/document-class.md",
   "sourceDirName": "python-sdk",
@@ -20,7 +20,7 @@
     "permalink": "/docs/python-sdk/texctchunk"
   },
   "next": {
-    "title": "Sentence class",
+    "title": "Sentence Class",
     "permalink": "/docs/python-sdk/sentence-class"
   }
 }

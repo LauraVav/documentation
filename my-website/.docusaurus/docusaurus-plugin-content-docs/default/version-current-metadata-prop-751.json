@@ -31,32 +31,32 @@
           },
           {
             "type": "link",
-            "label": "Document class",
+            "label": "Document Class",
             "href": "/docs/python-sdk/document-class"
           },
           {
             "type": "link",
-            "label": "Sentence class",
+            "label": "Sentence Class",
             "href": "/docs/python-sdk/sentence-class"
           },
           {
             "type": "link",
-            "label": "Subsentence class",
+            "label": "Subsentence Class",
             "href": "/docs/python-sdk/subsentence-class"
           },
           {
             "type": "link",
-            "label": "Token class",
+            "label": "Token Class",
             "href": "/docs/python-sdk/token-class"
           },
           {
             "type": "link",
-            "label": "Common properties",
+            "label": "Common Properties",
             "href": "/docs/python-sdk/common-properties"
           },
           {
             "type": "link",
-            "label": "Client class",
+            "label": "Client Class",
             "href": "/docs/python-sdk/client-class"
           },
           {
@@ -74,7 +74,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Lettria sentence object",
+            "label": "Lettria Sentence Object",
             "href": "/docs/API/lettria-sentence-object"
           },
           {
@@ -89,12 +89,12 @@
           },
           {
             "type": "link",
-            "label": "Language used",
+            "label": "Language Used",
             "href": "/docs/API/language-used"
           },
           {
             "type": "link",
-            "label": "POS tagger",
+            "label": "POS Tagger",
             "href": "/docs/API/pos-tagger"
           },
           {
@@ -114,7 +114,7 @@
           },
           {
             "type": "link",
-            "label": "Entities numeral",
+            "label": "Entities Numeral",
             "href": "/docs/API/entities-numeral"
           },
           {
@@ -124,7 +124,7 @@
           },
           {
             "type": "link",
-            "label": "Parser dependency",
+            "label": "Parser Dependency",
             "href": "/docs/API/parser-dependency"
           },
           {
@@ -134,7 +134,7 @@
           },
           {
             "type": "link",
-            "label": "Sentence acts",
+            "label": "Sentence Acts",
             "href": "/docs/API/sentence-acts"
           },
           {
@@ -149,12 +149,12 @@
           },
           {
             "type": "link",
-            "label": "ML emotion",
+            "label": "ML Emotion",
             "href": "/docs/API/ml-emotion"
           },
           {
             "type": "link",
-            "label": "ML sentiment",
+            "label": "ML Sentiment",
             "href": "/docs/API/ml-sentiment"
           },
           {
@@ -175,12 +175,12 @@
               },
               {
                 "type": "link",
-                "label": "Dependency tags",
+                "label": "Dependency Tags",
                 "href": "/docs/API/Glossary/dependency-tags"
               },
               {
                 "type": "link",
-                "label": "Possessive determiners",
+                "label": "Possessive Determiners",
                 "href": "/docs/API/Glossary/possessive-determiners"
               },
               {
@@ -263,7 +263,7 @@
         "items": [
           {
             "type": "link",
-            "label": "POS tagger",
+            "label": "POS Tagger",
             "href": "/docs/Tutorials/pos-tagger"
           },
           {
@@ -285,6 +285,16 @@
             "type": "link",
             "label": "Tokenizer",
             "href": "/docs/Tutorials/tokenizer"
+          },
+          {
+            "type": "link",
+            "label": "Dependency Parser",
+            "href": "/docs/Tutorials/dependency-parser"
+          },
+          {
+            "type": "link",
+            "label": "Emotion Analysis",
+            "href": "/docs/Tutorials/emotion-analysis"
           }
         ]
       }

@@ -9,7 +9,13 @@ sidebar_position: 4
 
 [![Video](/img/LR-thumbnail.png)](https://www.youtube.com/watch?v=dpoxhXB3gw0)
 
-## Tutorial
+[Language recognition V7.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a81f07d9-7065-4eaf-871d-361c46b6be1b/Language_recognition_V7.mp4)
+
+## What is language recognition?
+
+In natural language processing, language identification or language guessing is the problem of determining which natural language given content is in. Computational approaches to this problem view it as a special case of text categorization, solved with various statistical methods. 
+
+## Importing the library & your personal API key
 
 In order to extract the language you'll need to have you document saved on your computer.
 
@@ -28,6 +34,8 @@ api_key = 'your personal API key'
 nlp = lettria.NLP(api_key)
 ```
 
+## Adding your document
+
 Now you will need to open your saved document. Be sure to add the name of
 
 ‘your file’ since it may differ from the name of my example file.
@@ -41,6 +49,13 @@ Next I am going to add the document to the NLP and then print the results.
 
 ```python
 nlp.add_document(example_data)
+```
+
+## Extracting the language
+
+In order to extract the language of your document add the following command and run your code.
+
+```python
 print([s.language for s in nlp.sentences])
 ```
 

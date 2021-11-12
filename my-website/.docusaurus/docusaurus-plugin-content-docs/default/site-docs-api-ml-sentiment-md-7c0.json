@@ -2,7 +2,7 @@
   "unversionedId": "API/ml-sentiment",
   "id": "API/ml-sentiment",
   "isDocsHomePage": false,
-  "title": "ML sentiment",
+  "title": "ML Sentiment",
   "description": "Subsentences IA Sentiment Object",
   "source": "@site/docs/API/ml-sentiment.md",
   "sourceDirName": "API",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ML emotion",
+    "title": "ML Emotion",
     "permalink": "/docs/API/ml-emotion"
   },
   "next": {

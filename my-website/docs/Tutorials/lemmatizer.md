@@ -8,28 +8,13 @@ sidebar_position: 2
 
 [![Lemma Video](/img/lemma-thumbnail.png)](https://youtu.be/8wqI7Wzoxkk)
 
+## What’s a lemmatizer?
+
 Lemmatization is a tool of computational linguistics that does the work of **extracting the lexical roots of words.** It does not rely on sentence construction but on the lexicon, bringing out the root form of the word without inflection (no “s” for plural or other suffixes, for example).
 
-## What does it do? How does it work?
+**What does it do? How does it work?**
 
-A lemma should:
-
-- reveal the generic form of the word
-- make it possible to establish a lexical network in a document
-
-### Example:
-
-The lemma of the common noun "horses" is "horse." The lemma of the conjugated verb "ate" is "eat."
-
-In Natural Language Processing (NLP), lemmatization makes possible the recognition of words as they’re listed in the dictionary. It removes marks related to number or conjugation, resetting all verbs to the infinitive and reducing the phenomenon of derivation (which means, adding an affix that changes the sense of the word, like im-possible).
-
-Lemmatization allows us to identify the **primary and generic form of words.** Contrary to the stem that appears without affix and leaves the word unrecognizable, the lemma is content to return to its generic form. At Lettria, nous we privilege the use of lemmas over stems.
-
-**Example:**
-
-The stem of the common noun “mountain” is “mount,” and its lemma is “mountain.”
-
-## Tutorial
+## Importing the library & your personal API key
 
 If you want to extract the lexical roots of words you can use the lemmatization tool.
 
@@ -48,6 +33,8 @@ api_key = ‘api_key’
 nlp = lettria.NLP(api_key)
 ```
 
+## Adding your document
+
 Next you'll need to add your document.
 
 ```python
@@ -57,11 +44,15 @@ with open("example.txt", "r") as f:
 nlp.add_document(example_data)
 ```
 
+## Extracting lemmas
+
 In order to extract the lemma for each token in a sentences you can print the following command.
 
 ```python
 print([s.lemma for s in nlp.sentences])
 ```
+
+## Saving your results
 
 In order to save your results you can use the following command.
 

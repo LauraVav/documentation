@@ -35,11 +35,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Parser dependency",
+                "title": "Parser Dependency",
                 "permalink": "/docs/API/parser-dependency"
               },
               "next": {
-                "title": "Sentence acts",
+                "title": "Sentence Acts",
                 "permalink": "/docs/API/sentence-acts"
               }
             },
@@ -61,7 +61,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "POS tagger",
+                "title": "POS Tagger",
                 "permalink": "/docs/API/pos-tagger"
               },
               "next": {
@@ -91,7 +91,7 @@
                 "permalink": "/docs/API/synthesis"
               },
               "next": {
-                "title": "Language used",
+                "title": "Language Used",
                 "permalink": "/docs/API/language-used"
               }
             },
@@ -113,7 +113,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sentence acts",
+                "title": "Sentence Acts",
                 "permalink": "/docs/API/sentence-acts"
               },
               "next": {
@@ -125,7 +125,7 @@
               "unversionedId": "API/entities-numeral",
               "id": "API/entities-numeral",
               "isDocsHomePage": false,
-              "title": "Entities numeral",
+              "title": "Entities Numeral",
               "description": "Numeral Entity Object",
               "source": "@site/docs/API/entities-numeral.md",
               "sourceDirName": "API",
@@ -203,7 +203,7 @@
               "unversionedId": "API/Glossary/dependency-tags",
               "id": "API/Glossary/dependency-tags",
               "isDocsHomePage": false,
-              "title": "Dependency tags",
+              "title": "Dependency Tags",
               "description": "We use the universal dependencies for our dependency parser.",
               "source": "@site/docs/API/Glossary/dependency-tags.md",
               "sourceDirName": "API/Glossary",
@@ -221,7 +221,7 @@
                 "permalink": "/docs/API/Glossary/tags"
               },
               "next": {
-                "title": "Possessive determiners",
+                "title": "Possessive Determiners",
                 "permalink": "/docs/API/Glossary/possessive-determiners"
               }
             },
@@ -255,7 +255,7 @@
               "unversionedId": "API/Glossary/possessive-determiners",
               "id": "API/Glossary/possessive-determiners",
               "isDocsHomePage": false,
-              "title": "Possessive determiners",
+              "title": "Possessive Determiners",
               "description": "| VALUE \t| EXAMPLES \t|",
               "source": "@site/docs/API/Glossary/possessive-determiners.md",
               "sourceDirName": "API/Glossary",
@@ -269,7 +269,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Dependency tags",
+                "title": "Dependency Tags",
                 "permalink": "/docs/API/Glossary/dependency-tags"
               },
               "next": {
@@ -295,7 +295,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Possessive determiners",
+                "title": "Possessive Determiners",
                 "permalink": "/docs/API/Glossary/possessive-determiners"
               },
               "next": {
@@ -325,7 +325,7 @@
                 "permalink": "/docs/API/proposition"
               },
               "next": {
-                "title": "Dependency tags",
+                "title": "Dependency Tags",
                 "permalink": "/docs/API/Glossary/dependency-tags"
               }
             },
@@ -333,7 +333,7 @@
               "unversionedId": "API/language-used",
               "id": "API/language-used",
               "isDocsHomePage": false,
-              "title": "Language used",
+              "title": "Language Used",
               "description": "Language used Object",
               "source": "@site/docs/API/language-used.md",
               "sourceDirName": "API",
@@ -351,7 +351,7 @@
                 "permalink": "/docs/API/emoticons"
               },
               "next": {
-                "title": "POS tagger",
+                "title": "POS Tagger",
                 "permalink": "/docs/API/pos-tagger"
               }
             },
@@ -359,7 +359,7 @@
               "unversionedId": "API/lettria-sentence-object",
               "id": "API/lettria-sentence-object",
               "isDocsHomePage": false,
-              "title": "Lettria sentence object",
+              "title": "Lettria Sentence Object",
               "description": "In this object, each key corresponds to the returned object from a sub-API.",
               "source": "@site/docs/API/lettria-sentence-object.md",
               "sourceDirName": "API",
@@ -385,7 +385,7 @@
               "unversionedId": "API/ml-emotion",
               "id": "API/ml-emotion",
               "isDocsHomePage": false,
-              "title": "ML emotion",
+              "title": "ML Emotion",
               "description": "ML emotion is a multilabel model that returns the emotions expressed in a sentence or subsentence.",
               "source": "@site/docs/API/ml-emotion.md",
               "sourceDirName": "API",
@@ -403,7 +403,7 @@
                 "permalink": "/docs/API/sentiment"
               },
               "next": {
-                "title": "ML sentiment",
+                "title": "ML Sentiment",
                 "permalink": "/docs/API/ml-sentiment"
               }
             },
@@ -411,7 +411,7 @@
               "unversionedId": "API/ml-sentiment",
               "id": "API/ml-sentiment",
               "isDocsHomePage": false,
-              "title": "ML sentiment",
+              "title": "ML Sentiment",
               "description": "Subsentences IA Sentiment Object",
               "source": "@site/docs/API/ml-sentiment.md",
               "sourceDirName": "API",
@@ -425,7 +425,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ML emotion",
+                "title": "ML Emotion",
                 "permalink": "/docs/API/ml-emotion"
               },
               "next": {
@@ -451,11 +451,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Entities numeral",
+                "title": "Entities Numeral",
                 "permalink": "/docs/API/entities-numeral"
               },
               "next": {
-                "title": "Parser dependency",
+                "title": "Parser Dependency",
                 "permalink": "/docs/API/parser-dependency"
               }
             },
@@ -507,7 +507,7 @@
                 "permalink": "/docs/API/nlp"
               },
               "next": {
-                "title": "Entities numeral",
+                "title": "Entities Numeral",
                 "permalink": "/docs/API/entities-numeral"
               }
             },
@@ -515,7 +515,7 @@
               "unversionedId": "API/parser-dependency",
               "id": "API/parser-dependency",
               "isDocsHomePage": false,
-              "title": "Parser dependency",
+              "title": "Parser Dependency",
               "description": "Dependency Object",
               "source": "@site/docs/API/parser-dependency.md",
               "sourceDirName": "API",
@@ -541,7 +541,7 @@
               "unversionedId": "API/pos-tagger",
               "id": "API/pos-tagger",
               "isDocsHomePage": false,
-              "title": "POS tagger",
+              "title": "POS Tagger",
               "description": "POS Tagger Object",
               "source": "@site/docs/API/pos-tagger.md",
               "sourceDirName": "API",
@@ -555,7 +555,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Language used",
+                "title": "Language Used",
                 "permalink": "/docs/API/language-used"
               },
               "next": {
@@ -581,7 +581,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ML sentiment",
+                "title": "ML Sentiment",
                 "permalink": "/docs/API/ml-sentiment"
               },
               "next": {
@@ -593,7 +593,7 @@
               "unversionedId": "API/sentence-acts",
               "id": "API/sentence-acts",
               "isDocsHomePage": false,
-              "title": "Sentence acts",
+              "title": "Sentence Acts",
               "description": "Sentence_acts Object",
               "source": "@site/docs/API/sentence-acts.md",
               "sourceDirName": "API",
@@ -637,7 +637,7 @@
                 "permalink": "/docs/API/emotions"
               },
               "next": {
-                "title": "ML emotion",
+                "title": "ML Emotion",
                 "permalink": "/docs/API/ml-emotion"
               }
             },
@@ -659,7 +659,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Lettria sentence object",
+                "title": "Lettria Sentence Object",
                 "permalink": "/docs/API/lettria-sentence-object"
               },
               "next": {
@@ -693,7 +693,7 @@
               "unversionedId": "python-sdk/client-class",
               "id": "python-sdk/client-class",
               "isDocsHomePage": false,
-              "title": "Client class",
+              "title": "Client Class",
               "description": "Client used to perform requests to our API.",
               "source": "@site/docs/python-sdk/client-class.md",
               "sourceDirName": "python-sdk",
@@ -707,7 +707,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Common properties",
+                "title": "Common Properties",
                 "permalink": "/docs/python-sdk/common-properties"
               },
               "next": {
@@ -719,7 +719,7 @@
               "unversionedId": "python-sdk/common-properties",
               "id": "python-sdk/common-properties",
               "isDocsHomePage": false,
-              "title": "Common properties",
+              "title": "Common Properties",
               "description": "These properties are accessible at all analysis levels : NLP, Document, Sentence, Subsentence, Token.",
               "source": "@site/docs/python-sdk/common-properties.md",
               "sourceDirName": "python-sdk",
@@ -733,11 +733,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Token class",
+                "title": "Token Class",
                 "permalink": "/docs/python-sdk/token-class"
               },
               "next": {
-                "title": "Client class",
+                "title": "Client Class",
                 "permalink": "/docs/python-sdk/client-class"
               }
             },
@@ -745,7 +745,7 @@
               "unversionedId": "python-sdk/document-class",
               "id": "python-sdk/document-class",
               "isDocsHomePage": false,
-              "title": "Document class",
+              "title": "Document Class",
               "description": "Document inherits from TextChunk.",
               "source": "@site/docs/python-sdk/document-class.md",
               "sourceDirName": "python-sdk",
@@ -763,7 +763,7 @@
                 "permalink": "/docs/python-sdk/texctchunk"
               },
               "next": {
-                "title": "Sentence class",
+                "title": "Sentence Class",
                 "permalink": "/docs/python-sdk/sentence-class"
               }
             },
@@ -811,11 +811,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Client class",
+                "title": "Client Class",
                 "permalink": "/docs/python-sdk/client-class"
               },
               "next": {
-                "title": "Lettria sentence object",
+                "title": "Lettria Sentence Object",
                 "permalink": "/docs/API/lettria-sentence-object"
               }
             },
@@ -823,7 +823,7 @@
               "unversionedId": "python-sdk/sentence-class",
               "id": "python-sdk/sentence-class",
               "isDocsHomePage": false,
-              "title": "Sentence class",
+              "title": "Sentence Class",
               "description": "Sentence inherits from TextChunk.",
               "source": "@site/docs/python-sdk/sentence-class.md",
               "sourceDirName": "python-sdk",
@@ -837,11 +837,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Document class",
+                "title": "Document Class",
                 "permalink": "/docs/python-sdk/document-class"
               },
               "next": {
-                "title": "Subsentence class",
+                "title": "Subsentence Class",
                 "permalink": "/docs/python-sdk/subsentence-class"
               }
             },
@@ -849,7 +849,7 @@
               "unversionedId": "python-sdk/subsentence-class",
               "id": "python-sdk/subsentence-class",
               "isDocsHomePage": false,
-              "title": "Subsentence class",
+              "title": "Subsentence Class",
               "description": "Subsentence inherits from TextChunk.",
               "source": "@site/docs/python-sdk/subsentence-class.md",
               "sourceDirName": "python-sdk",
@@ -863,11 +863,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sentence class",
+                "title": "Sentence Class",
                 "permalink": "/docs/python-sdk/sentence-class"
               },
               "next": {
-                "title": "Token class",
+                "title": "Token Class",
                 "permalink": "/docs/python-sdk/token-class"
               }
             },
@@ -893,7 +893,7 @@
                 "permalink": "/docs/python-sdk/nlp-class"
               },
               "next": {
-                "title": "Document class",
+                "title": "Document Class",
                 "permalink": "/docs/python-sdk/document-class"
               }
             },
@@ -901,7 +901,7 @@
               "unversionedId": "python-sdk/token-class",
               "id": "python-sdk/token-class",
               "isDocsHomePage": false,
-              "title": "Token class",
+              "title": "Token Class",
               "description": "Token stores data relative to a specific token. Tokens are delimited according to our Tokenizer.",
               "source": "@site/docs/python-sdk/token-class.md",
               "sourceDirName": "python-sdk",
@@ -915,11 +915,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Subsentence class",
+                "title": "Subsentence Class",
                 "permalink": "/docs/python-sdk/subsentence-class"
               },
               "next": {
-                "title": "Common properties",
+                "title": "Common Properties",
                 "permalink": "/docs/python-sdk/common-properties"
               }
             },
@@ -945,7 +945,7 @@
                 "permalink": "/docs/Tool guides/sentiment-analysis"
               },
               "next": {
-                "title": "POS tagger",
+                "title": "POS Tagger",
                 "permalink": "/docs/Tutorials/pos-tagger"
               }
             },
@@ -1132,6 +1132,54 @@
               }
             },
             {
+              "unversionedId": "Tutorials/dependency-parser",
+              "id": "Tutorials/dependency-parser",
+              "isDocsHomePage": false,
+              "title": "Dependency Parser",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/dependency-parser.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/dependency-parser",
+              "permalink": "/docs/Tutorials/dependency-parser",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tokenizer",
+                "permalink": "/docs/Tutorials/tokenizer"
+              },
+              "next": {
+                "title": "Emotion Analysis",
+                "permalink": "/docs/Tutorials/emotion-analysis"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/emotion-analysis",
+              "id": "Tutorials/emotion-analysis",
+              "isDocsHomePage": false,
+              "title": "Emotion Analysis",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/emotion-analysis.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/emotion-analysis",
+              "permalink": "/docs/Tutorials/emotion-analysis",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dependency Parser",
+                "permalink": "/docs/Tutorials/dependency-parser"
+              }
+            },
+            {
               "unversionedId": "Tutorials/language-recognition",
               "id": "Tutorials/language-recognition",
               "isDocsHomePage": false,
@@ -1175,7 +1223,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "POS tagger",
+                "title": "POS Tagger",
                 "permalink": "/docs/Tutorials/pos-tagger"
               },
               "next": {
@@ -1187,7 +1235,7 @@
               "unversionedId": "Tutorials/pos-tagger",
               "id": "Tutorials/pos-tagger",
               "isDocsHomePage": false,
-              "title": "POS tagger",
+              "title": "POS Tagger",
               "description": "Video",
               "source": "@site/docs/Tutorials/pos-tagger.md",
               "sourceDirName": "Tutorials",
@@ -1255,6 +1303,10 @@
               "previous": {
                 "title": "Language Recognition",
                 "permalink": "/docs/Tutorials/language-recognition"
+              },
+              "next": {
+                "title": "Dependency Parser",
+                "permalink": "/docs/Tutorials/dependency-parser"
               }
             }
           ],
@@ -1489,6 +1541,14 @@
                   {
                     "type": "doc",
                     "id": "Tutorials/tokenizer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/dependency-parser"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/emotion-analysis"
                   }
                 ]
               }

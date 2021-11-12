@@ -2,7 +2,7 @@
   "unversionedId": "API/pos-tagger",
   "id": "API/pos-tagger",
   "isDocsHomePage": false,
-  "title": "POS tagger",
+  "title": "POS Tagger",
   "description": "POS Tagger Object",
   "source": "@site/docs/API/pos-tagger.md",
   "sourceDirName": "API",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Language used",
+    "title": "Language Used",
     "permalink": "/docs/API/language-used"
   },
   "next": {

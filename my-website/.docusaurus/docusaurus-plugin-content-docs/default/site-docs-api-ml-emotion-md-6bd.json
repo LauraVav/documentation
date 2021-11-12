@@ -2,7 +2,7 @@
   "unversionedId": "API/ml-emotion",
   "id": "API/ml-emotion",
   "isDocsHomePage": false,
-  "title": "ML emotion",
+  "title": "ML Emotion",
   "description": "ML emotion is a multilabel model that returns the emotions expressed in a sentence or subsentence.",
   "source": "@site/docs/API/ml-emotion.md",
   "sourceDirName": "API",
@@ -20,7 +20,7 @@
     "permalink": "/docs/API/sentiment"
   },
   "next": {
-    "title": "ML sentiment",
+    "title": "ML Sentiment",
     "permalink": "/docs/API/ml-sentiment"
   }
 }

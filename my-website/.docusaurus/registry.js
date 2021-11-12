@@ -1,4 +1,5 @@
 export default {
+  '0057b8e1': [() => import(/* webpackChunkName: '0057b8e1' */ "@site/docs/Tutorials/dependency-parser.md"), "@site/docs/Tutorials/dependency-parser.md", require.resolveWeak("@site/docs/Tutorials/dependency-parser.md")],
   '07568f6f': [() => import(/* webpackChunkName: '07568f6f' */ "@site/docs/Tool guides/coreference.md"), "@site/docs/Tool guides/coreference.md", require.resolveWeak("@site/docs/Tool guides/coreference.md")],
   '08c2b411': [() => import(/* webpackChunkName: '08c2b411' */ "@site/docs/python-sdk/token-class.md"), "@site/docs/python-sdk/token-class.md", require.resolveWeak("@site/docs/python-sdk/token-class.md")],
   '0d64709c': [() => import(/* webpackChunkName: '0d64709c' */ "@site/docs/API/emoticons.md"), "@site/docs/API/emoticons.md", require.resolveWeak("@site/docs/API/emoticons.md")],
@@ -8,6 +9,7 @@ export default {
   '1be78505': [() => import(/* webpackChunkName: '1be78505' */ "@theme/DocPage"), "@theme/DocPage", require.resolveWeak("@theme/DocPage")],
   '1ec54424': [() => import(/* webpackChunkName: '1ec54424' */ "@site/docs/API/sentence-acts.md"), "@site/docs/API/sentence-acts.md", require.resolveWeak("@site/docs/API/sentence-acts.md")],
   '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ "@theme/MDXPage"), "@theme/MDXPage", require.resolveWeak("@theme/MDXPage")],
+  '21d8d069': [() => import(/* webpackChunkName: '21d8d069' */ "@site/docs/Tutorials/emotion-analysis.md"), "@site/docs/Tutorials/emotion-analysis.md", require.resolveWeak("@site/docs/Tutorials/emotion-analysis.md")],
   '26f26f5e': [() => import(/* webpackChunkName: '26f26f5e' */ "@site/docs/Tool guides/nlu.md"), "@site/docs/Tool guides/nlu.md", require.resolveWeak("@site/docs/Tool guides/nlu.md")],
   '27ba40ad': [() => import(/* webpackChunkName: '27ba40ad' */ "@site/docs/API/sentiment.md"), "@site/docs/API/sentiment.md", require.resolveWeak("@site/docs/API/sentiment.md")],
   '2997dc57': [() => import(/* webpackChunkName: '2997dc57' */ "@site/docs/Tool guides/ner.md"), "@site/docs/Tool guides/ner.md", require.resolveWeak("@site/docs/Tool guides/ner.md")],

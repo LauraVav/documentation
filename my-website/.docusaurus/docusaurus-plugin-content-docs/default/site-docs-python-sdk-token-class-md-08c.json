@@ -2,7 +2,7 @@
   "unversionedId": "python-sdk/token-class",
   "id": "python-sdk/token-class",
   "isDocsHomePage": false,
-  "title": "Token class",
+  "title": "Token Class",
   "description": "Token stores data relative to a specific token. Tokens are delimited according to our Tokenizer.",
   "source": "@site/docs/python-sdk/token-class.md",
   "sourceDirName": "python-sdk",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Subsentence class",
+    "title": "Subsentence Class",
     "permalink": "/docs/python-sdk/subsentence-class"
   },
   "next": {
-    "title": "Common properties",
+    "title": "Common Properties",
     "permalink": "/docs/python-sdk/common-properties"
   }
 }

@@ -2,7 +2,7 @@
   "unversionedId": "API/parser-dependency",
   "id": "API/parser-dependency",
   "isDocsHomePage": false,
-  "title": "Parser dependency",
+  "title": "Parser Dependency",
   "description": "Dependency Object",
   "source": "@site/docs/API/parser-dependency.md",
   "sourceDirName": "API",

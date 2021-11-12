@@ -2,7 +2,7 @@
   "unversionedId": "python-sdk/client-class",
   "id": "python-sdk/client-class",
   "isDocsHomePage": false,
-  "title": "Client class",
+  "title": "Client Class",
   "description": "Client used to perform requests to our API.",
   "source": "@site/docs/python-sdk/client-class.md",
   "sourceDirName": "python-sdk",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Common properties",
+    "title": "Common Properties",
     "permalink": "/docs/python-sdk/common-properties"
   },
   "next": {

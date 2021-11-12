@@ -2,7 +2,7 @@
   "unversionedId": "API/lettria-sentence-object",
   "id": "API/lettria-sentence-object",
   "isDocsHomePage": false,
-  "title": "Lettria sentence object",
+  "title": "Lettria Sentence Object",
   "description": "In this object, each key corresponds to the returned object from a sub-API.",
   "source": "@site/docs/API/lettria-sentence-object.md",
   "sourceDirName": "API",

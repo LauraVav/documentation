@@ -2,7 +2,7 @@
   "unversionedId": "API/Glossary/dependency-tags",
   "id": "API/Glossary/dependency-tags",
   "isDocsHomePage": false,
-  "title": "Dependency tags",
+  "title": "Dependency Tags",
   "description": "We use the universal dependencies for our dependency parser.",
   "source": "@site/docs/API/Glossary/dependency-tags.md",
   "sourceDirName": "API/Glossary",
@@ -20,7 +20,7 @@
     "permalink": "/docs/API/Glossary/tags"
   },
   "next": {
-    "title": "Possessive determiners",
+    "title": "Possessive Determiners",
     "permalink": "/docs/API/Glossary/possessive-determiners"
   }
 }

@@ -2,7 +2,7 @@
   "unversionedId": "API/language-used",
   "id": "API/language-used",
   "isDocsHomePage": false,
-  "title": "Language used",
+  "title": "Language Used",
   "description": "Language used Object",
   "source": "@site/docs/API/language-used.md",
   "sourceDirName": "API",
@@ -20,7 +20,7 @@
     "permalink": "/docs/API/emoticons"
   },
   "next": {
-    "title": "POS tagger",
+    "title": "POS Tagger",
     "permalink": "/docs/API/pos-tagger"
   }
 }

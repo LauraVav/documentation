@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','921'),
+    component: ComponentCreator('/docs','3ab'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -272,6 +272,18 @@ export default [
       {
         path: '/docs/Tool guides/tokenizer',
         component: ComponentCreator('/docs/Tool guides/tokenizer','1d0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/dependency-parser',
+        component: ComponentCreator('/docs/Tutorials/dependency-parser','663'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/emotion-analysis',
+        component: ComponentCreator('/docs/Tutorials/emotion-analysis','8ff'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

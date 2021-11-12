@@ -18,5 +18,9 @@
   "previous": {
     "title": "Language Recognition",
     "permalink": "/docs/Tutorials/language-recognition"
+  },
+  "next": {
+    "title": "Dependency Parser",
+    "permalink": "/docs/Tutorials/dependency-parser"
   }
 }

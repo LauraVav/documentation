@@ -2,7 +2,7 @@
   "unversionedId": "API/Glossary/possessive-determiners",
   "id": "API/Glossary/possessive-determiners",
   "isDocsHomePage": false,
-  "title": "Possessive determiners",
+  "title": "Possessive Determiners",
   "description": "| VALUE \t| EXAMPLES \t|",
   "source": "@site/docs/API/Glossary/possessive-determiners.md",
   "sourceDirName": "API/Glossary",
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Dependency tags",
+    "title": "Dependency Tags",
     "permalink": "/docs/API/Glossary/dependency-tags"
   },
   "next": {

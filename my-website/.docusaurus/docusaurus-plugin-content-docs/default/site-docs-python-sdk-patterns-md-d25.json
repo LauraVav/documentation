@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Client class",
+    "title": "Client Class",
     "permalink": "/docs/python-sdk/client-class"
   },
   "next": {
-    "title": "Lettria sentence object",
+    "title": "Lettria Sentence Object",
     "permalink": "/docs/API/lettria-sentence-object"
   }
 }
