@@ -170,7 +170,7 @@
               },
               "next": {
                 "title": "Tokenizer",
-                "permalink": "/docs/Tool sheets/tokenizer"
+                "permalink": "/docs/Tool guides/tokenizer"
               }
             },
             {
@@ -924,15 +924,15 @@
               }
             },
             {
-              "unversionedId": "Tool sheets/coreference",
-              "id": "Tool sheets/coreference",
+              "unversionedId": "Tool guides/coreference",
+              "id": "Tool guides/coreference",
               "isDocsHomePage": false,
               "title": "Coreference",
               "description": "What is coreference?",
-              "source": "@site/docs/Tool sheets/coreference.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/coreference",
-              "permalink": "/docs/Tool sheets/coreference",
+              "source": "@site/docs/Tool guides/coreference.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/coreference",
+              "permalink": "/docs/Tool guides/coreference",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -942,7 +942,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Sentiment Analysis",
-                "permalink": "/docs/Tool sheets/sentiment-analysis"
+                "permalink": "/docs/Tool guides/sentiment-analysis"
               },
               "next": {
                 "title": "POS tagger",
@@ -950,15 +950,15 @@
               }
             },
             {
-              "unversionedId": "Tool sheets/dependency-parser",
-              "id": "Tool sheets/dependency-parser",
+              "unversionedId": "Tool guides/dependency-parser",
+              "id": "Tool guides/dependency-parser",
               "isDocsHomePage": false,
               "title": "Dependency Parser",
               "description": "What’s a dependency parser?",
-              "source": "@site/docs/Tool sheets/dependency-parser.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/dependency-parser",
-              "permalink": "/docs/Tool sheets/dependency-parser",
+              "source": "@site/docs/Tool guides/dependency-parser.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/dependency-parser",
+              "permalink": "/docs/Tool guides/dependency-parser",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -968,23 +968,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Lemmatizer",
-                "permalink": "/docs/Tool sheets/lemmatizer"
+                "permalink": "/docs/Tool guides/lemmatizer"
               },
               "next": {
                 "title": "NLU",
-                "permalink": "/docs/Tool sheets/nlu"
+                "permalink": "/docs/Tool guides/nlu"
               }
             },
             {
-              "unversionedId": "Tool sheets/lemmatizer",
-              "id": "Tool sheets/lemmatizer",
+              "unversionedId": "Tool guides/lemmatizer",
+              "id": "Tool guides/lemmatizer",
               "isDocsHomePage": false,
               "title": "Lemmatizer",
               "description": "What’s a lemmatizer?",
-              "source": "@site/docs/Tool sheets/lemmatizer.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/lemmatizer",
-              "permalink": "/docs/Tool sheets/lemmatizer",
+              "source": "@site/docs/Tool guides/lemmatizer.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/lemmatizer",
+              "permalink": "/docs/Tool guides/lemmatizer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -994,23 +994,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "POS Tagger",
-                "permalink": "/docs/Tool sheets/pos-tagger"
+                "permalink": "/docs/Tool guides/pos-tagger"
               },
               "next": {
                 "title": "Dependency Parser",
-                "permalink": "/docs/Tool sheets/dependency-parser"
+                "permalink": "/docs/Tool guides/dependency-parser"
               }
             },
             {
-              "unversionedId": "Tool sheets/ner",
-              "id": "Tool sheets/ner",
+              "unversionedId": "Tool guides/ner",
+              "id": "Tool guides/ner",
               "isDocsHomePage": false,
               "title": "NER",
               "description": "What is Named Entity Recognition?",
-              "source": "@site/docs/Tool sheets/ner.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/ner",
-              "permalink": "/docs/Tool sheets/ner",
+              "source": "@site/docs/Tool guides/ner.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/ner",
+              "permalink": "/docs/Tool guides/ner",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -1020,23 +1020,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NLU",
-                "permalink": "/docs/Tool sheets/nlu"
+                "permalink": "/docs/Tool guides/nlu"
               },
               "next": {
                 "title": "Sentiment Analysis",
-                "permalink": "/docs/Tool sheets/sentiment-analysis"
+                "permalink": "/docs/Tool guides/sentiment-analysis"
               }
             },
             {
-              "unversionedId": "Tool sheets/nlu",
-              "id": "Tool sheets/nlu",
+              "unversionedId": "Tool guides/nlu",
+              "id": "Tool guides/nlu",
               "isDocsHomePage": false,
               "title": "NLU",
               "description": "What is Natural Language Understanding ?",
-              "source": "@site/docs/Tool sheets/nlu.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/nlu",
-              "permalink": "/docs/Tool sheets/nlu",
+              "source": "@site/docs/Tool guides/nlu.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/nlu",
+              "permalink": "/docs/Tool guides/nlu",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -1046,23 +1046,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Dependency Parser",
-                "permalink": "/docs/Tool sheets/dependency-parser"
+                "permalink": "/docs/Tool guides/dependency-parser"
               },
               "next": {
                 "title": "NER",
-                "permalink": "/docs/Tool sheets/ner"
+                "permalink": "/docs/Tool guides/ner"
               }
             },
             {
-              "unversionedId": "Tool sheets/pos-tagger",
-              "id": "Tool sheets/pos-tagger",
+              "unversionedId": "Tool guides/pos-tagger",
+              "id": "Tool guides/pos-tagger",
               "isDocsHomePage": false,
               "title": "POS Tagger",
               "description": "What’s a pos-tagger ?",
-              "source": "@site/docs/Tool sheets/pos-tagger.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/pos-tagger",
-              "permalink": "/docs/Tool sheets/pos-tagger",
+              "source": "@site/docs/Tool guides/pos-tagger.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/pos-tagger",
+              "permalink": "/docs/Tool guides/pos-tagger",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1072,23 +1072,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tokenizer",
-                "permalink": "/docs/Tool sheets/tokenizer"
+                "permalink": "/docs/Tool guides/tokenizer"
               },
               "next": {
                 "title": "Lemmatizer",
-                "permalink": "/docs/Tool sheets/lemmatizer"
+                "permalink": "/docs/Tool guides/lemmatizer"
               }
             },
             {
-              "unversionedId": "Tool sheets/sentiment-analysis",
-              "id": "Tool sheets/sentiment-analysis",
+              "unversionedId": "Tool guides/sentiment-analysis",
+              "id": "Tool guides/sentiment-analysis",
               "isDocsHomePage": false,
               "title": "Sentiment Analysis",
               "description": "What is sentiment analysis?",
-              "source": "@site/docs/Tool sheets/sentiment-analysis.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/sentiment-analysis",
-              "permalink": "/docs/Tool sheets/sentiment-analysis",
+              "source": "@site/docs/Tool guides/sentiment-analysis.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/sentiment-analysis",
+              "permalink": "/docs/Tool guides/sentiment-analysis",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -1098,23 +1098,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NER",
-                "permalink": "/docs/Tool sheets/ner"
+                "permalink": "/docs/Tool guides/ner"
               },
               "next": {
                 "title": "Coreference",
-                "permalink": "/docs/Tool sheets/coreference"
+                "permalink": "/docs/Tool guides/coreference"
               }
             },
             {
-              "unversionedId": "Tool sheets/tokenizer",
-              "id": "Tool sheets/tokenizer",
+              "unversionedId": "Tool guides/tokenizer",
+              "id": "Tool guides/tokenizer",
               "isDocsHomePage": false,
               "title": "Tokenizer",
               "description": "A tokenizer is a tool founded on an algorithm based on a set of rules or on the learning of a manually-labelled corpus. It allows text to be broken down into words. It’s a morphological analysis.",
-              "source": "@site/docs/Tool sheets/tokenizer.md",
-              "sourceDirName": "Tool sheets",
-              "slug": "/Tool sheets/tokenizer",
-              "permalink": "/docs/Tool sheets/tokenizer",
+              "source": "@site/docs/Tool guides/tokenizer.md",
+              "sourceDirName": "Tool guides",
+              "slug": "/Tool guides/tokenizer",
+              "permalink": "/docs/Tool guides/tokenizer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1128,7 +1128,7 @@
               },
               "next": {
                 "title": "POS Tagger",
-                "permalink": "/docs/Tool sheets/pos-tagger"
+                "permalink": "/docs/Tool guides/pos-tagger"
               }
             },
             {
@@ -1202,7 +1202,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Coreference",
-                "permalink": "/docs/Tool sheets/coreference"
+                "permalink": "/docs/Tool guides/coreference"
               },
               "next": {
                 "title": "Lemmatizer",
@@ -1426,41 +1426,41 @@
               },
               {
                 "type": "category",
-                "label": "Tool Sheets",
+                "label": "Tool Guides",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Tool sheets/tokenizer"
+                    "id": "Tool guides/tokenizer"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/pos-tagger"
+                    "id": "Tool guides/pos-tagger"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/lemmatizer"
+                    "id": "Tool guides/lemmatizer"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/dependency-parser"
+                    "id": "Tool guides/dependency-parser"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/nlu"
+                    "id": "Tool guides/nlu"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/ner"
+                    "id": "Tool guides/ner"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/sentiment-analysis"
+                    "id": "Tool guides/sentiment-analysis"
                   },
                   {
                     "type": "doc",
-                    "id": "Tool sheets/coreference"
+                    "id": "Tool guides/coreference"
                   }
                 ]
               },

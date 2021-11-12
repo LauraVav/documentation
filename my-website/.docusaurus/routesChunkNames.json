@@ -7,7 +7,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/docs-4bc": {
+  "/docs-921": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -151,37 +151,37 @@
     "component": "17896441",
     "content": "08c2b411"
   },
-  "/docs/Tool sheets/coreference-3e8": {
+  "/docs/Tool guides/coreference-98a": {
     "component": "17896441",
-    "content": "cec50520"
+    "content": "07568f6f"
   },
-  "/docs/Tool sheets/dependency-parser-d2b": {
+  "/docs/Tool guides/dependency-parser-4a6": {
     "component": "17896441",
-    "content": "5003798d"
+    "content": "432ddb59"
   },
-  "/docs/Tool sheets/lemmatizer-1fe": {
+  "/docs/Tool guides/lemmatizer-f11": {
     "component": "17896441",
-    "content": "25fe9aee"
+    "content": "6d079996"
   },
-  "/docs/Tool sheets/ner-4f8": {
+  "/docs/Tool guides/ner-ac6": {
     "component": "17896441",
-    "content": "7dd3bdef"
+    "content": "2997dc57"
   },
-  "/docs/Tool sheets/nlu-48a": {
+  "/docs/Tool guides/nlu-b78": {
     "component": "17896441",
-    "content": "97d3c6d8"
+    "content": "26f26f5e"
   },
-  "/docs/Tool sheets/pos-tagger-039": {
+  "/docs/Tool guides/pos-tagger-f3b": {
     "component": "17896441",
-    "content": "bb4a62cf"
+    "content": "ae172ce7"
   },
-  "/docs/Tool sheets/sentiment-analysis-a7d": {
+  "/docs/Tool guides/sentiment-analysis-21c": {
     "component": "17896441",
-    "content": "ba69a9d3"
+    "content": "f4224dcd"
   },
-  "/docs/Tool sheets/tokenizer-178": {
+  "/docs/Tool guides/tokenizer-1d0": {
     "component": "17896441",
-    "content": "e0e2c136"
+    "content": "ccd01640"
   },
   "/docs/Tutorials/language-recognition-fdd": {
     "component": "17896441",

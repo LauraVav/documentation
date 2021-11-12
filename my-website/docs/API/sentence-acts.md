@@ -2,7 +2,7 @@
 sidebar_position: 13
 ---
 
-# Sentence acts
+# Sentence Acts
 
 ## Sentence_acts Object
 

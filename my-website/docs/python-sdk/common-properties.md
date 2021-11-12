@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Common properties
+# Common Properties
 
 These properties are accessible at all analysis levels : **NLP**, **Document**, **Sentence**, **Subsentence**, **Token**.
 

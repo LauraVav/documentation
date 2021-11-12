@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# POS tagger
+# POS Tagger
 
 ## Video
 

@@ -2,7 +2,7 @@
 sidebar_position: 16
 ---
 
-# ML emotion
+# ML Emotion
 
 ML emotion is a multilabel model that returns the emotions expressed in a sentence or subsentence.
 The model is composed by multiple adapters trained on diverses datasets, then fine-tuned on original goemotion dataset and its french translation.

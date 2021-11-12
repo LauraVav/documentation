@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Subsentence class
+# Subsentence Class
 
 **Subsentence** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
 

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# POS tagger
+# POS Tagger
 
 ## POS Tagger Object
 

@@ -186,43 +186,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/coreference",
-              "path": "/docs/Tool sheets/coreference",
+              "id": "Tool guides/coreference",
+              "path": "/docs/Tool guides/coreference",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/dependency-parser",
-              "path": "/docs/Tool sheets/dependency-parser",
+              "id": "Tool guides/dependency-parser",
+              "path": "/docs/Tool guides/dependency-parser",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/lemmatizer",
-              "path": "/docs/Tool sheets/lemmatizer",
+              "id": "Tool guides/lemmatizer",
+              "path": "/docs/Tool guides/lemmatizer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/ner",
-              "path": "/docs/Tool sheets/ner",
+              "id": "Tool guides/ner",
+              "path": "/docs/Tool guides/ner",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/nlu",
-              "path": "/docs/Tool sheets/nlu",
+              "id": "Tool guides/nlu",
+              "path": "/docs/Tool guides/nlu",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/pos-tagger",
-              "path": "/docs/Tool sheets/pos-tagger",
+              "id": "Tool guides/pos-tagger",
+              "path": "/docs/Tool guides/pos-tagger",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/sentiment-analysis",
-              "path": "/docs/Tool sheets/sentiment-analysis",
+              "id": "Tool guides/sentiment-analysis",
+              "path": "/docs/Tool guides/sentiment-analysis",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tool sheets/tokenizer",
-              "path": "/docs/Tool sheets/tokenizer",
+              "id": "Tool guides/tokenizer",
+              "path": "/docs/Tool guides/tokenizer",
               "sidebar": "tutorialSidebar"
             },
             {

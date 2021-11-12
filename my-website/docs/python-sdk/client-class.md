@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Client class
+# Client Class
 
 **Client** used to perform requests to our API.
 

@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# Entities numeral
+# Entities Numeral
 
 ## Numeral Entity Object
 

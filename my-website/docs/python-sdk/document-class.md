@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Document class
+# Document Class
 
 **Document** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
 

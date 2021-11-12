@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Token class
+# Token Class
 
 **Token** stores data relative to a specific token. Tokens are delimited according to our Tokenizer.
 

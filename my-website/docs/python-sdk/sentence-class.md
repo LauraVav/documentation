@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Sentence class
+# Sentence Class
 
 **Sentence** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
 

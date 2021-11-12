@@ -2,7 +2,7 @@
 sidebar_position: 11
 ---
 
-# Parser dependency
+# Parser Dependency
 
 ## Dependency Object
 

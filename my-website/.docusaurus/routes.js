@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','4bc'),
+    component: ComponentCreator('/docs','921'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -228,50 +228,50 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/coreference',
-        component: ComponentCreator('/docs/Tool sheets/coreference','3e8'),
+        path: '/docs/Tool guides/coreference',
+        component: ComponentCreator('/docs/Tool guides/coreference','98a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/dependency-parser',
-        component: ComponentCreator('/docs/Tool sheets/dependency-parser','d2b'),
+        path: '/docs/Tool guides/dependency-parser',
+        component: ComponentCreator('/docs/Tool guides/dependency-parser','4a6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/lemmatizer',
-        component: ComponentCreator('/docs/Tool sheets/lemmatizer','1fe'),
+        path: '/docs/Tool guides/lemmatizer',
+        component: ComponentCreator('/docs/Tool guides/lemmatizer','f11'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/ner',
-        component: ComponentCreator('/docs/Tool sheets/ner','4f8'),
+        path: '/docs/Tool guides/ner',
+        component: ComponentCreator('/docs/Tool guides/ner','ac6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/nlu',
-        component: ComponentCreator('/docs/Tool sheets/nlu','48a'),
+        path: '/docs/Tool guides/nlu',
+        component: ComponentCreator('/docs/Tool guides/nlu','b78'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/pos-tagger',
-        component: ComponentCreator('/docs/Tool sheets/pos-tagger','039'),
+        path: '/docs/Tool guides/pos-tagger',
+        component: ComponentCreator('/docs/Tool guides/pos-tagger','f3b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/sentiment-analysis',
-        component: ComponentCreator('/docs/Tool sheets/sentiment-analysis','a7d'),
+        path: '/docs/Tool guides/sentiment-analysis',
+        component: ComponentCreator('/docs/Tool guides/sentiment-analysis','21c'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tool sheets/tokenizer',
-        component: ComponentCreator('/docs/Tool sheets/tokenizer','178'),
+        path: '/docs/Tool guides/tokenizer',
+        component: ComponentCreator('/docs/Tool guides/tokenizer','1d0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

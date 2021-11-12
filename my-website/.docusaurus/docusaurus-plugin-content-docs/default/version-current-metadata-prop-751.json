@@ -209,49 +209,49 @@
       },
       {
         "type": "category",
-        "label": "Tool Sheets",
+        "label": "Tool Guides",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Tokenizer",
-            "href": "/docs/Tool sheets/tokenizer"
+            "href": "/docs/Tool guides/tokenizer"
           },
           {
             "type": "link",
             "label": "POS Tagger",
-            "href": "/docs/Tool sheets/pos-tagger"
+            "href": "/docs/Tool guides/pos-tagger"
           },
           {
             "type": "link",
             "label": "Lemmatizer",
-            "href": "/docs/Tool sheets/lemmatizer"
+            "href": "/docs/Tool guides/lemmatizer"
           },
           {
             "type": "link",
             "label": "Dependency Parser",
-            "href": "/docs/Tool sheets/dependency-parser"
+            "href": "/docs/Tool guides/dependency-parser"
           },
           {
             "type": "link",
             "label": "NLU",
-            "href": "/docs/Tool sheets/nlu"
+            "href": "/docs/Tool guides/nlu"
           },
           {
             "type": "link",
             "label": "NER",
-            "href": "/docs/Tool sheets/ner"
+            "href": "/docs/Tool guides/ner"
           },
           {
             "type": "link",
             "label": "Sentiment Analysis",
-            "href": "/docs/Tool sheets/sentiment-analysis"
+            "href": "/docs/Tool guides/sentiment-analysis"
           },
           {
             "type": "link",
             "label": "Coreference",
-            "href": "/docs/Tool sheets/coreference"
+            "href": "/docs/Tool guides/coreference"
           }
         ]
       },

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Possessive determiners
+# Possessive Determiners
 
 | VALUE 	| EXAMPLES 	|
 |-------	|----------	|

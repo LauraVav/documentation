@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Language used
+# Language Used
 
 ## Language used Object
 

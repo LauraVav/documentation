@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/coreference",
+  "id": "Tool guides/coreference",
+  "isDocsHomePage": false,
+  "title": "Coreference",
+  "description": "What is coreference?",
+  "source": "@site/docs/Tool guides/coreference.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/coreference",
+  "permalink": "/docs/Tool guides/coreference",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentiment Analysis",
+    "permalink": "/docs/Tool guides/sentiment-analysis"
+  },
+  "next": {
+    "title": "POS tagger",
+    "permalink": "/docs/Tutorials/pos-tagger"
+  }
+}

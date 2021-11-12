@@ -2,7 +2,7 @@
 sidebar_position: 17
 ---
 
-# ML sentiment
+# ML Sentiment
 
 ## Subsentences IA Sentiment Object
 
