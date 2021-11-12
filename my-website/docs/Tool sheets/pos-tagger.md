@@ -23,7 +23,7 @@ Though based on grammatical rules and seemingly straightforward, pos-tagging is 
 
 For example, the 10 morpho-syntactic categories (common noun, proper noun, pronoun, adjective, verb, preposition, adverb, subordinating conjunction, coordinating conjunction, interjection) can be turned upside down and / or replaced by more specific categories (infinitive verbs, past participles, object pronouns, etc.).
 
-## How does it work? What comes before and after?
+## How does it work? 
 
 Pos-tagging happens after the initial steps of cleaning and standardizing the text, and after the labelling of already identified tokens. One mistake in the first step of morphological tokenization will lead to another error in the step of grammatical labelling.
 

@@ -31,9 +31,9 @@ The stem of the common noun “mountain” is “mount,” and its lemma is “m
 
 To find the lemma of a word, nothing’s better than using a dictionary. However, it’s not sufficient to remove the “s” of a plural or the “ing” of a verb. Some linguistic particularities post challenges when it comes to simplification, for example, think of “geese” (as the plural of “goose”).
 
-## How does it work? What comes before and after?
+## How does it work? 
 
-~~To find the lemma of a word, nothing’s better than using a dictionary. However, it’s not sufficient to remove the “s” of a plural or the “ing” of a verb. Some linguistic particularities post challenges when it comes to simplification, for example, think of “geese” (as the plural of “goose”).~~
+To find the lemma of a word, nothing’s better than using a dictionary. However, it’s not sufficient to remove the “s” of a plural or the “ing” of a verb. Some linguistic particularities post challenges when it comes to simplification, for example, think of “geese” (as the plural of “goose”).
 
 ## What’s the Lettria approach?
 

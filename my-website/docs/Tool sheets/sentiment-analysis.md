@@ -24,7 +24,7 @@ This comment has two adverbs of manner: "deliciously" and “surprisingly.” Th
 
 The solutions are plural – methods based on rules, classifiers based on the boosting of decision trees, logistic regression, a deep neural network with dedicated and reinforced learning – and only one solid methodology allows us to bring out the “right responses.”
 
-## How does it work? What comes before and after?
+## How does it work? 
 
 Sentiment analysis comes at the step of Natural Language Understanding, after pre-processing and Natural Language Processing. Once [tokenization](https://lettria.com/fr/dev/toolsheets/tokenizer), [pos-tagging](https://lettria.com/fr/dev/toolsheets/postag) and [lemmatization](https://lettria.com/fr/dev/toolsheets/lemmatizer) are done, the dependency parser finds the structure of the phrase, and that’s where we extract the depth of meaning and tonality.
 
