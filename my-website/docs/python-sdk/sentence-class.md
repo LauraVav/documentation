@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Sentence Class
 
-**Sentence** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
+**Sentence** inherits from [TextChunk](#).
 
 **Sentence** stores data for a sentence. Sentences are delimited automatically from the input raw text. For longer and more complicated sentences it can be advantageous to further cut the sentences into subsentences.
 
@@ -14,6 +14,6 @@ sidebar_position: 4
 
 | Name                                                                                   	| Type                                                                                               	| Description                                                   	|
 |----------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
-| subsentences                                                                           	| list of [Subsentence](https://lettria-doc.netlify.app/docs/python-sdk/subsentence-class) instances 	| List of **Subsentence** in the sentence                       	|
-| tokens                                                                                 	| list of [Token instances](https://lettria-doc.netlify.app/docs/python-sdk/token-class)             	| List of **Token** in the sentence                             	|
-| [common properties](https://lettria-doc.netlify.app/docs/python-sdk/common-properties) 	| depends on property                                                                                	| Properties allowing access to specific data (pos, token etc.) 	|
+| subsentences                                                                           	| list of [Subsentence](#) instances 	| List of **Subsentence** in the sentence                       	|
+| tokens                                                                                 	| list of [Token instances](#)             	| List of **Token** in the sentence                             	|
+| [common properties](#) 	| depends on property                                                                                	| Properties allowing access to specific data (pos, token etc.) 	|

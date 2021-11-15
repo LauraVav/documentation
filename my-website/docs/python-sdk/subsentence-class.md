@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Subsentence Class
 
-**Subsentence** inherits from [TextChunk](https://lettria-doc.netlify.app/docs/python-sdk/TextChunk/what-is-textchunk).
+**Subsentence** inherits from [TextChunk](#).
 
 **Subsentence** stores data relative to a part of a sentence. For longer and more complicated sentences it can be advantageous to cut it in multiple pieces to have a more detailed analysis.
 
@@ -26,5 +26,5 @@ Subsentence is iterable and will yield instances of Token class.
 
 | Name                                                                                   	| Type                                                                                   	| Description                                                   	|
 |----------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
-| tokens                                                                                 	| list of [Token](https://lettria-doc.netlify.app/docs/python-sdk/token-class) instances 	| List of **Token** in the subsentence                          	|
-| [common properties](https://lettria-doc.netlify.app/docs/python-sdk/common-properties) 	| depends on property                                                                    	| Properties allowing access to specific data (pos, token etc.) 	|
+| tokens                                                                                 	| list of [Token](#) instances 	| List of **Token** in the subsentence                          	|
+| [common properties](#) 	| depends on property                                                                    	| Properties allowing access to specific data (pos, token etc.) 	|

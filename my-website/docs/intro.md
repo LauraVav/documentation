@@ -26,7 +26,7 @@ Create a **project** and from the project page select the **tokens** menu and co
 
 Once you've installed the Lettria API you can add you own documents and start analyzing using our NLP.
 
-![api-key](/img/tools.png)
+![api-key](/img/api-key.png)
 
 ## Installing Lettria 
 
@@ -43,9 +43,9 @@ In order to use the Lettria API you'll need to import the library.
 ```python
 import lettria
 ```
-## Ready, set....go! 
+## Ready, set...go! 
 
 Now your ready to add your document and start analyzing your text. Check out the left hand menu 👈 to see which tools you would like to use to extract the elements you need. 
 
-![api-key](/img/api-key.png)
+![ready](/img/ready-go.png)
 
