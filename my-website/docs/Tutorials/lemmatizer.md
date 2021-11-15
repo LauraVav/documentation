@@ -12,8 +12,6 @@ sidebar_position: 2
 
 Lemmatization is a tool of computational linguistics that does the work of **extracting the lexical roots of words.** It does not rely on sentence construction but on the lexicon, bringing out the root form of the word without inflection (no “s” for plural or other suffixes, for example).
 
-**What does it do? How does it work?**
-
 ## Importing the library & your personal API key
 
 If you want to extract the lexical roots of words you can use the lemmatization tool.
