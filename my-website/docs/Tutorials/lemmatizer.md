@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Video
 
-[![Lemma Video](/img/lemma-thumbnail.png)](https://youtu.be/8wqI7Wzoxkk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wqI7Wzoxkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What’s a lemmatizer?
 

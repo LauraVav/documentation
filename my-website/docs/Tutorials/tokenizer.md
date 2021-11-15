@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## Video
 
-[![Tokenizer Video](/img/tokenizer-thumbnail.png)](https://youtu.be/7uaUvXByu3w)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7uaUvXByu3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **What’s a tokenizer?**
 

@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## Video
 
-[![Dependency parser video](/img/dependency-thumbnail.png)](https://youtu.be/IM4DiieXCRY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IM4DiieXCRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **What’s a dependency parser?**
 

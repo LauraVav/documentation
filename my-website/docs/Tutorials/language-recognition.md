@@ -7,9 +7,7 @@ sidebar_position: 4
 
 ## Video
 
-[![Video](/img/LR-thumbnail.png)](https://www.youtube.com/watch?v=dpoxhXB3gw0)
-
-[Language recognition V7.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a81f07d9-7065-4eaf-871d-361c46b6be1b/Language_recognition_V7.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpoxhXB3gw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is language recognition?
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Video
 
-[![POS Video](/img/POS-thumbnail.png)](https://youtu.be/HoTprYNVQ20)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HoTprYNVQ20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # **What’s a pos-tagger ?**
 
