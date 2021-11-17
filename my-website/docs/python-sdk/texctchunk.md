@@ -35,7 +35,7 @@ It offers different methods that can be accessed through children classes.
 ```python
 vocabulary(filter_pos = None, lemma=False)
 ```
-Returns vocabulary from current data with their associated POStag i.e. if a word appears both as a verb and a noun it will be in two tuples (word, 'V'), (word, 'N'). Allows filtering by POS tags.
+Returns vocabulary from current data with their associated POS tag i.e. if a word appears both as a verb and a noun it will be in two tuples (word, 'V'), (word, 'N'). Allows filtering by POS tags.
 
 **Parameters:**
 
