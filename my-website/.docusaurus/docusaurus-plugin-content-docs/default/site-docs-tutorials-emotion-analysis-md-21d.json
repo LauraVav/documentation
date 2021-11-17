@@ -18,5 +18,9 @@
   "previous": {
     "title": "Dependency Parser",
     "permalink": "/docs/Tutorials/dependency-parser"
+  },
+  "next": {
+    "title": "Sentiment Analysis",
+    "permalink": "/docs/Tutorials/sentiment-analysis"
   }
 }

@@ -236,6 +236,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/intent-detection",
+              "path": "/docs/Tutorials/intent-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/language-recognition",
               "path": "/docs/Tutorials/language-recognition",
               "sidebar": "tutorialSidebar"
@@ -246,6 +251,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/ner",
+              "path": "/docs/Tutorials/ner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/pos-tagger",
               "path": "/docs/Tutorials/pos-tagger",
               "sidebar": "tutorialSidebar"
@@ -253,6 +263,11 @@
             {
               "id": "Tutorials/sentence-type",
               "path": "/docs/Tutorials/sentence-type",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/sentiment-analysis",
+              "path": "/docs/Tutorials/sentiment-analysis",
               "sidebar": "tutorialSidebar"
             },
             {

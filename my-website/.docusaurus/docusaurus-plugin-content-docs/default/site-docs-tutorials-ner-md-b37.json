@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Tutorials/ner",
+  "id": "Tutorials/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/ner.md",
+  "sourceDirName": "Tutorials",
+  "slug": "/Tutorials/ner",
+  "permalink": "/docs/Tutorials/ner",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intent Detection",
+    "permalink": "/docs/Tutorials/intent-detection"
+  }
+}

@@ -1177,6 +1177,36 @@
               "previous": {
                 "title": "Dependency Parser",
                 "permalink": "/docs/Tutorials/dependency-parser"
+              },
+              "next": {
+                "title": "Sentiment Analysis",
+                "permalink": "/docs/Tutorials/sentiment-analysis"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/intent-detection",
+              "id": "Tutorials/intent-detection",
+              "isDocsHomePage": false,
+              "title": "Intent Detection",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/intent-detection.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/intent-detection",
+              "permalink": "/docs/Tutorials/intent-detection",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sentiment Analysis",
+                "permalink": "/docs/Tutorials/sentiment-analysis"
+              },
+              "next": {
+                "title": "NER",
+                "permalink": "/docs/Tutorials/ner"
               }
             },
             {
@@ -1232,6 +1262,28 @@
               }
             },
             {
+              "unversionedId": "Tutorials/ner",
+              "id": "Tutorials/ner",
+              "isDocsHomePage": false,
+              "title": "NER",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/ner.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/ner",
+              "permalink": "/docs/Tutorials/ner",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Intent Detection",
+                "permalink": "/docs/Tutorials/intent-detection"
+              }
+            },
+            {
               "unversionedId": "Tutorials/pos-tagger",
               "id": "Tutorials/pos-tagger",
               "isDocsHomePage": false,
@@ -1281,6 +1333,32 @@
               "next": {
                 "title": "Language Recognition",
                 "permalink": "/docs/Tutorials/language-recognition"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/sentiment-analysis",
+              "id": "Tutorials/sentiment-analysis",
+              "isDocsHomePage": false,
+              "title": "Sentiment Analysis",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/sentiment-analysis.md",
+              "sourceDirName": "Tutorials",
+              "slug": "/Tutorials/sentiment-analysis",
+              "permalink": "/docs/Tutorials/sentiment-analysis",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Emotion Analysis",
+                "permalink": "/docs/Tutorials/emotion-analysis"
+              },
+              "next": {
+                "title": "Intent Detection",
+                "permalink": "/docs/Tutorials/intent-detection"
               }
             },
             {
@@ -1549,6 +1627,18 @@
                   {
                     "type": "doc",
                     "id": "Tutorials/emotion-analysis"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/sentiment-analysis"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/intent-detection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Tutorials/ner"
                   }
                 ]
               }

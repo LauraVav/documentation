@@ -295,6 +295,21 @@
             "type": "link",
             "label": "Emotion Analysis",
             "href": "/docs/Tutorials/emotion-analysis"
+          },
+          {
+            "type": "link",
+            "label": "Sentiment Analysis",
+            "href": "/docs/Tutorials/sentiment-analysis"
+          },
+          {
+            "type": "link",
+            "label": "Intent Detection",
+            "href": "/docs/Tutorials/intent-detection"
+          },
+          {
+            "type": "link",
+            "label": "NER",
+            "href": "/docs/Tutorials/ner"
           }
         ]
       }
