@@ -21,6 +21,11 @@
         "items": [
           {
             "type": "link",
+            "label": "Python SDK",
+            "href": "/docs/python-sdk/python-sdk"
+          },
+          {
+            "type": "link",
             "label": "NLP Class",
             "href": "/docs/python-sdk/nlp-class"
           },

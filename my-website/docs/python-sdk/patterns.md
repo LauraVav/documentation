@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 # Patterns
@@ -83,6 +83,30 @@ A Dependency Pattern consist of a list of dictionary formated in this way:
 | RIGHT_ATTRS 	| The attributes that must match with the right node, they are defined similarly as for Token Patterns. 	|
 
 All fields must be completed except for the root node which only needs 'RIGHT_ID' and 'RIGHT_ATTRS' fields. Each pattern must have one root node.
+
+```python
+## Token Pattern
+patterns = {
+{
+    "patients":
+        [
+            {"POS":{"IN":["CD", "ENTITY"]}},
+            {"POS":{"IN":["RB", "JJ", "PUNCT", "ENTITY"]}, "OP":"*"},
+            {"LEMMA":"patient"}
+        ],
+    "date":
+        [
+            {"ENT_TYPE":"duration"}
+        ]
+}
+
+text = "3416 consecutive patients were reviewed and 1476 finally enrolled (65.9 ± 20.9 years, 57.3% male). 76 (5.1%) patients had NAEs. Of 444 patients, 76% were male. They had a mean age of 69 ± 10 years."
+nlp.add_document(text)
+
+for s, matches in nlp.match_pattern(patterns, level='sentence'):
+    print(s.str)
+    print(matches)
+```
 
 ## Relation Operators
 

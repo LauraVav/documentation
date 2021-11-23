@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "NLP Class",
-    "permalink": "/docs/python-sdk/nlp-class"
+    "title": "Python SDK",
+    "permalink": "/docs/python-sdk/python-sdk"
   }
 }

@@ -1,252 +1,234 @@
 {
-  "/__docusaurus/debug-3d6": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/config-914": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/content-c28": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-3cf": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/__docusaurus/debug/metadata-31b": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/__docusaurus/debug/registry-0da": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/__docusaurus/debug/routes-244": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/blog/archive-f4c": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
   },
   "/markdown-page-be1": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
-  "/docs-c34": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+  "/docs-258": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/docs/API/coreference-b80": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-coreference-484-0e3"
+    "component": "17896441",
+    "content": "4841343c"
   },
   "/docs/API/disturbance-d00": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-disturbance-9-ad-094"
+    "component": "17896441",
+    "content": "9ad936e0"
   },
   "/docs/API/emoticons-023": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-emoticons-0-d-6-384"
+    "component": "17896441",
+    "content": "0d64709c"
   },
   "/docs/API/emotions-3ca": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-emotions-7-e-0-3a8"
+    "component": "17896441",
+    "content": "7e07237a"
   },
   "/docs/API/entities-numeral-e9b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-entities-numeral-534-a47"
+    "component": "17896441",
+    "content": "534b0f27"
   },
   "/docs/API/Glossary/categories-232": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-categories-97-e-2d9"
+    "component": "17896441",
+    "content": "97e03550"
   },
   "/docs/API/Glossary/conjugations-1ba": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-conjugations-71-b-37c"
+    "component": "17896441",
+    "content": "71bb25ea"
   },
   "/docs/API/Glossary/dependency-tags-c4b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-dependency-tags-31-e-17c"
+    "component": "17896441",
+    "content": "31ecbe2f"
   },
   "/docs/API/Glossary/entities-38a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-entitiesb-72-635"
+    "component": "17896441",
+    "content": "b721563d"
   },
   "/docs/API/Glossary/possessive-determiners-370": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-possessive-determiners-7-a-3-678"
+    "component": "17896441",
+    "content": "7a31525c"
   },
   "/docs/API/Glossary/pronouns-61b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-pronounsc-1-f-1af"
+    "component": "17896441",
+    "content": "c1fdf353"
   },
   "/docs/API/Glossary/tags-861": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-tags-59-d-3cb"
+    "component": "17896441",
+    "content": "59d7b839"
   },
   "/docs/API/language-used-449": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-language-usedac-6-f82"
+    "component": "17896441",
+    "content": "ac6b4f12"
   },
   "/docs/API/lettria-sentence-object-126": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-lettria-sentence-object-734-a94"
+    "component": "17896441",
+    "content": "734dc391"
   },
   "/docs/API/ml-emotion-68c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-ml-emotion-6-bd-7ca"
+    "component": "17896441",
+    "content": "6bdac33c"
   },
   "/docs/API/ml-sentiment-caa": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-ml-sentiment-7-c-0-45f"
+    "component": "17896441",
+    "content": "7c003822"
   },
   "/docs/API/ner-994": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-nerf-59-8b4"
+    "component": "17896441",
+    "content": "f599ae1e"
   },
   "/docs/API/nlp-343": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-nlpb-5-c-a81"
+    "component": "17896441",
+    "content": "b5c026c8"
   },
   "/docs/API/nlu-915": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-nlue-04-ad5"
+    "component": "17896441",
+    "content": "e0485c2a"
   },
   "/docs/API/parser-dependency-e62": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-parser-dependency-5-d-7-a27"
+    "component": "17896441",
+    "content": "5d7c42e5"
   },
   "/docs/API/pos-tagger-69c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-pos-tagger-8-aa-6cd"
+    "component": "17896441",
+    "content": "8aa34480"
   },
   "/docs/API/proposition-74b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-propositionde-8-482"
+    "component": "17896441",
+    "content": "de88d080"
   },
   "/docs/API/sentence-acts-b44": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-sentence-acts-1-ec-03f"
+    "component": "17896441",
+    "content": "1ec54424"
   },
   "/docs/API/sentiment-c45": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-sentiment-27-b-948"
+    "component": "17896441",
+    "content": "27ba40ad"
   },
   "/docs/API/synthesis-6c3": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-synthesisca-3-2d4"
+    "component": "17896441",
+    "content": "ca3b0cfe"
   },
   "/docs/intro-aed": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "component": "17896441",
+    "content": "0e384e19"
   },
   "/docs/python-sdk/client-class-d61": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-client-class-58-f-1a3"
+    "component": "17896441",
+    "content": "58f1891c"
   },
   "/docs/python-sdk/common-properties-1f2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-common-properties-921-859"
+    "component": "17896441",
+    "content": "9212cb79"
   },
   "/docs/python-sdk/document-class-d2e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-document-classaf-6-7ea"
+    "component": "17896441",
+    "content": "af65e819"
   },
   "/docs/python-sdk/nlp-class-c1c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-nlp-class-3-fb-eb0"
+    "component": "17896441",
+    "content": "3fb25118"
   },
   "/docs/python-sdk/patterns-e48": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-patternsd-25-a94"
+    "component": "17896441",
+    "content": "d258055d"
+  },
+  "/docs/python-sdk/python-sdk-ca1": {
+    "component": "17896441",
+    "content": "d0605a0d"
   },
   "/docs/python-sdk/sentence-class-44d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-sentence-classc-03-bbf"
+    "component": "17896441",
+    "content": "c030f2b9"
   },
   "/docs/python-sdk/subsentence-class-cc8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-subsentence-classb-15-ca8"
+    "component": "17896441",
+    "content": "b1533b05"
   },
   "/docs/python-sdk/texctchunk-634": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-texctchunk-189-250"
+    "component": "17896441",
+    "content": "1890440e"
   },
   "/docs/python-sdk/token-class-aa2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-token-class-08-c-299"
+    "component": "17896441",
+    "content": "08c2b411"
   },
   "/docs/Tool guides/coreference-98a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-coreference-075-b42"
+    "component": "17896441",
+    "content": "07568f6f"
   },
   "/docs/Tool guides/dependency-parser-4a6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-dependency-parser-432-b82"
+    "component": "17896441",
+    "content": "432ddb59"
   },
   "/docs/Tool guides/lemmatizer-f11": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-lemmatizer-6-d-0-e9e"
+    "component": "17896441",
+    "content": "6d079996"
   },
   "/docs/Tool guides/ner-ac6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-ner-299-cd6"
+    "component": "17896441",
+    "content": "2997dc57"
   },
   "/docs/Tool guides/nlu-b78": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-nlu-26-f-706"
+    "component": "17896441",
+    "content": "26f26f5e"
   },
   "/docs/Tool guides/pos-tagger-f3b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-pos-taggerae-1-85a"
+    "component": "17896441",
+    "content": "ae172ce7"
   },
   "/docs/Tool guides/sentiment-analysis-21c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-sentiment-analysisf-42-849"
+    "component": "17896441",
+    "content": "f4224dcd"
   },
   "/docs/Tool guides/tokenizer-1d0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-tokenizerccd-359"
+    "component": "17896441",
+    "content": "ccd01640"
   },
   "/docs/Tutorials/dependency-parser-663": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-dependency-parser-005-b6e"
+    "component": "17896441",
+    "content": "0057b8e1"
   },
   "/docs/Tutorials/emotion-analysis-8ff": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-emotion-analysis-21-d-1d8"
+    "component": "17896441",
+    "content": "21d8d069"
   },
   "/docs/Tutorials/intent-detection-1ed": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-intent-detection-5-ff-e94"
+    "component": "17896441",
+    "content": "5ff73bf2"
   },
   "/docs/Tutorials/language-recognition-fdd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-language-recognitionb-42-0f2"
+    "component": "17896441",
+    "content": "b426af6e"
   },
   "/docs/Tutorials/lemmatizer-7d0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-lemmatizer-4-c-2-f9f"
+    "component": "17896441",
+    "content": "4c294be6"
   },
   "/docs/Tutorials/ner-fdb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-nerb-37-cad"
+    "component": "17896441",
+    "content": "b371b1bb"
   },
   "/docs/Tutorials/pos-tagger-cb4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-pos-tagger-3-dc-1c9"
+    "component": "17896441",
+    "content": "3dc73b83"
   },
   "/docs/Tutorials/sentence-type-6a6": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-sentence-type-3-e-8-309"
+    "component": "17896441",
+    "content": "3e8d0ccd"
   },
   "/docs/Tutorials/sentiment-analysis-2dd": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-sentiment-analysisd-5-a-c51"
+    "component": "17896441",
+    "content": "d5a68a36"
   },
   "/docs/Tutorials/tokenizer-a81": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-tokenizerafd-48d"
+    "component": "17896441",
+    "content": "afdf4332"
   },
   "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }

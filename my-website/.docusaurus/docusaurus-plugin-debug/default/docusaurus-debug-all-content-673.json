@@ -685,8 +685,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "NLP Class",
-                "permalink": "/docs/python-sdk/nlp-class"
+                "title": "Python SDK",
+                "permalink": "/docs/python-sdk/python-sdk"
               }
             },
             {
@@ -701,9 +701,9 @@
               "permalink": "/docs/python-sdk/client-class",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 8
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -727,9 +727,9 @@
               "permalink": "/docs/python-sdk/common-properties",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -753,9 +753,9 @@
               "permalink": "/docs/python-sdk/document-class",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -779,14 +779,14 @@
               "permalink": "/docs/python-sdk/nlp-class",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting started",
-                "permalink": "/docs/intro"
+                "title": "Python SDK",
+                "permalink": "/docs/python-sdk/python-sdk"
               },
               "next": {
                 "title": "TextChunk",
@@ -805,9 +805,9 @@
               "permalink": "/docs/python-sdk/patterns",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -817,6 +817,32 @@
               "next": {
                 "title": "Lettria Sentence Object",
                 "permalink": "/docs/API/lettria-sentence-object"
+              }
+            },
+            {
+              "unversionedId": "python-sdk/python-sdk",
+              "id": "python-sdk/python-sdk",
+              "isDocsHomePage": false,
+              "title": "Python SDK",
+              "description": "Requests & Authentication",
+              "source": "@site/docs/python-sdk/python-sdk.md",
+              "sourceDirName": "python-sdk",
+              "slug": "/python-sdk/python-sdk",
+              "permalink": "/docs/python-sdk/python-sdk",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting started",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "NLP Class",
+                "permalink": "/docs/python-sdk/nlp-class"
               }
             },
             {
@@ -831,9 +857,9 @@
               "permalink": "/docs/python-sdk/sentence-class",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -857,9 +883,9 @@
               "permalink": "/docs/python-sdk/subsentence-class",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -883,9 +909,9 @@
               "permalink": "/docs/python-sdk/texctchunk",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -909,9 +935,9 @@
               "permalink": "/docs/python-sdk/token-class",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -1400,6 +1426,10 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "python-sdk/python-sdk"
+                  },
                   {
                     "type": "doc",
                     "id": "python-sdk/nlp-class"

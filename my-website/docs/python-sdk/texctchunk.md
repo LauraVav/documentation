@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # TextChunk
@@ -13,20 +13,20 @@ It offers different methods that can be accessed through children classes.
 
 | METHOD                                                                                                               	| DESCRIPTION                                                     	|
 |----------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------	|
-| [vocabulary()](#)               	| Returns vocabulary from current data.                           	|
-| [word_count()](#)               	| Returns word count from current data.                           	|
-| [word_frequency()](#)       	| Returns word frequency of current data.                         	|
-| [list_entities()](#)         	| Returns dictionaries of detected entities by type.              	|
-| [get_emotion()](#)             	| Returns emotion results at the specified hierarchical level     	|
-| [get_sentiment()](#)         	| Returns sentiment results at the specified hierarchical level   	|
-| [word_sentiment()](#)       	| Returns average sentiment for each word of the whole vocabulary 	|
-| [word_emotion()](#)           	| Returns average emotion for each word of the whole vocabulary   	|
-| [meaning_sentiment()](#) 	| Returns average sentiment for each meaning                      	|
-| [meaning_emotion()](#)     	| Returns average emotion for each meaning                        	|
-| [filter_polarity()](#)     	| Filters Sentence or Subsentence of the specified polarity       	|
-| [filter_emotion()](#)       	| Filters Sentence or Subsentence of the specified emotions       	|
-| [filter_type()](#)             	| Filters Sentence of the specified types                         	|
-| [match_pattern()](#)         	| Returns matches from given patterns.                            	|
+| [vocabulary()](https://www.lettria.com/doc)               	| Returns vocabulary from current data.                           	|
+| [word_count()](https://www.lettria.com/doc)               	| Returns word count from current data.                           	|
+| [word_frequency()](https://www.lettria.com/doc)       	| Returns word frequency of current data.                         	|
+| [list_entities()](https://www.lettria.com/doc)         	| Returns dictionaries of detected entities by type.              	|
+| [get_emotion()](https://www.lettria.com/doc)             	| Returns emotion results at the specified hierarchical level     	|
+| [get_sentiment()](https://www.lettria.com/doc)         	| Returns sentiment results at the specified hierarchical level   	|
+| [word_sentiment()](https://www.lettria.com/doc)       	| Returns average sentiment for each word of the whole vocabulary 	|
+| [word_emotion()](https://www.lettria.com/doc)           	| Returns average emotion for each word of the whole vocabulary   	|
+| [meaning_sentiment()](https://www.lettria.com/doc) 	| Returns average sentiment for each meaning                      	|
+| [meaning_emotion()](https://www.lettria.com/doc)     	| Returns average emotion for each meaning                        	|
+| [filter_polarity()](https://www.lettria.com/doc)     	| Filters Sentence or Subsentence of the specified polarity       	|
+| [filter_emotion()](https://www.lettria.com/doc)       	| Filters Sentence or Subsentence of the specified emotions       	|
+| [filter_type()](https://www.lettria.com/doc)             	| Filters Sentence of the specified types                         	|
+| [match_pattern()](https://www.lettria.com/doc)         	| Returns matches from given patterns.                            	|
 
 
 ## TextChunk methods
@@ -195,6 +195,16 @@ Returns the average score for each emotion for each word or lemma in the vocabul
 |------------	|-----------------------------------------------------------------------------------------	|
 | dictionary 	| Dictionary with (words, POS tag) as keys and a dictionary with emotion scores as value. 	|
 
+**Example return**
+```python
+{
+    ('patients', 'N'): -0.4917,
+    ('male', 'N'): -0.4275,
+    ('age', 'N'): -0.5167,
+    ('cure', 'N'): 0.6421
+}
+```
+
 
 ### meaning_sentiment 
 
@@ -217,6 +227,15 @@ Returns average sentiment score for each **meaning** For each sentence or subsen
 | Type       	| Description                                             	|
 |------------	|---------------------------------------------------------	|
 | dictionary 	| Dictionary with meanings as keys and sentiment as value 	|
+
+**Example return**
+```python
+{
+    ('patients', 'N'): {'surprise': 0.753, 'neutral': 0.445},
+    ('male', 'N'): {'neutral': 0.8},
+    ('surgery', 'N'): {'sadness': 0.79}
+}
+```
 
 ### meaning_emotion 
 

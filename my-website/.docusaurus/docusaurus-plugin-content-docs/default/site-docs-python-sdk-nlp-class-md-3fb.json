@@ -10,14 +10,14 @@
   "permalink": "/docs/python-sdk/nlp-class",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting started",
-    "permalink": "/docs/intro"
+    "title": "Python SDK",
+    "permalink": "/docs/python-sdk/python-sdk"
   },
   "next": {
     "title": "TextChunk",

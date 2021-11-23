@@ -166,6 +166,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "python-sdk/python-sdk",
+              "path": "/docs/python-sdk/python-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "python-sdk/sentence-class",
               "path": "/docs/python-sdk/sentence-class",
               "sidebar": "tutorialSidebar"
