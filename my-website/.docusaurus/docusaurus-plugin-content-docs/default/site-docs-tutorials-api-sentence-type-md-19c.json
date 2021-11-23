@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/sentence-type",
+  "id": "Tutorials/API/sentence-type",
+  "isDocsHomePage": false,
+  "title": "Sentence Type",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/sentence-type.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/sentence-type",
+  "permalink": "/docs/Tutorials/API/sentence-type",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lemmatizer",
+    "permalink": "/docs/Tutorials/API/lemmatizer"
+  },
+  "next": {
+    "title": "Language Recognition",
+    "permalink": "/docs/Tutorials/API/language-recognition"
+  }
+}

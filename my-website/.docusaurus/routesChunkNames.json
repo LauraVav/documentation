@@ -7,7 +7,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/docs-258": {
+  "/docs-a80": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -111,6 +111,10 @@
     "component": "17896441",
     "content": "ca3b0cfe"
   },
+  "/docs/help/faq-701": {
+    "component": "17896441",
+    "content": "dd53d751"
+  },
   "/docs/intro-aed": {
     "component": "17896441",
     "content": "0e384e19"
@@ -187,45 +191,57 @@
     "component": "17896441",
     "content": "ccd01640"
   },
-  "/docs/Tutorials/dependency-parser-663": {
+  "/docs/Tutorials/API/dependency-parser-3fe": {
     "component": "17896441",
-    "content": "0057b8e1"
+    "content": "9fe66193"
   },
-  "/docs/Tutorials/emotion-analysis-8ff": {
+  "/docs/Tutorials/API/emotion-analysis-0f7": {
     "component": "17896441",
-    "content": "21d8d069"
+    "content": "ebcfd677"
   },
-  "/docs/Tutorials/intent-detection-1ed": {
+  "/docs/Tutorials/API/intent-detection-ff6": {
     "component": "17896441",
-    "content": "5ff73bf2"
+    "content": "387ac75d"
   },
-  "/docs/Tutorials/language-recognition-fdd": {
+  "/docs/Tutorials/API/language-recognition-fca": {
     "component": "17896441",
-    "content": "b426af6e"
+    "content": "cf7856ab"
   },
-  "/docs/Tutorials/lemmatizer-7d0": {
+  "/docs/Tutorials/API/lemmatizer-50d": {
     "component": "17896441",
-    "content": "4c294be6"
+    "content": "629a0498"
   },
-  "/docs/Tutorials/ner-fdb": {
+  "/docs/Tutorials/API/ner-75a": {
     "component": "17896441",
-    "content": "b371b1bb"
+    "content": "bf11cad7"
   },
-  "/docs/Tutorials/pos-tagger-cb4": {
+  "/docs/Tutorials/API/pos-tagger-4e5": {
     "component": "17896441",
-    "content": "3dc73b83"
+    "content": "af7188ea"
   },
-  "/docs/Tutorials/sentence-type-6a6": {
+  "/docs/Tutorials/API/sentence-type-181": {
     "component": "17896441",
-    "content": "3e8d0ccd"
+    "content": "19c8be00"
   },
-  "/docs/Tutorials/sentiment-analysis-2dd": {
+  "/docs/Tutorials/API/sentiment-analysis-6d3": {
     "component": "17896441",
-    "content": "d5a68a36"
+    "content": "faff1f09"
   },
-  "/docs/Tutorials/tokenizer-a81": {
+  "/docs/Tutorials/API/tokenizer-a07": {
     "component": "17896441",
-    "content": "afdf4332"
+    "content": "7bb72330"
+  },
+  "/docs/Tutorials/Python SDK/vocabulary-afd": {
+    "component": "17896441",
+    "content": "e48ba3b5"
+  },
+  "/docs/Tutorials/Python SDK/word-count-0f3": {
+    "component": "17896441",
+    "content": "b5bf8590"
+  },
+  "/docs/Tutorials/Python SDK/word-frequency-bab": {
+    "component": "17896441",
+    "content": "4d7546c8"
   },
   "/-deb": {
     "component": "c4f5d8e4",

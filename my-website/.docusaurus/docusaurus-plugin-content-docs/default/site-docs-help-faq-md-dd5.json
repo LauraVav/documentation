@@ -1,0 +1,22 @@
+{
+  "unversionedId": "help/faq",
+  "id": "help/faq",
+  "isDocsHomePage": false,
+  "title": "FAQs",
+  "description": "---",
+  "source": "@site/docs/help/faq.md",
+  "sourceDirName": "help",
+  "slug": "/help/faq",
+  "permalink": "/docs/help/faq",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Frequency",
+    "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+  }
+}

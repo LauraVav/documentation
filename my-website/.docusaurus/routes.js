@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','258'),
+    component: ComponentCreator('/docs','a80'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -168,6 +168,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/help/faq',
+        component: ComponentCreator('/docs/help/faq','701'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','aed'),
         exact: true,
@@ -282,62 +288,80 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/dependency-parser',
-        component: ComponentCreator('/docs/Tutorials/dependency-parser','663'),
+        path: '/docs/Tutorials/API/dependency-parser',
+        component: ComponentCreator('/docs/Tutorials/API/dependency-parser','3fe'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/emotion-analysis',
-        component: ComponentCreator('/docs/Tutorials/emotion-analysis','8ff'),
+        path: '/docs/Tutorials/API/emotion-analysis',
+        component: ComponentCreator('/docs/Tutorials/API/emotion-analysis','0f7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/intent-detection',
-        component: ComponentCreator('/docs/Tutorials/intent-detection','1ed'),
+        path: '/docs/Tutorials/API/intent-detection',
+        component: ComponentCreator('/docs/Tutorials/API/intent-detection','ff6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/language-recognition',
-        component: ComponentCreator('/docs/Tutorials/language-recognition','fdd'),
+        path: '/docs/Tutorials/API/language-recognition',
+        component: ComponentCreator('/docs/Tutorials/API/language-recognition','fca'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/lemmatizer',
-        component: ComponentCreator('/docs/Tutorials/lemmatizer','7d0'),
+        path: '/docs/Tutorials/API/lemmatizer',
+        component: ComponentCreator('/docs/Tutorials/API/lemmatizer','50d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/ner',
-        component: ComponentCreator('/docs/Tutorials/ner','fdb'),
+        path: '/docs/Tutorials/API/ner',
+        component: ComponentCreator('/docs/Tutorials/API/ner','75a'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/pos-tagger',
-        component: ComponentCreator('/docs/Tutorials/pos-tagger','cb4'),
+        path: '/docs/Tutorials/API/pos-tagger',
+        component: ComponentCreator('/docs/Tutorials/API/pos-tagger','4e5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/sentence-type',
-        component: ComponentCreator('/docs/Tutorials/sentence-type','6a6'),
+        path: '/docs/Tutorials/API/sentence-type',
+        component: ComponentCreator('/docs/Tutorials/API/sentence-type','181'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/sentiment-analysis',
-        component: ComponentCreator('/docs/Tutorials/sentiment-analysis','2dd'),
+        path: '/docs/Tutorials/API/sentiment-analysis',
+        component: ComponentCreator('/docs/Tutorials/API/sentiment-analysis','6d3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/tokenizer',
-        component: ComponentCreator('/docs/Tutorials/tokenizer','a81'),
+        path: '/docs/Tutorials/API/tokenizer',
+        component: ComponentCreator('/docs/Tutorials/API/tokenizer','a07'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/vocabulary',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/vocabulary','afd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/word-count',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/word-count','0f3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/word-frequency',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/word-frequency','bab'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

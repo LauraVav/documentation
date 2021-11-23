@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Coreference",
-    "permalink": "/docs/Tool guides/coreference"
+    "title": "FAQs",
+    "permalink": "/docs/help/faq"
   },
   "next": {
     "title": "Lemmatizer",

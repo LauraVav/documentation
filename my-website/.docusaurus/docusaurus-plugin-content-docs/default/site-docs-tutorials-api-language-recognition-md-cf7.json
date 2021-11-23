@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/language-recognition",
+  "id": "Tutorials/API/language-recognition",
+  "isDocsHomePage": false,
+  "title": "Language Recognition",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/language-recognition.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/language-recognition",
+  "permalink": "/docs/Tutorials/API/language-recognition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentence Type",
+    "permalink": "/docs/Tutorials/API/sentence-type"
+  },
+  "next": {
+    "title": "Tokenizer",
+    "permalink": "/docs/Tutorials/API/tokenizer"
+  }
+}

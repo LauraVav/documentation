@@ -136,6 +136,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "help/faq",
+              "path": "/docs/help/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -231,53 +236,68 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/dependency-parser",
-              "path": "/docs/Tutorials/dependency-parser",
+              "id": "Tutorials/API/dependency-parser",
+              "path": "/docs/Tutorials/API/dependency-parser",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/emotion-analysis",
-              "path": "/docs/Tutorials/emotion-analysis",
+              "id": "Tutorials/API/emotion-analysis",
+              "path": "/docs/Tutorials/API/emotion-analysis",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/intent-detection",
-              "path": "/docs/Tutorials/intent-detection",
+              "id": "Tutorials/API/intent-detection",
+              "path": "/docs/Tutorials/API/intent-detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/language-recognition",
-              "path": "/docs/Tutorials/language-recognition",
+              "id": "Tutorials/API/language-recognition",
+              "path": "/docs/Tutorials/API/language-recognition",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/lemmatizer",
-              "path": "/docs/Tutorials/lemmatizer",
+              "id": "Tutorials/API/lemmatizer",
+              "path": "/docs/Tutorials/API/lemmatizer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/ner",
-              "path": "/docs/Tutorials/ner",
+              "id": "Tutorials/API/ner",
+              "path": "/docs/Tutorials/API/ner",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/pos-tagger",
-              "path": "/docs/Tutorials/pos-tagger",
+              "id": "Tutorials/API/pos-tagger",
+              "path": "/docs/Tutorials/API/pos-tagger",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/sentence-type",
-              "path": "/docs/Tutorials/sentence-type",
+              "id": "Tutorials/API/sentence-type",
+              "path": "/docs/Tutorials/API/sentence-type",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/sentiment-analysis",
-              "path": "/docs/Tutorials/sentiment-analysis",
+              "id": "Tutorials/API/sentiment-analysis",
+              "path": "/docs/Tutorials/API/sentiment-analysis",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Tutorials/tokenizer",
-              "path": "/docs/Tutorials/tokenizer",
+              "id": "Tutorials/API/tokenizer",
+              "path": "/docs/Tutorials/API/tokenizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/vocabulary",
+              "path": "/docs/Tutorials/Python SDK/vocabulary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/word-count",
+              "path": "/docs/Tutorials/Python SDK/word-count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/word-frequency",
+              "path": "/docs/Tutorials/Python SDK/word-frequency",
               "sidebar": "tutorialSidebar"
             }
           ]

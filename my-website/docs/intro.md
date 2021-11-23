@@ -16,6 +16,8 @@ If you are new to NLP you can take a look at our tutorials to get an idea of wha
 
 ![Getting started](/img/getting-started.png)
 
+---
+
 ## Getting you API key 
 
 In order to start using our API you'll need a personal API key from Lettria. 
@@ -27,6 +29,8 @@ Create a **project** and from the project page select the **tokens** menu and co
 Once you've installed the Lettria API you can add you own documents and start analyzing using our NLP.
 
 ![api-key](/img/api-key.png)
+
+---
 
 ## Installing Lettria 
 

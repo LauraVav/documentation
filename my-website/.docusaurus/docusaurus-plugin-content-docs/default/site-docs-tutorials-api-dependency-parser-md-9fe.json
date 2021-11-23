@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/dependency-parser",
+  "id": "Tutorials/API/dependency-parser",
+  "isDocsHomePage": false,
+  "title": "Dependency Parser",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/dependency-parser.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/dependency-parser",
+  "permalink": "/docs/Tutorials/API/dependency-parser",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tokenizer",
+    "permalink": "/docs/Tutorials/API/tokenizer"
+  },
+  "next": {
+    "title": "Emotion Analysis",
+    "permalink": "/docs/Tutorials/API/emotion-analysis"
+  }
+}

@@ -668,6 +668,28 @@
               }
             },
             {
+              "unversionedId": "help/faq",
+              "id": "help/faq",
+              "isDocsHomePage": false,
+              "title": "FAQs",
+              "description": "---",
+              "source": "@site/docs/help/faq.md",
+              "sourceDirName": "help",
+              "slug": "/help/faq",
+              "permalink": "/docs/help/faq",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Word Frequency",
+                "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "isDocsHomePage": false,
@@ -972,7 +994,7 @@
               },
               "next": {
                 "title": "POS Tagger",
-                "permalink": "/docs/Tutorials/pos-tagger"
+                "permalink": "/docs/Tutorials/API/pos-tagger"
               }
             },
             {
@@ -1158,15 +1180,15 @@
               }
             },
             {
-              "unversionedId": "Tutorials/dependency-parser",
-              "id": "Tutorials/dependency-parser",
+              "unversionedId": "Tutorials/API/dependency-parser",
+              "id": "Tutorials/API/dependency-parser",
               "isDocsHomePage": false,
               "title": "Dependency Parser",
               "description": "Video",
-              "source": "@site/docs/Tutorials/dependency-parser.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/dependency-parser",
-              "permalink": "/docs/Tutorials/dependency-parser",
+              "source": "@site/docs/Tutorials/API/dependency-parser.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/dependency-parser",
+              "permalink": "/docs/Tutorials/API/dependency-parser",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -1176,23 +1198,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tokenizer",
-                "permalink": "/docs/Tutorials/tokenizer"
+                "permalink": "/docs/Tutorials/API/tokenizer"
               },
               "next": {
                 "title": "Emotion Analysis",
-                "permalink": "/docs/Tutorials/emotion-analysis"
+                "permalink": "/docs/Tutorials/API/emotion-analysis"
               }
             },
             {
-              "unversionedId": "Tutorials/emotion-analysis",
-              "id": "Tutorials/emotion-analysis",
+              "unversionedId": "Tutorials/API/emotion-analysis",
+              "id": "Tutorials/API/emotion-analysis",
               "isDocsHomePage": false,
               "title": "Emotion Analysis",
               "description": "Video",
-              "source": "@site/docs/Tutorials/emotion-analysis.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/emotion-analysis",
-              "permalink": "/docs/Tutorials/emotion-analysis",
+              "source": "@site/docs/Tutorials/API/emotion-analysis.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/emotion-analysis",
+              "permalink": "/docs/Tutorials/API/emotion-analysis",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -1202,23 +1224,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Dependency Parser",
-                "permalink": "/docs/Tutorials/dependency-parser"
+                "permalink": "/docs/Tutorials/API/dependency-parser"
               },
               "next": {
                 "title": "Sentiment Analysis",
-                "permalink": "/docs/Tutorials/sentiment-analysis"
+                "permalink": "/docs/Tutorials/API/sentiment-analysis"
               }
             },
             {
-              "unversionedId": "Tutorials/intent-detection",
-              "id": "Tutorials/intent-detection",
+              "unversionedId": "Tutorials/API/intent-detection",
+              "id": "Tutorials/API/intent-detection",
               "isDocsHomePage": false,
               "title": "Intent Detection",
               "description": "Video",
-              "source": "@site/docs/Tutorials/intent-detection.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/intent-detection",
-              "permalink": "/docs/Tutorials/intent-detection",
+              "source": "@site/docs/Tutorials/API/intent-detection.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/intent-detection",
+              "permalink": "/docs/Tutorials/API/intent-detection",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -1228,23 +1250,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Sentiment Analysis",
-                "permalink": "/docs/Tutorials/sentiment-analysis"
+                "permalink": "/docs/Tutorials/API/sentiment-analysis"
               },
               "next": {
                 "title": "NER",
-                "permalink": "/docs/Tutorials/ner"
+                "permalink": "/docs/Tutorials/API/ner"
               }
             },
             {
-              "unversionedId": "Tutorials/language-recognition",
-              "id": "Tutorials/language-recognition",
+              "unversionedId": "Tutorials/API/language-recognition",
+              "id": "Tutorials/API/language-recognition",
               "isDocsHomePage": false,
               "title": "Language Recognition",
               "description": "Video",
-              "source": "@site/docs/Tutorials/language-recognition.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/language-recognition",
-              "permalink": "/docs/Tutorials/language-recognition",
+              "source": "@site/docs/Tutorials/API/language-recognition.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/language-recognition",
+              "permalink": "/docs/Tutorials/API/language-recognition",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -1254,23 +1276,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Sentence Type",
-                "permalink": "/docs/Tutorials/sentence-type"
+                "permalink": "/docs/Tutorials/API/sentence-type"
               },
               "next": {
                 "title": "Tokenizer",
-                "permalink": "/docs/Tutorials/tokenizer"
+                "permalink": "/docs/Tutorials/API/tokenizer"
               }
             },
             {
-              "unversionedId": "Tutorials/lemmatizer",
-              "id": "Tutorials/lemmatizer",
+              "unversionedId": "Tutorials/API/lemmatizer",
+              "id": "Tutorials/API/lemmatizer",
               "isDocsHomePage": false,
               "title": "Lemmatizer",
               "description": "Video",
-              "source": "@site/docs/Tutorials/lemmatizer.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/lemmatizer",
-              "permalink": "/docs/Tutorials/lemmatizer",
+              "source": "@site/docs/Tutorials/API/lemmatizer.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/lemmatizer",
+              "permalink": "/docs/Tutorials/API/lemmatizer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1280,23 +1302,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "POS Tagger",
-                "permalink": "/docs/Tutorials/pos-tagger"
+                "permalink": "/docs/Tutorials/API/pos-tagger"
               },
               "next": {
                 "title": "Sentence Type",
-                "permalink": "/docs/Tutorials/sentence-type"
+                "permalink": "/docs/Tutorials/API/sentence-type"
               }
             },
             {
-              "unversionedId": "Tutorials/ner",
-              "id": "Tutorials/ner",
+              "unversionedId": "Tutorials/API/ner",
+              "id": "Tutorials/API/ner",
               "isDocsHomePage": false,
               "title": "NER",
               "description": "Video",
-              "source": "@site/docs/Tutorials/ner.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/ner",
-              "permalink": "/docs/Tutorials/ner",
+              "source": "@site/docs/Tutorials/API/ner.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/ner",
+              "permalink": "/docs/Tutorials/API/ner",
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
@@ -1306,19 +1328,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Intent Detection",
-                "permalink": "/docs/Tutorials/intent-detection"
+                "permalink": "/docs/Tutorials/API/intent-detection"
+              },
+              "next": {
+                "title": "Vocabulary",
+                "permalink": "/docs/Tutorials/Python SDK/vocabulary"
               }
             },
             {
-              "unversionedId": "Tutorials/pos-tagger",
-              "id": "Tutorials/pos-tagger",
+              "unversionedId": "Tutorials/API/pos-tagger",
+              "id": "Tutorials/API/pos-tagger",
               "isDocsHomePage": false,
               "title": "POS Tagger",
               "description": "Video",
-              "source": "@site/docs/Tutorials/pos-tagger.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/pos-tagger",
-              "permalink": "/docs/Tutorials/pos-tagger",
+              "source": "@site/docs/Tutorials/API/pos-tagger.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/pos-tagger",
+              "permalink": "/docs/Tutorials/API/pos-tagger",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1332,19 +1358,19 @@
               },
               "next": {
                 "title": "Lemmatizer",
-                "permalink": "/docs/Tutorials/lemmatizer"
+                "permalink": "/docs/Tutorials/API/lemmatizer"
               }
             },
             {
-              "unversionedId": "Tutorials/sentence-type",
-              "id": "Tutorials/sentence-type",
+              "unversionedId": "Tutorials/API/sentence-type",
+              "id": "Tutorials/API/sentence-type",
               "isDocsHomePage": false,
               "title": "Sentence Type",
               "description": "Video",
-              "source": "@site/docs/Tutorials/sentence-type.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/sentence-type",
-              "permalink": "/docs/Tutorials/sentence-type",
+              "source": "@site/docs/Tutorials/API/sentence-type.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/sentence-type",
+              "permalink": "/docs/Tutorials/API/sentence-type",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -1354,23 +1380,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Lemmatizer",
-                "permalink": "/docs/Tutorials/lemmatizer"
+                "permalink": "/docs/Tutorials/API/lemmatizer"
               },
               "next": {
                 "title": "Language Recognition",
-                "permalink": "/docs/Tutorials/language-recognition"
+                "permalink": "/docs/Tutorials/API/language-recognition"
               }
             },
             {
-              "unversionedId": "Tutorials/sentiment-analysis",
-              "id": "Tutorials/sentiment-analysis",
+              "unversionedId": "Tutorials/API/sentiment-analysis",
+              "id": "Tutorials/API/sentiment-analysis",
               "isDocsHomePage": false,
               "title": "Sentiment Analysis",
               "description": "Video",
-              "source": "@site/docs/Tutorials/sentiment-analysis.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/sentiment-analysis",
-              "permalink": "/docs/Tutorials/sentiment-analysis",
+              "source": "@site/docs/Tutorials/API/sentiment-analysis.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/sentiment-analysis",
+              "permalink": "/docs/Tutorials/API/sentiment-analysis",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -1380,23 +1406,23 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Emotion Analysis",
-                "permalink": "/docs/Tutorials/emotion-analysis"
+                "permalink": "/docs/Tutorials/API/emotion-analysis"
               },
               "next": {
                 "title": "Intent Detection",
-                "permalink": "/docs/Tutorials/intent-detection"
+                "permalink": "/docs/Tutorials/API/intent-detection"
               }
             },
             {
-              "unversionedId": "Tutorials/tokenizer",
-              "id": "Tutorials/tokenizer",
+              "unversionedId": "Tutorials/API/tokenizer",
+              "id": "Tutorials/API/tokenizer",
               "isDocsHomePage": false,
               "title": "Tokenizer",
               "description": "Video",
-              "source": "@site/docs/Tutorials/tokenizer.md",
-              "sourceDirName": "Tutorials",
-              "slug": "/Tutorials/tokenizer",
-              "permalink": "/docs/Tutorials/tokenizer",
+              "source": "@site/docs/Tutorials/API/tokenizer.md",
+              "sourceDirName": "Tutorials/API",
+              "slug": "/Tutorials/API/tokenizer",
+              "permalink": "/docs/Tutorials/API/tokenizer",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -1406,11 +1432,89 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Language Recognition",
-                "permalink": "/docs/Tutorials/language-recognition"
+                "permalink": "/docs/Tutorials/API/language-recognition"
               },
               "next": {
                 "title": "Dependency Parser",
-                "permalink": "/docs/Tutorials/dependency-parser"
+                "permalink": "/docs/Tutorials/API/dependency-parser"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/vocabulary",
+              "id": "Tutorials/Python SDK/vocabulary",
+              "isDocsHomePage": false,
+              "title": "Vocabulary",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/vocabulary.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/vocabulary",
+              "permalink": "/docs/Tutorials/Python SDK/vocabulary",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "NER",
+                "permalink": "/docs/Tutorials/API/ner"
+              },
+              "next": {
+                "title": "Word Count",
+                "permalink": "/docs/Tutorials/Python SDK/word-count"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/word-count",
+              "id": "Tutorials/Python SDK/word-count",
+              "isDocsHomePage": false,
+              "title": "Word Count",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/word-count.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/word-count",
+              "permalink": "/docs/Tutorials/Python SDK/word-count",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vocabulary",
+                "permalink": "/docs/Tutorials/Python SDK/vocabulary"
+              },
+              "next": {
+                "title": "Word Frequency",
+                "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/word-frequency",
+              "id": "Tutorials/Python SDK/word-frequency",
+              "isDocsHomePage": false,
+              "title": "Word Frequency",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/word-frequency.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/word-frequency",
+              "permalink": "/docs/Tutorials/Python SDK/word-frequency",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Word Count",
+                "permalink": "/docs/Tutorials/Python SDK/word-count"
+              },
+              "next": {
+                "title": "FAQs",
+                "permalink": "/docs/help/faq"
               }
             }
           ],
@@ -1631,44 +1735,84 @@
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "doc",
-                    "id": "Tutorials/pos-tagger"
+                    "type": "category",
+                    "label": "API",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/pos-tagger"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/lemmatizer"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/sentence-type"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/language-recognition"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/tokenizer"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/dependency-parser"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/emotion-analysis"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/sentiment-analysis"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/intent-detection"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/API/ner"
+                      }
+                    ]
                   },
                   {
-                    "type": "doc",
-                    "id": "Tutorials/lemmatizer"
-                  },
+                    "type": "category",
+                    "label": "Python SDK",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/vocabulary"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/word-count"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/word-frequency"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Help",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
                   {
                     "type": "doc",
-                    "id": "Tutorials/sentence-type"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/language-recognition"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/tokenizer"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/dependency-parser"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/emotion-analysis"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/sentiment-analysis"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/intent-detection"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Tutorials/ner"
+                    "id": "help/faq"
                   }
                 ]
               }

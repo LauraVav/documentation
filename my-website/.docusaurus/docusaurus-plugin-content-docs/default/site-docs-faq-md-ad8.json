@@ -1,0 +1,19 @@
+{
+  "unversionedId": "FAQ",
+  "id": "FAQ",
+  "isDocsHomePage": false,
+  "title": "FAQ",
+  "description": "",
+  "source": "@site/docs/FAQ.md",
+  "sourceDirName": ".",
+  "slug": "/FAQ",
+  "permalink": "/docs/FAQ",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/docs/Tutorials/ner"
+  }
+}

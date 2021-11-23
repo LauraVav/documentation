@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/intent-detection",
+  "id": "Tutorials/API/intent-detection",
+  "isDocsHomePage": false,
+  "title": "Intent Detection",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/intent-detection.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/intent-detection",
+  "permalink": "/docs/Tutorials/API/intent-detection",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentiment Analysis",
+    "permalink": "/docs/Tutorials/API/sentiment-analysis"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/docs/Tutorials/API/ner"
+  }
+}

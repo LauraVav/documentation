@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Help/platform",
+  "id": "Help/platform",
+  "isDocsHomePage": false,
+  "title": "platform",
+  "description": "",
+  "source": "@site/docs/Help/platform.md",
+  "sourceDirName": "Help",
+  "slug": "/Help/platform",
+  "permalink": "/docs/Help/platform",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Python SDK",
+    "permalink": "/docs/python-sdk/python-sdk"
+  }
+}

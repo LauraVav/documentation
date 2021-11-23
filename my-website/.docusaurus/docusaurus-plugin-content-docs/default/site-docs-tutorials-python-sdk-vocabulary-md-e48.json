@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/vocabulary",
+  "id": "Tutorials/Python SDK/vocabulary",
+  "isDocsHomePage": false,
+  "title": "Vocabulary",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/vocabulary.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/vocabulary",
+  "permalink": "/docs/Tutorials/Python SDK/vocabulary",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/docs/Tutorials/API/ner"
+  },
+  "next": {
+    "title": "Word Count",
+    "permalink": "/docs/Tutorials/Python SDK/word-count"
+  }
+}

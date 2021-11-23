@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/emotion-analysis",
+  "id": "Tutorials/API/emotion-analysis",
+  "isDocsHomePage": false,
+  "title": "Emotion Analysis",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/emotion-analysis.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/emotion-analysis",
+  "permalink": "/docs/Tutorials/API/emotion-analysis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependency Parser",
+    "permalink": "/docs/Tutorials/API/dependency-parser"
+  },
+  "next": {
+    "title": "Sentiment Analysis",
+    "permalink": "/docs/Tutorials/API/sentiment-analysis"
+  }
+}
