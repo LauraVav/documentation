@@ -6,6 +6,7 @@ sidebar_position: 1
 
 ## Video
 
+![vocabulary](/img/vocabulary-CS.png)
 
 ## What is the vocabulary tokenization?
 

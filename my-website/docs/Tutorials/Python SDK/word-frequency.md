@@ -6,6 +6,7 @@ sidebar_position: 3
 
 ## Video
 
+![word frequency](/img/word_frequency-CS.png)
 
 ## What is word frequency?
 

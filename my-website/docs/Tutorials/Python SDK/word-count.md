@@ -6,6 +6,8 @@ sidebar_position: 2
 
 ## Video
 
+![word count](/img/word_count-CS.png)
+
 ## What is the word count tool?
 
 In order to count the words in your document you can use the TextChunk class Word count tool. Lettria’s word count tool enables you to quickly and easily extract the word, part of speech and occurrences within your document. You can also filter out those words by POS tags to enable further analysis of the words within your document.

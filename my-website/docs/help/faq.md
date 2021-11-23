@@ -32,5 +32,9 @@ Relationships  focus on the semantic relationships between an 'owner' attribute 
 ## API
 **Where can I get an API key?**
 
+You can get a free API Key by signing up to Lettria. Once you`ve created an account and project you can access the **Tokens** menu and copy your API Key. 
+
+![api key](/img/api_key-platform.png)
+
 
 
