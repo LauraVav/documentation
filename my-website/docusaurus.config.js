@@ -5,12 +5,12 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 (module.exports = {
   title: 'Doc Center',
   tagline: 'Lettria documentation & tutorials',
-  url: 'https://lettria-doc.netlify.app',
+  url: 'https://lettria.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'LauraVav', // Usually your GitHub org/user name.
+  organizationName: 'Lettria', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
 
   presets: [

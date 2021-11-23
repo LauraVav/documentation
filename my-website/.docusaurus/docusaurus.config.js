@@ -1,12 +1,12 @@
 export default {
   "title": "Doc Center",
   "tagline": "Lettria documentation & tutorials",
-  "url": "https://lettria-doc.netlify.app",
+  "url": "https://lettria.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
-  "organizationName": "LauraVav",
+  "organizationName": "Lettria",
   "projectName": "documentation",
   "presets": [
     [
