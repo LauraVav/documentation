@@ -685,8 +685,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Word Frequency",
-                "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+                "title": "Get Emotion",
+                "permalink": "/docs/Tutorials/Python SDK/get-emotion"
               }
             },
             {
@@ -1440,6 +1440,84 @@
               }
             },
             {
+              "unversionedId": "Tutorials/Python SDK/get-emotion",
+              "id": "Tutorials/Python SDK/get-emotion",
+              "isDocsHomePage": false,
+              "title": "Get Emotion",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/get-emotion.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/get-emotion",
+              "permalink": "/docs/Tutorials/Python SDK/get-emotion",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Get Sentiment",
+                "permalink": "/docs/Tutorials/Python SDK/get-sentiment-CS"
+              },
+              "next": {
+                "title": "FAQs",
+                "permalink": "/docs/help/faq"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/get-sentiment-CS",
+              "id": "Tutorials/Python SDK/get-sentiment-CS",
+              "isDocsHomePage": false,
+              "title": "Get Sentiment",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/get-sentiment-CS.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/get-sentiment-CS",
+              "permalink": "/docs/Tutorials/Python SDK/get-sentiment-CS",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "List Entities",
+                "permalink": "/docs/Tutorials/Python SDK/list-entities"
+              },
+              "next": {
+                "title": "Get Emotion",
+                "permalink": "/docs/Tutorials/Python SDK/get-emotion"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/list-entities",
+              "id": "Tutorials/Python SDK/list-entities",
+              "isDocsHomePage": false,
+              "title": "List Entities",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/list-entities.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/list-entities",
+              "permalink": "/docs/Tutorials/Python SDK/list-entities",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Word Frequency",
+                "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+              },
+              "next": {
+                "title": "Get Sentiment",
+                "permalink": "/docs/Tutorials/Python SDK/get-sentiment-CS"
+              }
+            },
+            {
               "unversionedId": "Tutorials/Python SDK/vocabulary",
               "id": "Tutorials/Python SDK/vocabulary",
               "isDocsHomePage": false,
@@ -1513,8 +1591,8 @@
                 "permalink": "/docs/Tutorials/Python SDK/word-count"
               },
               "next": {
-                "title": "FAQs",
-                "permalink": "/docs/help/faq"
+                "title": "List Entities",
+                "permalink": "/docs/Tutorials/Python SDK/list-entities"
               }
             }
           ],
@@ -1799,6 +1877,18 @@
                       {
                         "type": "doc",
                         "id": "Tutorials/Python SDK/word-frequency"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/list-entities"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/get-sentiment-CS"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/get-emotion"
                       }
                     ]
                   }

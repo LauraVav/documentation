@@ -344,6 +344,21 @@
                 "type": "link",
                 "label": "Word Frequency",
                 "href": "/docs/Tutorials/Python SDK/word-frequency"
+              },
+              {
+                "type": "link",
+                "label": "List Entities",
+                "href": "/docs/Tutorials/Python SDK/list-entities"
+              },
+              {
+                "type": "link",
+                "label": "Get Sentiment",
+                "href": "/docs/Tutorials/Python SDK/get-sentiment-CS"
+              },
+              {
+                "type": "link",
+                "label": "Get Emotion",
+                "href": "/docs/Tutorials/Python SDK/get-emotion"
               }
             ]
           }

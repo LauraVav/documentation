@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Word Frequency",
-    "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+    "title": "Get Emotion",
+    "permalink": "/docs/Tutorials/Python SDK/get-emotion"
   }
 }

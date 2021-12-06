@@ -286,6 +286,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/Python SDK/get-emotion",
+              "path": "/docs/Tutorials/Python SDK/get-emotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/get-sentiment-CS",
+              "path": "/docs/Tutorials/Python SDK/get-sentiment-CS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/list-entities",
+              "path": "/docs/Tutorials/Python SDK/list-entities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/Python SDK/vocabulary",
               "path": "/docs/Tutorials/Python SDK/vocabulary",
               "sidebar": "tutorialSidebar"
