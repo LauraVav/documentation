@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ML Sentiment",
-    "permalink": "/docs/API/ml-sentiment"
+    "title": "Proposition",
+    "permalink": "/docs/API/proposition"
   },
   "next": {
     "title": "Dependency Tags",

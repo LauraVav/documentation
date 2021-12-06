@@ -10,9 +10,9 @@
   "permalink": "/docs/API/ml-sentiment",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 17,
+  "sidebarPosition": 15,
   "frontMatter": {
-    "sidebar_position": 17
+    "sidebar_position": 15
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/docs/API/ml-emotion"
   },
   "next": {
-    "title": "Tags",
-    "permalink": "/docs/API/Glossary/tags"
+    "title": "Proposition",
+    "permalink": "/docs/API/proposition"
   }
 }

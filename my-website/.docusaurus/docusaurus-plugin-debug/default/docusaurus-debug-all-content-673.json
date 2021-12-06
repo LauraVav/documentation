@@ -29,9 +29,9 @@
               "permalink": "/docs/API/coreference",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 12,
+              "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 12
+                "sidebar_position": 10
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -107,9 +107,9 @@
               "permalink": "/docs/API/emotions",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 14,
+              "sidebarPosition": 12,
               "frontMatter": {
-                "sidebar_position": 14
+                "sidebar_position": 12
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -133,9 +133,9 @@
               "permalink": "/docs/API/entities-numeral",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -169,8 +169,8 @@
                 "permalink": "/docs/API/Glossary/entities"
               },
               "next": {
-                "title": "Proposition",
-                "permalink": "/docs/API/proposition"
+                "title": "Tokenizer",
+                "permalink": "/docs/Tool guides/tokenizer"
               }
             },
             {
@@ -321,8 +321,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ML Sentiment",
-                "permalink": "/docs/API/ml-sentiment"
+                "title": "Proposition",
+                "permalink": "/docs/API/proposition"
               },
               "next": {
                 "title": "Dependency Tags",
@@ -393,9 +393,9 @@
               "permalink": "/docs/API/ml-emotion",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 16,
+              "sidebarPosition": 14,
               "frontMatter": {
-                "sidebar_position": 16
+                "sidebar_position": 14
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -419,9 +419,9 @@
               "permalink": "/docs/API/ml-sentiment",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 17,
+              "sidebarPosition": 15,
               "frontMatter": {
-                "sidebar_position": 17
+                "sidebar_position": 15
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -429,8 +429,8 @@
                 "permalink": "/docs/API/ml-emotion"
               },
               "next": {
-                "title": "Tags",
-                "permalink": "/docs/API/Glossary/tags"
+                "title": "Proposition",
+                "permalink": "/docs/API/proposition"
               }
             },
             {
@@ -471,9 +471,9 @@
               "permalink": "/docs/API/parser-dependency",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 11,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 11
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -523,18 +523,18 @@
               "permalink": "/docs/API/proposition",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 18,
+              "sidebarPosition": 16,
               "frontMatter": {
-                "sidebar_position": 18
+                "sidebar_position": 16
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Categories",
-                "permalink": "/docs/API/Glossary/categories"
+                "title": "ML Sentiment",
+                "permalink": "/docs/API/ml-sentiment"
               },
               "next": {
-                "title": "Tokenizer",
-                "permalink": "/docs/Tool guides/tokenizer"
+                "title": "Tags",
+                "permalink": "/docs/API/Glossary/tags"
               }
             },
             {
@@ -549,9 +549,9 @@
               "permalink": "/docs/API/sentence-acts",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 13,
+              "sidebarPosition": 11,
               "frontMatter": {
-                "sidebar_position": 13
+                "sidebar_position": 11
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -575,9 +575,9 @@
               "permalink": "/docs/API/sentiment",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 15,
+              "sidebarPosition": 13,
               "frontMatter": {
-                "sidebar_position": 15
+                "sidebar_position": 13
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -1119,8 +1119,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Proposition",
-                "permalink": "/docs/API/proposition"
+                "title": "Categories",
+                "permalink": "/docs/API/Glossary/categories"
               },
               "next": {
                 "title": "POS Tagger",
@@ -1665,6 +1665,10 @@
                     "id": "API/ml-sentiment"
                   },
                   {
+                    "type": "doc",
+                    "id": "API/proposition"
+                  },
+                  {
                     "type": "category",
                     "label": "Glossary",
                     "collapsible": true,
@@ -1699,10 +1703,6 @@
                         "id": "API/Glossary/categories"
                       }
                     ]
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/proposition"
                   }
                 ]
               },

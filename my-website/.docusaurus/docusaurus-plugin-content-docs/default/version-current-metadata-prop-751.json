@@ -153,6 +153,11 @@
             "href": "/docs/API/ml-sentiment"
           },
           {
+            "type": "link",
+            "label": "Proposition",
+            "href": "/docs/API/proposition"
+          },
+          {
             "type": "category",
             "label": "Glossary",
             "collapsible": true,
@@ -194,11 +199,6 @@
                 "href": "/docs/API/Glossary/categories"
               }
             ]
-          },
-          {
-            "type": "link",
-            "label": "Proposition",
-            "href": "/docs/API/proposition"
           }
         ]
       },

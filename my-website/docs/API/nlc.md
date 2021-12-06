@@ -22,7 +22,6 @@ The NER sub-api lists all the Numeral Entities and Named Entities found in the s
 
 A value object can either be a numeric value for some adjectives, an entity value for entities, or a 'null' value for names.
 
-
 ## NLP
 
 ### NLP Object

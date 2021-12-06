@@ -10,17 +10,17 @@
   "permalink": "/docs/API/proposition",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 18,
+  "sidebarPosition": 16,
   "frontMatter": {
-    "sidebar_position": 18
+    "sidebar_position": 16
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Categories",
-    "permalink": "/docs/API/Glossary/categories"
+    "title": "ML Sentiment",
+    "permalink": "/docs/API/ml-sentiment"
   },
   "next": {
-    "title": "Tokenizer",
-    "permalink": "/docs/Tool guides/tokenizer"
+    "title": "Tags",
+    "permalink": "/docs/API/Glossary/tags"
   }
 }
