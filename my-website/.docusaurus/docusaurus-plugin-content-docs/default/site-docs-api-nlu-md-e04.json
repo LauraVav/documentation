@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NLP",
-    "permalink": "/docs/API/nlp"
+    "title": "NLC",
+    "permalink": "/docs/API/nlc"
   },
   "next": {
     "title": "Entities Numeral",

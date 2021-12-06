@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NER",
-    "permalink": "/docs/API/ner"
+    "title": "Entities Numeral",
+    "permalink": "/docs/API/entities-numeral"
   },
   "next": {
     "title": "Coreference",

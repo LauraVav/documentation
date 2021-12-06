@@ -91,18 +91,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "API/ner",
-              "path": "/docs/API/ner",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/nlp",
-              "path": "/docs/API/nlp",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/nlu",
-              "path": "/docs/API/nlu",
+              "id": "API/nlc",
+              "path": "/docs/API/nlc",
               "sidebar": "tutorialSidebar"
             },
             {

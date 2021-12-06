@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/nlc",
+  "id": "API/nlc",
+  "isDocsHomePage": false,
+  "title": "NLC",
+  "description": "Includes NER, NLP and NLU modules.",
+  "source": "@site/docs/API/nlc.md",
+  "sourceDirName": "API",
+  "slug": "/API/nlc",
+  "permalink": "/docs/API/nlc",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disturbance",
+    "permalink": "/docs/API/disturbance"
+  },
+  "next": {
+    "title": "Entities Numeral",
+    "permalink": "/docs/API/entities-numeral"
+  }
+}

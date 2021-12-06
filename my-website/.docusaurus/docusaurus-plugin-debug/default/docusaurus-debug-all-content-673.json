@@ -65,8 +65,8 @@
                 "permalink": "/docs/API/pos-tagger"
               },
               "next": {
-                "title": "NLP",
-                "permalink": "/docs/API/nlp"
+                "title": "NLC",
+                "permalink": "/docs/API/nlc"
               }
             },
             {
@@ -139,12 +139,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "NLU",
-                "permalink": "/docs/API/nlu"
+                "title": "NLC",
+                "permalink": "/docs/API/nlc"
               },
               "next": {
-                "title": "NER",
-                "permalink": "/docs/API/ner"
+                "title": "Parser Dependency",
+                "permalink": "/docs/API/parser-dependency"
               }
             },
             {
@@ -169,8 +169,8 @@
                 "permalink": "/docs/API/Glossary/entities"
               },
               "next": {
-                "title": "Tokenizer",
-                "permalink": "/docs/Tool guides/tokenizer"
+                "title": "Proposition",
+                "permalink": "/docs/API/proposition"
               }
             },
             {
@@ -321,8 +321,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Proposition",
-                "permalink": "/docs/API/proposition"
+                "title": "ML Sentiment",
+                "permalink": "/docs/API/ml-sentiment"
               },
               "next": {
                 "title": "Dependency Tags",
@@ -429,82 +429,30 @@
                 "permalink": "/docs/API/ml-emotion"
               },
               "next": {
-                "title": "Proposition",
-                "permalink": "/docs/API/proposition"
+                "title": "Tags",
+                "permalink": "/docs/API/Glossary/tags"
               }
             },
             {
-              "unversionedId": "API/ner",
-              "id": "API/ner",
+              "unversionedId": "API/nlc",
+              "id": "API/nlc",
               "isDocsHomePage": false,
-              "title": "NER",
-              "description": "The NER sub-api lists all the Numeral Entities and Named Entities found in the sentence.",
-              "source": "@site/docs/API/ner.md",
+              "title": "NLC",
+              "description": "Includes NER, NLP and NLU modules.",
+              "source": "@site/docs/API/nlc.md",
               "sourceDirName": "API",
-              "slug": "/API/ner",
-              "permalink": "/docs/API/ner",
+              "slug": "/API/nlc",
+              "permalink": "/docs/API/nlc",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 10,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 10
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Entities Numeral",
-                "permalink": "/docs/API/entities-numeral"
-              },
-              "next": {
-                "title": "Parser Dependency",
-                "permalink": "/docs/API/parser-dependency"
-              }
-            },
-            {
-              "unversionedId": "API/nlp",
-              "id": "API/nlp",
-              "isDocsHomePage": false,
-              "title": "NLP",
-              "description": "NLP Object",
-              "source": "@site/docs/API/nlp.md",
-              "sourceDirName": "API",
-              "slug": "/API/nlp",
-              "permalink": "/docs/API/nlp",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Disturbance",
                 "permalink": "/docs/API/disturbance"
-              },
-              "next": {
-                "title": "NLU",
-                "permalink": "/docs/API/nlu"
-              }
-            },
-            {
-              "unversionedId": "API/nlu",
-              "id": "API/nlu",
-              "isDocsHomePage": false,
-              "title": "NLU",
-              "description": "Understanding for each token in the sentence.",
-              "source": "@site/docs/API/nlu.md",
-              "sourceDirName": "API",
-              "slug": "/API/nlu",
-              "permalink": "/docs/API/nlu",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {
-                "sidebar_position": 8
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "NLP",
-                "permalink": "/docs/API/nlp"
               },
               "next": {
                 "title": "Entities Numeral",
@@ -529,8 +477,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "NER",
-                "permalink": "/docs/API/ner"
+                "title": "Entities Numeral",
+                "permalink": "/docs/API/entities-numeral"
               },
               "next": {
                 "title": "Coreference",
@@ -581,12 +529,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "ML Sentiment",
-                "permalink": "/docs/API/ml-sentiment"
+                "title": "Categories",
+                "permalink": "/docs/API/Glossary/categories"
               },
               "next": {
-                "title": "Tags",
-                "permalink": "/docs/API/Glossary/tags"
+                "title": "Tokenizer",
+                "permalink": "/docs/Tool guides/tokenizer"
               }
             },
             {
@@ -1171,8 +1119,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Categories",
-                "permalink": "/docs/API/Glossary/categories"
+                "title": "Proposition",
+                "permalink": "/docs/API/proposition"
               },
               "next": {
                 "title": "POS Tagger",
@@ -1682,19 +1630,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "API/nlp"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/nlu"
+                    "id": "API/nlc"
                   },
                   {
                     "type": "doc",
                     "id": "API/entities-numeral"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/ner"
                   },
                   {
                     "type": "doc",
@@ -1723,10 +1663,6 @@
                   {
                     "type": "doc",
                     "id": "API/ml-sentiment"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/proposition"
                   },
                   {
                     "type": "category",
@@ -1763,6 +1699,10 @@
                         "id": "API/Glossary/categories"
                       }
                     ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/proposition"
                   }
                 ]
               },

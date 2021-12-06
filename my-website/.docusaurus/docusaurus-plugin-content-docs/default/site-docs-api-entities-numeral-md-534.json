@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NLU",
-    "permalink": "/docs/API/nlu"
+    "title": "NLC",
+    "permalink": "/docs/API/nlc"
   },
   "next": {
-    "title": "NER",
-    "permalink": "/docs/API/ner"
+    "title": "Parser Dependency",
+    "permalink": "/docs/API/parser-dependency"
   }
 }

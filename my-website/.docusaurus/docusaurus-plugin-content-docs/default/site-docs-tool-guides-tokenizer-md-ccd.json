@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Categories",
-    "permalink": "/docs/API/Glossary/categories"
+    "title": "Proposition",
+    "permalink": "/docs/API/proposition"
   },
   "next": {
     "title": "POS Tagger",

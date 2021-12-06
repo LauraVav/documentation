@@ -109,23 +109,13 @@
           },
           {
             "type": "link",
-            "label": "NLP",
-            "href": "/docs/API/nlp"
-          },
-          {
-            "type": "link",
-            "label": "NLU",
-            "href": "/docs/API/nlu"
+            "label": "NLC",
+            "href": "/docs/API/nlc"
           },
           {
             "type": "link",
             "label": "Entities Numeral",
             "href": "/docs/API/entities-numeral"
-          },
-          {
-            "type": "link",
-            "label": "NER",
-            "href": "/docs/API/ner"
           },
           {
             "type": "link",
@@ -161,11 +151,6 @@
             "type": "link",
             "label": "ML Sentiment",
             "href": "/docs/API/ml-sentiment"
-          },
-          {
-            "type": "link",
-            "label": "Proposition",
-            "href": "/docs/API/proposition"
           },
           {
             "type": "category",
@@ -209,6 +194,11 @@
                 "href": "/docs/API/Glossary/categories"
               }
             ]
+          },
+          {
+            "type": "link",
+            "label": "Proposition",
+            "href": "/docs/API/proposition"
           }
         ]
       },
