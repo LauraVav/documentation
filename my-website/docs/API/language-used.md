@@ -37,3 +37,145 @@ probabilities for 140 languages
 | tr  	| float 	| Turkish     	|
 | ... 	| float 	| ...         	|
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+"sentence_level":{
+    "label":"fr",
+    "accuracy":0.8050500154495239
+    },
+    "word_level":
+    {
+    "i":1,
+    "source":"je",
+    "language":[
+        {
+        "label":"sr",
+        "accuracy":0.8350609540939331
+        },
+        {
+        "label":"fr",
+        "accuracy":0.15938909351825714
+        },
+        {
+        "label":"sl",
+        "accuracy":0.003785850713029504
+        }
+    ]
+    },
+    {
+    "i":2,
+    "source":"suis",
+    "language":[
+        {
+        "label":"fr",
+        "accuracy":0.9970543384552002
+        },
+        {
+        "label":"en",
+        "accuracy":0.002935485215857625
+        },
+        {
+        "label":"la"
+        "accuracy":0.00004386376895126887
+        }
+    ]
+    },
+    {
+    "i":3,
+    "source":"Lettria",
+    "language":[
+        {
+        "label":"it",
+        "accuracy":0.9687148332595825
+        },
+        {
+        "label":"de",
+        "accuracy":0.012400689534842968
+        },
+        {
+        "label":"es",
+        "accuracy":0.003765000030398369
+        }
+    ]
+    }
+    ],
+    "predict":"fr"
+}
+
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+"sentence_level":{
+    "label":"fr",
+    "accuracy":0.8050500154495239
+    },
+    "word_level":
+    {
+    "i":1,
+    "source":"je",
+    "language":[
+        {
+        "label":"sr",
+        "accuracy":0.8350609540939331
+        },
+        {
+        "label":"fr",
+        "accuracy":0.15938909351825714
+        },
+        {
+        "label":"sl",
+        "accuracy":0.003785850713029504
+        }
+    ]
+    },
+    {
+    "i":2,
+    "source":"suis",
+    "language":[
+        {
+        "label":"fr",
+        "accuracy":0.9970543384552002
+        },
+        {
+        "label":"en",
+        "accuracy":0.002935485215857625
+        },
+        {
+        "label":"la"
+        "accuracy":0.00004386376895126887
+        }
+    ]
+    },
+    {
+    "i":3,
+    "source":"Lettria",
+    "language":[
+        {
+        "label":"it",
+        "accuracy":0.9687148332595825
+        },
+        {
+        "label":"de",
+        "accuracy":0.012400689534842968
+        },
+        {
+        "label":"es",
+        "accuracy":0.003765000030398369
+        }
+    ]
+    }
+    ],
+    "predict":"fr"
+}
+```
+
+</TabItem>
+</Tabs>

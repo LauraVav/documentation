@@ -58,3 +58,145 @@ Target is the word which represents the target of the emotion
 | fear      	| float 	| normalized total 	| -1 < fear < 1      	|
 
 Values are calculated by using emotion elements objects. Values are normalized to stay in the the [-1 : 1] interval between element, subsentence and sentence level therefore comparisons should be made made with elements of the same depth.
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+{
+    "elements": [
+        {
+            "source": {
+                "index": 1,
+                "lemma": "aimer",
+                "source": "aime"
+            },
+            "subject": {
+                "index": 0,
+                "lemma": "il",
+                "source": "elle"
+            },
+            "target": {
+                "index": 3,
+                "lemma": "chien",
+                "source": "chiens"
+            },
+            "type": "happiness",
+            "value": 0.46
+        }
+    ],
+    "values": {
+        "anger": 0,
+        "disgust": 0,
+        "fear": 0,
+        "happiness": 0.17,
+        "sadness": 0,
+        "surprise": 0
+    },
+    "subsentences": {
+        "sentence": "elle aime les chiens",
+        "start_id": 0,
+        "end_id": 3,
+        "elements": [
+            {
+                "source": {
+                    "index": 1,
+                    "lemma": "aimer",
+                    "source": "aime"
+                },
+                "subject": {
+                    "index": 0,
+                    "lemma": "il",
+                    "source": "elle"
+                },
+                "target": {
+                    "index": 3,
+                    "lemma": "chien",
+                    "source": "chiens"
+                },
+                "type": "happiness",
+                "value": 0.46
+            }
+        ],
+        "values": {
+                "negative": 0,
+                "positive": 0.27,
+                "total": 0.27
+        }
+    }
+}
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+{
+    "elements": [
+        {
+            "source": {
+                "index": 1,
+                "lemma": "aimer",
+                "source": "aime"
+            },
+            "subject": {
+                "index": 0,
+                "lemma": "il",
+                "source": "elle"
+            },
+            "target": {
+                "index": 3,
+                "lemma": "chien",
+                "source": "chiens"
+            },
+            "type": "happiness",
+            "value": 0.46
+        }
+    ],
+    "values": {
+        "anger": 0,
+        "disgust": 0,
+        "fear": 0,
+        "happiness": 0.17,
+        "sadness": 0,
+        "surprise": 0
+    },
+    "subsentences": {
+        "sentence": "elle aime les chiens",
+        "start_id": 0,
+        "end_id": 3,
+        "elements": [
+            {
+                "source": {
+                    "index": 1,
+                    "lemma": "aimer",
+                    "source": "aime"
+                },
+                "subject": {
+                    "index": 0,
+                    "lemma": "il",
+                    "source": "elle"
+                },
+                "target": {
+                    "index": 3,
+                    "lemma": "chien",
+                    "source": "chiens"
+                },
+                "type": "happiness",
+                "value": 0.46
+            }
+        ],
+        "values": {
+                "negative": 0,
+                "positive": 0.27,
+                "total": 0.27
+        }
+    }
+}
+```
+
+</TabItem>
+</Tabs>

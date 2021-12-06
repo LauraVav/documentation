@@ -22,6 +22,62 @@ The NER sub-api lists all the Numeral Entities and Named Entities found in the s
 
 A value object can either be a numeric value for some adjectives, an entity value for entities, or a 'null' value for names.
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+[
+  {
+    "source": "Paris",
+    "type": "LOCATION",
+    "value": null
+  },
+  {
+    "source": "12 mai",
+    "type": "date",
+    "value": {
+      "ISO": "2019-05-12",
+      "chronology": "future",
+      "chronology_day": 58,
+      "confidence": 0.99,
+      "formatted": "Sunday 12 May 2019 00:00:00",
+      "timestamp": 1557612000
+    }
+  }
+]
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+[
+  {
+    "source": "Paris",
+    "type": "LOCATION",
+    "value": null
+  },
+  {
+    "source": "12 mai",
+    "type": "date",
+    "value": {
+      "ISO": "2019-05-12",
+      "chronology": "future",
+      "chronology_day": 58,
+      "confidence": 0.99,
+      "formatted": "Sunday 12 May 2019 00:00:00",
+      "timestamp": 1557612000
+    }
+  }
+]
+```
+
+</TabItem>
+</Tabs>
+
 ## NLP
 
 ### NLP Object
@@ -78,6 +134,141 @@ Gives information about the gender and plurality of a word.
 | category 	| string 	| see Preposition categories 	|
 | next     	| string 	| see Preposition next       	|
 
+
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+[
+    {
+        "lemmatizer": {
+            "gender": {
+                "female": false,
+                "plural": false
+            },
+            "mode": "define",
+            "possessing": -1
+        },
+        "source": "le",
+        "tag": "D"
+    },
+    {
+        "lemmatizer": {
+            "confidence": "0.99",
+            "gender": {
+                "female": false,
+                "plural": false
+            },
+            "lemma": "chemin"
+        },
+        "source": "chemin",
+        "tag": "N"
+    },
+    {
+        "lemmatizer": [
+            {
+                "confidence": "0.99",
+                "conjugate": [
+                    {
+                        "mode": "indicative",
+                        "pronom": 3,
+                        "temps": "present"
+                    }
+                ],
+                "infinit": "etre"
+            }
+        ],
+        "source": "est",
+        "tag": "V"
+    },
+    {
+        "lemmatizer": {
+            "confidence": "0.99",
+            "gender": {
+                "female": false,
+                "plural": false
+            },
+            "lemma": "long"
+        },
+        "source": "long",
+        "tag": "JJ"
+    },
+    {
+        "source": ".",
+        "tag": "PUNCT"
+    }
+]
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+[
+    {
+        "lemmatizer": {
+            "gender": {
+                "female": false,
+                "plural": false
+            },
+            "mode": "define",
+            "possessing": -1
+        },
+        "source": "le",
+        "tag": "D"
+    },
+    {
+        "lemmatizer": {
+            "confidence": "0.99",
+            "gender": {
+                "female": false,
+                "plural": false
+            },
+            "lemma": "chemin"
+        },
+        "source": "chemin",
+        "tag": "N"
+    },
+    {
+        "lemmatizer": [
+            {
+                "confidence": "0.99",
+                "conjugate": [
+                    {
+                        "mode": "indicative",
+                        "pronom": 3,
+                        "temps": "present"
+                    }
+                ],
+                "infinit": "etre"
+            }
+        ],
+        "source": "est",
+        "tag": "V"
+    },
+    {
+        "lemmatizer": {
+            "confidence": "0.99",
+            "gender": {
+                "female": false,
+                "plural": false
+            },
+            "lemma": "long"
+        },
+        "source": "long",
+        "tag": "JJ"
+    },
+    {
+        "source": ".",
+        "tag": "PUNCT"
+    }
+]
+```
+
+</TabItem>
+</Tabs>
+
 ## NLU
 
 Understanding for each token in the sentence.
@@ -91,4 +282,143 @@ Understanding for each token in the sentence.
 | meaning 	| list of Category Objects 	| Known meanings for the item                                      	| Can be empty.                                                            	|
 | source  	| string                   	| -                                                                	| if len is greater than one, will be the merged sources of original items 	|
 | value   	| dict                     	| Depends on tag. Most values are in the 'scalar' key of this dict 	|                                                                          	|
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+[
+    {
+        "compose":[
+
+        ],
+        "index":0,
+        "len":1,
+        "meaning":[
+            "Pronom"
+        ],
+        "source":"je",
+        "value":"S-1"
+    },
+    {
+        "compose":[
+
+        ],
+        "index":1,
+        "infinit":[
+            "manger"
+        ],
+        "len":1,
+        "meaning":[
+            "action_feed",
+            "action_eat"
+        ],
+        "source":"mange",
+        "value":None,
+        "verb_meaning":{
+            "manger":[
+                "action_feed",
+                "action_eat"
+            ]
+        }
+    },
+    {
+        "compose":[
+
+        ],
+        "index":2,
+        "len":1,
+        "meaning":[
+            "Number"
+        ],
+        "source":"une",
+        "value":1
+    },
+    {
+        "compose":[
+
+        ],
+        "index":3,
+        "len":1,
+        "meaning":[
+            "color",
+            "firstname",
+            "fruit"
+        ],
+        "source":"pomme",
+        "value":None
+    }
+]
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+[
+    {
+        "compose":[
+
+        ],
+        "index":0,
+        "len":1,
+        "meaning":[
+            "Pronom"
+        ],
+        "source":"je",
+        "value":"S-1"
+    },
+    {
+        "compose":[
+
+        ],
+        "index":1,
+        "infinit":[
+            "manger"
+        ],
+        "len":1,
+        "meaning":[
+            "action_feed",
+            "action_eat"
+        ],
+        "source":"mange",
+        "value":None,
+        "verb_meaning":{
+            "manger":[
+                "action_feed",
+                "action_eat"
+            ]
+        }
+    },
+    {
+        "compose":[
+
+        ],
+        "index":2,
+        "len":1,
+        "meaning":[
+            "Number"
+        ],
+        "source":"une",
+        "value":1
+    },
+    {
+        "compose":[
+
+        ],
+        "index":3,
+        "len":1,
+        "meaning":[
+            "color",
+            "firstname",
+            "fruit"
+        ],
+        "source":"pomme",
+        "value":None
+    }
+]
+```
+
+</TabItem>
+</Tabs>
 

@@ -55,3 +55,135 @@ Target is the word which represents the target of the sentiment
 
 
 Values are calculated either by using sentiment elements objects if available, or by a prediction model at the subsentence level. Values are normalized to stay in the the [-1 : 1] interval between element, subsentence and sentence level therefore comparisons should be made made with elements of the same depth.
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+{
+    "elements": [
+        {
+            "source": {
+                "index": 1,
+                "lemma": "aimer",
+                "source": "aime"
+            },
+            "subject": {
+                "index": 0,
+                "lemma": "il",
+                "source": "elle"
+            },
+            "target": {
+                "index": 3,
+                "lemma": "chien",
+                "source": "chiens"
+            },
+            "value": 0.46
+        }
+    ],
+    "values": {
+        "negative": 0,
+        "positive": 0.17,
+        "total": 0.17
+    },
+    "subsentences": {
+        "sentence": "elle aime les chiens",
+        "start_id": 0,
+        "end_id": 3,
+        "elements": [
+            {
+                "source": {
+                    "index": 1,
+                    "lemma": "aimer",
+                    "source": "aime"
+                },
+                "subject": {
+                    "index": 0,
+                    "lemma": "il",
+                    "source": "elle"
+                },
+                "target": {
+                    "index": 3,
+                    "lemma": "chien",
+                    "source": "chiens"
+                },
+                "value": 0.27
+            }
+        ],
+        "values": {
+                "negative": 0,
+                "positive": 0.17,
+                "total": 0.17
+        }
+    }
+}
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+{
+    "elements": [
+        {
+            "source": {
+                "index": 1,
+                "lemma": "aimer",
+                "source": "aime"
+            },
+            "subject": {
+                "index": 0,
+                "lemma": "il",
+                "source": "elle"
+            },
+            "target": {
+                "index": 3,
+                "lemma": "chien",
+                "source": "chiens"
+            },
+            "value": 0.46
+        }
+    ],
+    "values": {
+        "negative": 0,
+        "positive": 0.17,
+        "total": 0.17
+    },
+    "subsentences": {
+        "sentence": "elle aime les chiens",
+        "start_id": 0,
+        "end_id": 3,
+        "elements": [
+            {
+                "source": {
+                    "index": 1,
+                    "lemma": "aimer",
+                    "source": "aime"
+                },
+                "subject": {
+                    "index": 0,
+                    "lemma": "il",
+                    "source": "elle"
+                },
+                "target": {
+                    "index": 3,
+                    "lemma": "chien",
+                    "source": "chiens"
+                },
+                "value": 0.27
+            }
+        ],
+        "values": {
+                "negative": 0,
+                "positive": 0.17,
+                "total": 0.17
+        }
+    }
+}
+```
+
+</TabItem>
+</Tabs>

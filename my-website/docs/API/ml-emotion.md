@@ -41,3 +41,81 @@ The model is composed by multiple adapters trained on diverses datasets, then fi
 
 Main data source : ```
 @misc{demszky2020goemotions, title={GoEmotions: A Dataset of Fine-Grained Emotions}, author={Dorottya Demszky and Dana Movshovitz-Attias and Jeongwoo Ko and Alan Cowen and Gaurav Nemade and Sujith Ravi}, year={2020}, eprint={2005.00547}, archivePrefix={arXiv}, primaryClass={cs.CL} } Adapters models: @inproceedings{pfeiffer2020AdapterHub, title={AdapterHub: A Framework for Adapting Transformers}, author={Jonas Pfeiffer and Andreas R\"uckl\'{e} and Clifton Poth and Aishwarya Kamath and Ivan Vuli\'{c} and Sebastian Ruder and Kyunghyun Cho and Iryna Gurevych}, booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020): Systems Demonstrations}, year={2020}, address = "Online", publisher = "Association for Computational Linguistics", url = "https://www.aclweb.org/anthology/2020.emnlp-demos.7", pages = "46--54", }```
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="py" label="Python">
+
+```py
+{
+  'ml_emotion': {
+    'sentence': [
+      {
+        'type': 'admiration', 'value': 1
+      },
+      {
+        'type': 'realization', 'value': 1
+      }
+    ],
+    'subsentence': [
+      [
+        {
+          'type': 'admiration', 'value': 1
+        }, 
+        {
+          'type': 'realization', 'value': 1
+        }
+      ], 
+      [
+        {
+          'type': 'embarrassment', 'value': 1
+        }, 
+        {
+          'type': 'sadness', 'value': 1
+        }
+      ]
+    ]
+  }
+}
+```
+
+</TabItem>
+<TabItem value="json" label="JSON">
+
+```json
+{
+  'ml_emotion': {
+    'sentence': [
+      {
+        'type': 'admiration', 'value': 1
+      },
+      {
+        'type': 'realization', 'value': 1
+      }
+    ],
+    'subsentence': [
+      [
+        {
+          'type': 'admiration', 'value': 1
+        }, 
+        {
+          'type': 'realization', 'value': 1
+        }
+      ], 
+      [
+        {
+          'type': 'embarrassment', 'value': 1
+        }, 
+        {
+          'type': 'sadness', 'value': 1
+        }
+      ]
+    ]
+  }
+}
+```
+
+</TabItem>
+</Tabs>
