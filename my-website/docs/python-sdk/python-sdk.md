@@ -8,7 +8,7 @@ sidebar_position: 1
 
 All your requests must contain a header called Authorization. The value of the header must be created like so : **"LettriaProKey API_KEY"**.
 
-Get your free API_KEY on your [Dashboard](https://www.lettria.com/fr/demo).
+Get your free API_KEY on your [Dashboard](https://app.lettria.com/nlp).
 
 ```python
 

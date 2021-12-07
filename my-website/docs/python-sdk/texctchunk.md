@@ -13,20 +13,20 @@ It offers different methods that can be accessed through children classes.
 
 | METHOD                                                                                                               	| DESCRIPTION                                                     	|
 |----------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------	|
-| [vocabulary()](https://www.lettria.com/doc)               	| Returns vocabulary from current data.                           	|
-| [word_count()](https://www.lettria.com/doc)               	| Returns word count from current data.                           	|
-| [word_frequency()](https://www.lettria.com/doc)       	| Returns word frequency of current data.                         	|
-| [list_entities()](https://www.lettria.com/doc)         	| Returns dictionaries of detected entities by type.              	|
-| [get_emotion()](https://www.lettria.com/doc)             	| Returns emotion results at the specified hierarchical level     	|
-| [get_sentiment()](https://www.lettria.com/doc)         	| Returns sentiment results at the specified hierarchical level   	|
-| [word_sentiment()](https://www.lettria.com/doc)       	| Returns average sentiment for each word of the whole vocabulary 	|
-| [word_emotion()](https://www.lettria.com/doc)           	| Returns average emotion for each word of the whole vocabulary   	|
-| [meaning_sentiment()](https://www.lettria.com/doc) 	| Returns average sentiment for each meaning                      	|
-| [meaning_emotion()](https://www.lettria.com/doc)     	| Returns average emotion for each meaning                        	|
-| [filter_polarity()](https://www.lettria.com/doc)     	| Filters Sentence or Subsentence of the specified polarity       	|
-| [filter_emotion()](https://www.lettria.com/doc)       	| Filters Sentence or Subsentence of the specified emotions       	|
-| [filter_type()](https://www.lettria.com/doc)             	| Filters Sentence of the specified types                         	|
-| [match_pattern()](https://www.lettria.com/doc)         	| Returns matches from given patterns.                            	|
+| [vocabulary()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#vocabulary)               	| Returns vocabulary from current data.                           	|
+| [word_count()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#word_count)               	| Returns word count from current data.                           	|
+| [word_frequency()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#word_frequency)       	| Returns word frequency of current data.                         	|
+| [list_entities()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#list_entities)         	| Returns dictionaries of detected entities by type.              	|
+| [get_emotion()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#get_emotion)             	| Returns emotion results at the specified hierarchical level     	|
+| [get_sentiment()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#get_sentiment)         	| Returns sentiment results at the specified hierarchical level   	|
+| [word_sentiment()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#word_sentiment)       	| Returns average sentiment for each word of the whole vocabulary 	|
+| [word_emotion()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#word_emotion)           	| Returns average emotion for each word of the whole vocabulary   	|
+| [meaning_sentiment()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#meaning_sentiment) 	| Returns average sentiment for each meaning                      	|
+| [meaning_emotion()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#meaning_emotion)     	| Returns average emotion for each meaning                        	|
+| [filter_polarity()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#filter_polarity)     	| Filters Sentence or Subsentence of the specified polarity       	|
+| [filter_emotion()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#filter_emotion)       	| Filters Sentence or Subsentence of the specified emotions       	|
+| [filter_type()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#filter_type)             	| Filters Sentence of the specified types                         	|
+| [match_pattern()](https://www.lettria.com/documentation/docs/python-sdk/texctchunk#match_pattern)         	| Returns matches from given patterns.                            	|
 
 
 ## TextChunk methods
@@ -303,7 +303,7 @@ Filters **Sentence** of the specified emotions.
 | list of instances of Sentence or Subsentence 	| List of instances of objects with the specified emotion. 	|
 
 
-### filter_type ⌨️
+### filter_type 
 
 ```python
 filter_type(sentence_type)

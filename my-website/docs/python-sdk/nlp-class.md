@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## What's the NLP class?
 
-**NLP** inherits from [TextChunk](#).
+**NLP** inherits from [TextChunk](https://www.lettria.com/documentation/docs/python-sdk/texctchunk).
 
 **NLP** is a class designed to give access to relevant data at the different levels (document, sentence, subsentence) in an intuitive way. It allows you to perform quick data exploration, manipulation and analysis.
 It's also used to perform requests and can save as well as load result as **JSON** objects.
@@ -23,13 +23,13 @@ NLP is iterable and will yield Document instances.
 
 | Name              	| Type                          	| Description                                                              	|
 |-------------------	|-------------------------------	|--------------------------------------------------------------------------	|
-| documents         	| list of [Document](#) instances    	| List of all the **Document instances**                                       	|
-| sentences         	| list of [Sentence](#) instances    	| Direct access to all of the **Sentences** instances.                         	|
-| subsentences      	| list of [Subsentence](#) instances 	| Direct access to all of the **Subsentence** instances.                       	|
-| tokens            	| list of [Token](#) instances       	| Direct access to all **Tokens** in the subsentence                            	|
+| documents         	| list of [Document](https://www.lettria.com/documentation/docs/python-sdk/document-class) instances    	| List of all the **Document instances**                                       	|
+| sentences         	| list of [Sentence](https://www.lettria.com/documentation/docs/python-sdk/sentence-class) instances    	| Direct access to all of the **Sentences** instances.                         	|
+| subsentences      	| list of [Subsentence](https://www.lettria.com/documentation/docs/python-sdk/subsentence-class) instances 	| Direct access to all of the **Subsentence** instances.                       	|
+| tokens            	| list of [Token](https://www.lettria.com/documentation/docs/python-sdk/token-class) instances       	| Direct access to all **Tokens** in the subsentence                            	|
 | fields            	| list of string                	| List of all common properties accessible at all levels (token, pos etc.) 	|
-| fields            	| instance of [Client](#)            	| Client used for performing request to Lettria's API                      	|
-| [Common properties](#)	| depends on property           	| Properties allowing access to specific data (pos, token etc.)            	|
+| fields            	| instance of [Client](https://www.lettria.com/documentation/docs/python-sdk/client-class)            	| Client used for performing request to Lettria's API                      	|
+| [Common properties](https://www.lettria.com/documentation/docs/python-sdk/common-properties)	| depends on property           	| Properties allowing access to specific data (pos, token etc.)            	|
 
 ## NLP methods
 
