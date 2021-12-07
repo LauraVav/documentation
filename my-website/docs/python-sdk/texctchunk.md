@@ -334,7 +334,7 @@ Match given pattern (either **Token Pattern** or **Dependency Pattern**) on the 
 
 The **'level'** argument specifies on which level the matching should be done, i.e. on the document level (returns matches per document), on the sentence or subsentence level. The default level is one level below in the hierarchy, document for **NLP class**, sentence for **Document** class and subsentence for **Sentence** class.
 
-For more information on patterns look at the dedicated section: [Patterns](#).
+For more information on patterns look at the dedicated section: [Patterns](https://www.lettria.com/documentation/docs/python-sdk/patterns).
 
 **Parameters:**
 

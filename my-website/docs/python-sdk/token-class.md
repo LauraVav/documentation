@@ -10,4 +10,4 @@ sidebar_position: 7
 
 | Name                                                                                   	| Type                	| Description                                                   	|
 |----------------------------------------------------------------------------------------	|---------------------	|---------------------------------------------------------------	|
-| [common properties](https://lettria-doc.netlify.app/docs/python-sdk/common-properties) 	| depends on property 	| Properties allowing access to specific data (pos, token etc.) 	|
+| [common properties](https://www.lettria.com/documentation/docs/python-sdk/common-properties) 	| depends on property 	| Properties allowing access to specific data (pos, token etc.) 	|
