@@ -11,10 +11,10 @@ In this object, each key corresponds to the returned object from a sub-API.
 | KEY               	| TYPE                           	| DESCRIPTION                                                             	|
 |-------------------	|--------------------------------	|-------------------------------------------------------------------------	|
 | tokenizer         	| list of string                 	| List of tokens                                                          	|
-| Entities_numeral  	| list of Numeral Entity Object  	| -                                                                       	|
-| NER               	| list of NER Object             	| Lists all the Numeral Entities and Named Entities found in the sentence 	|
-| NLP               	| list of NLP Object             	| Lemma for each token in the sentence                                    	|
-| NLU               	| list of NLU Object             	| Understanding for each token in the sentence                            	|
+| Entities_numeral  	| list of [Numeral Entity Object](https://www.lettria.com/documentation/docs/API/entities-numeral)  	| -                                                                       	|
+| NER               	| list of [NER Object](https://www.lettria.com/documentation/docs/API/ner)             	| Lists all the Numeral Entities and Named Entities found in the sentence 	|
+| NLP               	| list of [NLP Object](https://www.lettria.com/documentation/docs/API/nlp)             	| Lemma for each token in the sentence                                    	|
+| NLU               	| list of [NLU Object](https://www.lettria.com/documentation/docs/API/nlu)             	| Understanding for each token in the sentence                            	|
 | language_used     	| Language used Object           	| Language detection                                                      	|
 | disturbance       	| list of Disturbance Object     	| List of spell-checking objects for each token in the sentence           	|
 | parser_dependency 	| list of Dependency Object      	| Dependencie for tokens in the sentence                                  	|

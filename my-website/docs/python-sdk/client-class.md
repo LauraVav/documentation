@@ -16,7 +16,7 @@ sidebar_position: 9
 
 | METHOD    	| DESCRIPTION               	|
 |-----------	|---------------------------	|
-| request() 	| Send a request to our API 	|
+| [request()](https://www.lettria.com/documentation/docs/python-sdk/client-class#request) 	| Send a request to our API 	|
 
 ## request
 
