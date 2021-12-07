@@ -4,6 +4,8 @@ sidebar_position: 10
 
 # Coreference
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## Coreference Object
 
 | KEY       	| TYPE             	| DESCRIPTION                                                                          	| CONSTRAINTS         	|
@@ -11,7 +13,7 @@ sidebar_position: 10
 | source    	| string           	| source word that makes the coreference query                                         	| -                   	|
 | index     	| int              	| index of the source word                                                             	| index >= 0          	|
 | precision 	| float            	| precision indices based on how the algorithm found the coreference. Higher is better 	| 0 <= precision <= 1 	|
-| reference 	| Reference Object 	| describes the best match for the coreference query                                   	|                     	|
+| reference 	| [Reference Object](https://www.lettria.com/documentation/docs/API/coreference#reference-object) 	| describes the best match for the coreference query                                   	|                     	|
 
 ## Reference Object
 

@@ -10,13 +10,13 @@ Dependence objects combine the results from the dependency parser with the under
 
 | KEY     	| TYPE                     	| DESCRIPTION                                      	| CONSTRAINTS            	|
 |---------	|--------------------------	|--------------------------------------------------	|------------------------	|
-| dep     	| string                   	| see list of dependency tags                      	| -                      	|
+| dep     	| string                   	| see list of [dependency tags](https://www.lettria.com/documentation/docs/API/Glossary/dependency-tags)                      	| -                      	|
 | index   	| int                      	| base index of the token, links the APIs together 	| index >= 0             	|
 | lemma   	| string                   	| -                                                	| -                      	|
-| meaning 	| list of Category Objects 	| -                                                	| -                      	|
+| meaning 	| list of [Category Objects](https://www.lettria.com/documentation/docs/API/Glossary/categories) 	| -                                                	| -                      	|
 | ref     	| int                      	| index of the parent dependence                   	| -1 for root, else >= 0 	|
 | tag     	| string                   	| see Tags                                         	| -                      	|
-| value   	| Value Object             	| -                                                	| -                      	|
+| value   	| [Value Object](https://www.lettria.com/documentation/docs/API/ner#value-object)             	| -                                                	| -                      	|
 | source  	| string                   	| source                                           	|                        	|
 
 import Tabs from '@theme/Tabs';

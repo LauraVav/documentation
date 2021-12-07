@@ -4,12 +4,14 @@ sidebar_position: 5
 
 # POS Tagger
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## POS Tagger Object
 
 | INDEX 	| TYPE   	| DESCRIPTION               	|
 |-------	|--------	|---------------------------	|
 | 0     	| string 	| Word token                	|
-| 1     	| string 	| See list of possible tags 	|
+| 1     	| string 	| See list of possible [tags](https://www.lettria.com/documentation/docs/API/Glossary/tags) 	|
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

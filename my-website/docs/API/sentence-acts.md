@@ -4,6 +4,8 @@ sidebar_position: 11
 
 # Sentence Acts
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## Sentence_acts Object
 
 Detail of the sentence_acts list:

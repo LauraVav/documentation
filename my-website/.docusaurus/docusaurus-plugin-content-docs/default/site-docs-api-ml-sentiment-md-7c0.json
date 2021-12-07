@@ -3,7 +3,7 @@
   "id": "API/ml-sentiment",
   "isDocsHomePage": false,
   "title": "ML Sentiment",
-  "description": "Subsentences IA Sentiment Object",
+  "description": "Go back to the Sentence Object.",
   "source": "@site/docs/API/ml-sentiment.md",
   "sourceDirName": "API",
   "slug": "/API/ml-sentiment",

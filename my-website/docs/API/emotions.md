@@ -4,13 +4,15 @@ sidebar_position: 12
 
 # Emotions
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## Emotions Object
 
 | KEY          	| TYPE                                         	| DESCRIPTION                                              	|
 |--------------	|----------------------------------------------	|----------------------------------------------------------	|
-| subsentences 	| list of Subsentences Emotions Element Object 	| Source of all emotions elements divided by subsentences  	|
-| elements     	| list of Emotions Element Object              	| Specific source for all emotion elements in the sentence 	|
-| values       	| Emotions Values Object                       	| normalized total values for emotion                      	|
+| subsentences 	| list of [Subsentences Emotions Element Object](https://www.lettria.com/documentation/docs/API/emotions#emotions-subsentences-object) 	| Source of all emotions elements divided by subsentences  	|
+| elements     	| list of [Emotions Element Object](https://www.lettria.com/documentation/docs/API/emotions#emotions-element-object)              	| Specific source for all emotion elements in the sentence 	|
+| values       	| [Emotions Values Object](https://www.lettria.com/documentation/docs/API/emotions#emotions-values-object)                       	| normalized total values for emotion                      	|
 
 Emotions values are available at the following levels of granularity: sentence, subsentence and element.
 
@@ -21,8 +23,8 @@ Emotions values are available at the following levels of granularity: sentence, 
 | sentence 	| string                          	| Source of all emotions elements divided by subsentences     	|
 | start_id 	| int                             	| Id of the first token of the subsentence                    	|
 | end_id   	| int                             	| Id of the last token of the subsentence                     	|
-| elements 	| list of Emotions Element Objets 	| Specific source for all emotion elements in the subsentence 	|
-| values   	| Emotions Values Object          	| normalized values for emotion of subsentence                	|
+| elements 	| list of [Emotions Element Objets](https://www.lettria.com/documentation/docs/API/emotions#emotions-element-object) 	| Specific source for all emotion elements in the subsentence 	|
+| values   	| [Emotions Values Object](https://www.lettria.com/documentation/docs/API/emotions#emotions-values-object)          	| normalized values for emotion of subsentence                	|
 
 ## Emotions Element Object
 

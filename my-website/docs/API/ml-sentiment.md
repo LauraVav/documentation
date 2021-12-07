@@ -4,6 +4,8 @@ sidebar_position: 15
 
 # ML Sentiment
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## Subsentences IA Sentiment Object
 
 | KEY         	| TYPE                                     	| DESCRIPTION                                               	|

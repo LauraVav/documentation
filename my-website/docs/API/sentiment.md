@@ -4,13 +4,15 @@ sidebar_position: 13
 
 # Sentiment
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## Sentiment Object
 
 | KEY          	| TYPE                                          	| DESCRIPTION                                                	|
 |--------------	|-----------------------------------------------	|------------------------------------------------------------	|
-| subsentences 	| list of Subsentences Sentiment Element Object 	| Source of all sentiments elements divided by subsentences  	|
-| elements     	| list of Sentiment Element Object              	| Specific source for all sentiment elements in the sentence 	|
-| values       	| Sentiment Values Object                       	| normalized total values for sentiment                      	|
+| subsentences 	| list of [Subsentences Sentiment Element Object](https://www.lettria.com/documentation/docs/API/sentiment#subsentences-sentiment-object) 	| Source of all sentiments elements divided by subsentences  	|
+| elements     	| list of [Sentiment Element Object](https://www.lettria.com/documentation/docs/API/sentiment#sentiment-element-object)              	| Specific source for all sentiment elements in the sentence 	|
+| values       	| [Sentiment Values Object](https://www.lettria.com/documentation/docs/API/sentiment#sentiment-values-object)                       	| normalized total values for sentiment                      	|
 
 Sentiment values are available at the following levels of granularity: sentence, subsentence and element.
 
@@ -21,8 +23,8 @@ Sentiment values are available at the following levels of granularity: sentence,
 | sentence 	| string                           	| Source of all sentiments elements divided by subsentences     	|
 | start_id 	| int                              	| Id of the first token of the subsentence                      	|
 | end_id   	| int                              	| Id of the last token of the subsentence                       	|
-| elements 	| list of Sentiment Element Objets 	| Specific source for all sentiment elements in the subsentence 	|
-| values   	| Sentiment Values Object          	| normalized values for sentiment of subsentence                	|
+| elements 	| list of [Sentiment Element Objets](https://www.lettria.com/documentation/docs/API/sentiment#sentiment-element-object) 	| Specific source for all sentiment elements in the subsentence 	|
+| values   	| [Sentiment Values Object](https://www.lettria.com/documentation/docs/API/sentiment#sentiment-values-object)          	| normalized values for sentiment of subsentence                	|
 
 ## Sentiment Element Object
 

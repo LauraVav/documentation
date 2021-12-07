@@ -3,7 +3,7 @@
   "id": "API/emotions",
   "isDocsHomePage": false,
   "title": "Emotions",
-  "description": "Emotions Object",
+  "description": "Go back to the Sentence Object.",
   "source": "@site/docs/API/emotions.md",
   "sourceDirName": "API",
   "slug": "/API/emotions",

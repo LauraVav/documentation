@@ -3,7 +3,7 @@
   "id": "API/coreference",
   "isDocsHomePage": false,
   "title": "Coreference",
-  "description": "Coreference Object",
+  "description": "Go back to the Sentence Object.",
   "source": "@site/docs/API/coreference.md",
   "sourceDirName": "API",
   "slug": "/API/coreference",

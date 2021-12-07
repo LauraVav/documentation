@@ -9,7 +9,7 @@ List all emoticons found.
 | KEY        	| TYPE           	| DESCRIPTION                          	|
 |------------	|----------------	|--------------------------------------	|
 | confidence 	| float          	| Confidence in value matching         	|
-| emoticon   	| EmoticonObject 	| boolean values for matched emoticons 	|
+| emoticon   	| [EmoticonObject](https://www.lettria.com/documentation/docs/API/emoticons#emoticonobject) 	| boolean values for matched emoticons 	|
 
 ## EmoticonObject
 

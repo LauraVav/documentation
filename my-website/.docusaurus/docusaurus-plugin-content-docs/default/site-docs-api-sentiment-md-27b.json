@@ -3,7 +3,7 @@
   "id": "API/sentiment",
   "isDocsHomePage": false,
   "title": "Sentiment",
-  "description": "Sentiment Object",
+  "description": "Go back to the Sentence Object.",
   "source": "@site/docs/API/sentiment.md",
   "sourceDirName": "API",
   "slug": "/API/sentiment",

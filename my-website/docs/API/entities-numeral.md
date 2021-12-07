@@ -10,7 +10,7 @@ sidebar_position: 8
 |--------	|---------------	|------------------	|
 | entity 	| Entity Object 	| -                	|
 | source 	| string        	| -                	|
-| tag    	| string        	| see Entity types 	|
+| tag    	| string        	| see [Entity types](https://www.lettria.com/documentation/docs/API/Glossary/entities) 	|
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

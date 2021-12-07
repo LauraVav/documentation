@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Language Used
 
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
+
 ## Language used Object
 
 Language code follows [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).
@@ -11,8 +13,8 @@ Language code follows [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-
 | KEY            	| TYPE            	| DESCRIPTION                                      	|
 |----------------	|-----------------	|--------------------------------------------------	|
 | predict        	| string          	| cast fr because Lettria exits in French actually 	|
-| sentence level 	| Language Object 	| Predict language of sentence                     	|
-| word level     	| Language Object 	| Predict language per word                        	|
+| sentence level 	| [Language Object](https://www.lettria.com/documentation/docs/API/language-used#language-object) 	| Predict language of sentence                     	|
+| word level     	| [Language Object](https://www.lettria.com/documentation/docs/API/language-used#language-object) 	| Predict language per word                        	|
 
 ## Language Object
 

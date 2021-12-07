@@ -3,7 +3,7 @@
   "id": "API/pos-tagger",
   "isDocsHomePage": false,
   "title": "POS Tagger",
-  "description": "POS Tagger Object",
+  "description": "Go back to the Sentence Object.",
   "source": "@site/docs/API/pos-tagger.md",
   "sourceDirName": "API",
   "slug": "/API/pos-tagger",

@@ -6,11 +6,23 @@ sidebar_position: 2
 
 Compiles all the most relevant information for each token.
 
-Go back to the Sentence Object.
+Go back to the [Sentence Object](https://www.lettria.com/documentation/docs/API/lettria-sentence-object).
 
 ## Synthesis Token Object
 
 Links in this section will redirect you to their origin in the given sub-api.
+
+| KEY         	| TYPE                     	| DESCRIPTION                                                                                                                       	| CONSTRAINTS                                                                              	|
+|-------------	|--------------------------	|-----------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------	|
+| type        	| string                   	| Describes the type of entity found                                                                                                	| For [proper nouns](https://www.lettria.com/documentation/docs/API/Glossary/tags), can either be LOCATION or PERSON. For other entities, see [Entity types](https://www.lettria.com/documentation/docs/API/Glossary/entities) 	|
+| lemma       	| string                   	| lemma of the word                                                                                                                 	| -                                                                                        	|
+| meaning     	| list of [Category Objects](https://www.lettria.com/documentation/docs/API/Glossary/categories) 	| Known meanings for the item                                                                                                       	| Can be empty.                                                                            	|
+| tag         	| string                   	| see [Tags](https://www.lettria.com/documentation/docs/API/Glossary/tags)                                                                                                                          	| -                                                                                        	|
+| value       	| [Value Object](https://www.lettria.com/documentation/docs/API/ner#value-object)             	| Value for numeral entities                                                                                                        	| Can be Null                                                                              	|
+| source      	| string                   	| original string input related to the token                                                                                        	| -                                                                                        	|
+| nlp         	| list of [NLP Objects](https://www.lettria.com/documentation/docs/API/nlp)      	| if NULL refer to nlp_items                                                                                                        	| Can be Null                                                                              	|
+| nlp_items   	| list of [NLP Objects](https://www.lettria.com/documentation/docs/API/nlp)      	| This is where you can find individual NLP informations when multiple tokens get merged to form one entity (example : "12" + "kg") 	| Can be Null                                                                              	|
+| coreference 	| [Coreference Object](https://www.lettria.com/documentation/docs/API/coreference)       	| -                                                                                                                                 	| -                                                                                        	|
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
