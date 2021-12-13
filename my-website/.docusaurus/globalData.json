@@ -291,6 +291,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/Python SDK/meaning-sentiment",
+              "path": "/docs/Tutorials/Python SDK/meaning-sentiment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/Python SDK/vocabulary",
               "path": "/docs/Tutorials/Python SDK/vocabulary",
               "sidebar": "tutorialSidebar"
@@ -301,8 +306,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/Python SDK/word-emotion",
+              "path": "/docs/Tutorials/Python SDK/word-emotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/Python SDK/word-frequency",
               "path": "/docs/Tutorials/Python SDK/word-frequency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/word-sentiment",
+              "path": "/docs/Tutorials/Python SDK/word-sentiment",
               "sidebar": "tutorialSidebar"
             }
           ]

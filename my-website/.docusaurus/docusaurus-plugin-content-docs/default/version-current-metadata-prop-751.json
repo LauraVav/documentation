@@ -349,6 +349,21 @@
                 "type": "link",
                 "label": "Get Emotion",
                 "href": "/docs/Tutorials/Python SDK/get-emotion"
+              },
+              {
+                "type": "link",
+                "label": "Word Emotion",
+                "href": "/docs/Tutorials/Python SDK/word-emotion"
+              },
+              {
+                "type": "link",
+                "label": "Word Sentiment",
+                "href": "/docs/Tutorials/Python SDK/word-sentiment"
+              },
+              {
+                "type": "link",
+                "label": "Meaning Sentiment",
+                "href": "/docs/Tutorials/Python SDK/meaning-sentiment"
               }
             ]
           }

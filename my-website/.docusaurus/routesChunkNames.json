@@ -7,7 +7,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/docs-ae9": {
+  "/docs-d74": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -235,6 +235,10 @@
     "component": "17896441",
     "content": "790d1f4c"
   },
+  "/docs/Tutorials/Python SDK/meaning-sentiment-b02": {
+    "component": "17896441",
+    "content": "5344b3b5"
+  },
   "/docs/Tutorials/Python SDK/vocabulary-afd": {
     "component": "17896441",
     "content": "e48ba3b5"
@@ -243,9 +247,17 @@
     "component": "17896441",
     "content": "b5bf8590"
   },
+  "/docs/Tutorials/Python SDK/word-emotion-e0e": {
+    "component": "17896441",
+    "content": "966240ac"
+  },
   "/docs/Tutorials/Python SDK/word-frequency-bab": {
     "component": "17896441",
     "content": "4d7546c8"
+  },
+  "/docs/Tutorials/Python SDK/word-sentiment-8d7": {
+    "component": "17896441",
+    "content": "3c486027"
   },
   "/-deb": {
     "component": "c4f5d8e4",

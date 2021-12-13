@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','ae9'),
+    component: ComponentCreator('/docs','d74'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -354,6 +354,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/Tutorials/Python SDK/meaning-sentiment',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/meaning-sentiment','b02'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/Tutorials/Python SDK/vocabulary',
         component: ComponentCreator('/docs/Tutorials/Python SDK/vocabulary','afd'),
         exact: true,
@@ -366,8 +372,20 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/Tutorials/Python SDK/word-emotion',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/word-emotion','e0e'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/Tutorials/Python SDK/word-frequency',
         component: ComponentCreator('/docs/Tutorials/Python SDK/word-frequency','bab'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/word-sentiment',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/word-sentiment','8d7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

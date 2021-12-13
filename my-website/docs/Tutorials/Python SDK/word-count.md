@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Video
 
-![word count](/img/word_count-CS.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FflxfVLyp50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is the word count tool?
 

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/word-emotion",
+  "id": "Tutorials/Python SDK/word-emotion",
+  "isDocsHomePage": false,
+  "title": "Word Emotion",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/word-emotion.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/word-emotion",
+  "permalink": "/docs/Tutorials/Python SDK/word-emotion",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Emotion",
+    "permalink": "/docs/Tutorials/Python SDK/get-emotion"
+  },
+  "next": {
+    "title": "Word Sentiment",
+    "permalink": "/docs/Tutorials/Python SDK/word-sentiment"
+  }
+}
