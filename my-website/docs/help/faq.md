@@ -12,8 +12,13 @@ sidebar_position: 1
 
 **Where is my data stored when I upload files to Lettria?**
 
-- Your uploaded files are stored on AWS and cannot be accessed by anyone but you. 
-- Once the data is extracted for analysis it is stored on Lettria in your personal user account.
+LETTRIA and its subcontractors undertake to implement all technical and organisational measures necessary to ensure the security of the processing of personal data and the confidentiality of your Data.
+
+In this respect, we comply with the GDPR and the French Data Protection Act and take all necessary precautions, taking into account the nature of the data and the risks presented by the processing, to preserve the security of the data and, in particular, to prevent the data from being distorted, damaged or accessed by unauthorized third parties.
+
+To this end, the following measures have been taken: physical protection of our premises, protection of information systems by anti-virus software and firewalls, authentication procedures for persons accessing data with personal and secure access via confidential identifiers and passwords, an Internet site protected by an SSL certificate, web clients using a TSL certificate, logging and traceability of connections, as well as the encryption of certain data.
+
+To learn more about the French Data Protection Act (GDRP) please refer to our [privacy policy](https://www.lettria.com/privacy-policy)
 
 ### Annotations
 
