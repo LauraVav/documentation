@@ -364,6 +364,21 @@
                 "type": "link",
                 "label": "Meaning Sentiment",
                 "href": "/docs/Tutorials/Python SDK/meaning-sentiment"
+              },
+              {
+                "type": "link",
+                "label": "Meaning Emotion",
+                "href": "/docs/Tutorials/Python SDK/meaning-emotion"
+              },
+              {
+                "type": "link",
+                "label": "Filter Emotion",
+                "href": "/docs/Tutorials/Python SDK/filter-emotion"
+              },
+              {
+                "type": "link",
+                "label": "Filter Polarity",
+                "href": "/docs/Tutorials/Python SDK/filter-polarity"
               }
             ]
           }

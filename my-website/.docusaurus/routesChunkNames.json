@@ -29,7 +29,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d74": {
+  "/docs-a34": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -245,6 +245,14 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-api-tokenizer-7-bb-c23"
   },
+  "/docs/Tutorials/Python SDK/filter-emotion-e7b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-python-sdk-filter-emotion-726-6b1"
+  },
+  "/docs/Tutorials/Python SDK/filter-polarity-636": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-python-sdk-filter-polaritye-01-ff6"
+  },
   "/docs/Tutorials/Python SDK/get-emotion-210": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-python-sdk-get-emotion-4-d-0-8ba"
@@ -256,6 +264,10 @@
   "/docs/Tutorials/Python SDK/list-entities-515": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-tutorials-python-sdk-list-entities-790-028"
+  },
+  "/docs/Tutorials/Python SDK/meaning-emotion-ecf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-python-sdk-meaning-emotiond-91-fe2"
   },
   "/docs/Tutorials/Python SDK/meaning-sentiment-b02": {
     "component": "component---theme-doc-item-178-a40",

@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Meaning Sentiment",
-    "permalink": "/docs/Tutorials/Python SDK/meaning-sentiment"
+    "title": "Filter Polarity",
+    "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
   }
 }

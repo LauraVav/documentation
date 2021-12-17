@@ -633,8 +633,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Meaning Sentiment",
-                "permalink": "/docs/Tutorials/Python SDK/meaning-sentiment"
+                "title": "Filter Polarity",
+                "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
               }
             },
             {
@@ -1388,6 +1388,58 @@
               }
             },
             {
+              "unversionedId": "Tutorials/Python SDK/filter-emotion",
+              "id": "Tutorials/Python SDK/filter-emotion",
+              "isDocsHomePage": false,
+              "title": "Filter Emotion",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/filter-emotion.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/filter-emotion",
+              "permalink": "/docs/Tutorials/Python SDK/filter-emotion",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Meaning Emotion",
+                "permalink": "/docs/Tutorials/Python SDK/meaning-emotion"
+              },
+              "next": {
+                "title": "Filter Polarity",
+                "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/filter-polarity",
+              "id": "Tutorials/Python SDK/filter-polarity",
+              "isDocsHomePage": false,
+              "title": "Filter Polarity",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/filter-polarity.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/filter-polarity",
+              "permalink": "/docs/Tutorials/Python SDK/filter-polarity",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Filter Emotion",
+                "permalink": "/docs/Tutorials/Python SDK/filter-emotion"
+              },
+              "next": {
+                "title": "FAQs",
+                "permalink": "/docs/help/faq"
+              }
+            },
+            {
               "unversionedId": "Tutorials/Python SDK/get-emotion",
               "id": "Tutorials/Python SDK/get-emotion",
               "isDocsHomePage": false,
@@ -1466,6 +1518,32 @@
               }
             },
             {
+              "unversionedId": "Tutorials/Python SDK/meaning-emotion",
+              "id": "Tutorials/Python SDK/meaning-emotion",
+              "isDocsHomePage": false,
+              "title": "Meaning Emotion",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/meaning-emotion.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/meaning-emotion",
+              "permalink": "/docs/Tutorials/Python SDK/meaning-emotion",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Meaning Sentiment",
+                "permalink": "/docs/Tutorials/Python SDK/meaning-sentiment"
+              },
+              "next": {
+                "title": "Filter Emotion",
+                "permalink": "/docs/Tutorials/Python SDK/filter-emotion"
+              }
+            },
+            {
               "unversionedId": "Tutorials/Python SDK/meaning-sentiment",
               "id": "Tutorials/Python SDK/meaning-sentiment",
               "isDocsHomePage": false,
@@ -1487,8 +1565,8 @@
                 "permalink": "/docs/Tutorials/Python SDK/word-sentiment"
               },
               "next": {
-                "title": "FAQs",
-                "permalink": "/docs/help/faq"
+                "title": "Meaning Emotion",
+                "permalink": "/docs/Tutorials/Python SDK/meaning-emotion"
               }
             },
             {
@@ -1919,6 +1997,18 @@
                       {
                         "type": "doc",
                         "id": "Tutorials/Python SDK/meaning-sentiment"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/meaning-emotion"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/filter-emotion"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/filter-polarity"
                       }
                     ]
                   }

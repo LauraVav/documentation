@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','d74'),
+    component: ComponentCreator('/docs','a34'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -371,6 +371,18 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/Tutorials/Python SDK/filter-emotion',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/filter-emotion','e7b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/filter-polarity',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/filter-polarity','636'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/Tutorials/Python SDK/get-emotion',
         component: ComponentCreator('/docs/Tutorials/Python SDK/get-emotion','210'),
         exact: true,
@@ -385,6 +397,12 @@ export default [
       {
         path: '/docs/Tutorials/Python SDK/list-entities',
         component: ComponentCreator('/docs/Tutorials/Python SDK/list-entities','515'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/meaning-emotion',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/meaning-emotion','ecf'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -276,6 +276,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/Python SDK/filter-emotion",
+              "path": "/docs/Tutorials/Python SDK/filter-emotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/filter-polarity",
+              "path": "/docs/Tutorials/Python SDK/filter-polarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/Python SDK/get-emotion",
               "path": "/docs/Tutorials/Python SDK/get-emotion",
               "sidebar": "tutorialSidebar"
@@ -288,6 +298,11 @@
             {
               "id": "Tutorials/Python SDK/list-entities",
               "path": "/docs/Tutorials/Python SDK/list-entities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/meaning-emotion",
+              "path": "/docs/Tutorials/Python SDK/meaning-emotion",
               "sidebar": "tutorialSidebar"
             },
             {
