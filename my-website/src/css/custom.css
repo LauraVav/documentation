@@ -41,7 +41,4 @@ html[data-theme='dark'] .navbar .navbar__logo {
     --ifm-color-primary-dark: #fff;
   }
 
-  img {
-    display: block;
-    margin: 0 auto;
-}
+
