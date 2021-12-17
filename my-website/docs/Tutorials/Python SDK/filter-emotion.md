@@ -53,7 +53,7 @@ filter_emotion = nlp.filter_emotion
 filter_emotion(emotions='surprise', granularity='sentence')
 ```
 
-Returns a list of sentences from the polarity ans sentence or subsentence specified.
+In the results you will have filtered sentences of the specified emotion and granularity.
 
 You can further analyze the emotions of your document with 'joy', 'love', 'surprise', 'anger', 'sadness', 'fear’, 'neutral' and ‘disgust’. You can also filter at a subsentence level
 

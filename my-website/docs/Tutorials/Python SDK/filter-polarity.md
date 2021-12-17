@@ -53,7 +53,7 @@ filter_polarity = nlp.filter_polarity
 filter_polarity(polarity='postive', granularity='sentence')
 ```
 
-Return a list of sentences from the polarity ans sentence or subsentence specified.
+Returns a list of sentences from the polarity and granularity specified.
 
 To further filter the polarity you can change the positive polarity to negative or neutral.  You can also filter at a subsentence level
 
