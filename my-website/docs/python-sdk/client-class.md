@@ -36,3 +36,5 @@ Performs a request to lettria API using the API_KEY provided.
 | Type               	| Description                                                                 	|
 |--------------------	|-----------------------------------------------------------------------------	|
 | list of dictionary 	| Each of these objects represents the informations collected for a sentence. 	|
+
+

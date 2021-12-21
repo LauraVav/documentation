@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Register for Free",
+  "id": "Register for Free",
+  "isDocsHomePage": false,
+  "title": "Register for Free",
+  "description": "<button class=\"register_button\"",
+  "source": "@site/docs/Register for Free.md",
+  "sourceDirName": ".",
+  "slug": "/Register for Free",
+  "permalink": "/docs/Register for Free",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/docs/help/faq"
+  }
+}
