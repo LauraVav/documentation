@@ -49,4 +49,5 @@ Now your ready to add your document and start analyzing your text. Check out the
 
 ![ready](/img/ready-go.png)
 
-<a href="https://app.lettria.com/signup" target="_blank"><button class="get_started_button">Get Started for Free</button></a>
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)
