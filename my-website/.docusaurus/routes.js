@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','a34'),
+    component: ComponentCreator('/docs','fce'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -151,6 +151,12 @@ export default [
       {
         path: '/docs/API/nlc',
         component: ComponentCreator('/docs/API/nlc','ea9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/API/nlc-new',
+        component: ComponentCreator('/docs/API/nlc-new','ab5'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

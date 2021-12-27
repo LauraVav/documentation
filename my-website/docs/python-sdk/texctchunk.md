@@ -350,3 +350,6 @@ For more information on patterns look at the dedicated section: [Patterns](https
 | Type          	| Description                                        	|
 |---------------	|----------------------------------------------------	|
 | list of tuple 	| List of tuple (TextChunk object, match dictionary) 	|
+
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

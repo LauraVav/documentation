@@ -10,17 +10,14 @@
   "permalink": "/docs/API/nlc",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
-  "frontMatter": {
-    "sidebar_position": 6
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Disturbance",
-    "permalink": "/docs/API/disturbance"
+    "title": "Categories",
+    "permalink": "/docs/API/Glossary/categories"
   },
   "next": {
-    "title": "Entities Numeral",
-    "permalink": "/docs/API/entities-numeral"
+    "title": "Tokenizer",
+    "permalink": "/docs/Tool guides/tokenizer"
   }
 }

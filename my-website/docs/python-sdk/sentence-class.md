@@ -17,3 +17,6 @@ sidebar_position: 5
 | subsentences                                                                           	| list of [Subsentence](https://www.lettria.com/documentation/docs/python-sdk/subsentence-class) instances 	| List of **Subsentence** in the sentence                       	|
 | tokens                                                                                 	| list of [Token instances](https://www.lettria.com/documentation/docs/python-sdk/token-class)             	| List of **Token** in the sentence                             	|
 | [common properties](https://www.lettria.com/documentation/docs/python-sdk/common-properties) 	| depends on property                                                                                	| Properties allowing access to specific data (pos, token etc.) 	|
+
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

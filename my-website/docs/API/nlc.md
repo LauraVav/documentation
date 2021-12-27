@@ -1,6 +1,4 @@
----
-sidebar_position: 6
----
+
 
 # NLC
 
@@ -29,51 +27,24 @@ import TabItem from '@theme/TabItem';
 <TabItem value="py" label="Python">
 
 ```py
-[
-  {
-    "source": "Paris",
-    "type": "LOCATION",
-    "value": null
-  },
-  {
-    "source": "12 mai",
-    "type": "date",
-    "value": {
-      "ISO": "2019-05-12",
-      "chronology": "future",
-      "chronology_day": 58,
-      "confidence": 0.99,
-      "formatted": "Sunday 12 May 2019 00:00:00",
-      "timestamp": 1557612000
-    }
-  }
-]
+	‘detail’ : [{
+			‘lemma’ : Monsieur # lemma
+			‘source_pure’ : Mr. # la VRAI source
+			'source': Monsieur # la source de travail
+			‘index’ : [415,435] # index du token absolue a l input
+			‘tag’ : # postag
+			‘dep’ : # dep parser dep,
+			‘ref’ : index de ref du token (parser dep),
+			‘meaning’ : []
+			‘lemmatizer’ : {} # detail du lemmatizer
+			‘type_entity’ : # type de l entity sinon nul
+			‘value’ : {} # retour entity ou autre
+			'dep' : "nsubj"
+			'ref' : 1 
+		    },
+		   {...}, {…}, ….]
 ```
 
-</TabItem>
-<TabItem value="json" label="JSON">
-
-```json
-[
-  {
-    "source": "Paris",
-    "type": "LOCATION",
-    "value": null
-  },
-  {
-    "source": "12 mai",
-    "type": "date",
-    "value": {
-      "ISO": "2019-05-12",
-      "chronology": "future",
-      "chronology_day": 58,
-      "confidence": 0.99,
-      "formatted": "Sunday 12 May 2019 00:00:00",
-      "timestamp": 1557612000
-    }
-  }
-]
-```
 
 </TabItem>
 </Tabs>

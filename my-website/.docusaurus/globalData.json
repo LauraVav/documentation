@@ -96,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "API/nlc-new",
+              "path": "/docs/API/nlc-new",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "API/parser-dependency",
               "path": "/docs/API/parser-dependency",
               "sidebar": "tutorialSidebar"

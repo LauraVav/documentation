@@ -17,3 +17,5 @@ sidebar_position: 4
 | id                                                                                     	| str                                                                                                	| Id of document, by default sequential integer if not provided. 	|
 | [common properties](https://www.lettria.com/documentation/docs/python-sdk/common-properties) 	| depends on property                                                                                	| Properties allowing access to specific data (pos, token etc.). 	|
 
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)
+

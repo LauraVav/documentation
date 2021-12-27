@@ -66,7 +66,7 @@
               },
               "next": {
                 "title": "NLC",
-                "permalink": "/docs/API/nlc"
+                "permalink": "/docs/API/nlc-new"
               }
             },
             {
@@ -140,7 +140,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NLC",
-                "permalink": "/docs/API/nlc"
+                "permalink": "/docs/API/nlc-new"
               },
               "next": {
                 "title": "Parser Dependency",
@@ -169,8 +169,8 @@
                 "permalink": "/docs/API/Glossary/entities"
               },
               "next": {
-                "title": "Tokenizer",
-                "permalink": "/docs/Tool guides/tokenizer"
+                "title": "NLC",
+                "permalink": "/docs/API/nlc"
               }
             },
             {
@@ -443,6 +443,29 @@
               "sourceDirName": "API",
               "slug": "/API/nlc",
               "permalink": "/docs/API/nlc",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Categories",
+                "permalink": "/docs/API/Glossary/categories"
+              },
+              "next": {
+                "title": "Tokenizer",
+                "permalink": "/docs/Tool guides/tokenizer"
+              }
+            },
+            {
+              "unversionedId": "API/nlc-new",
+              "id": "API/nlc-new",
+              "isDocsHomePage": false,
+              "title": "NLC",
+              "description": "Includes NER, NLP and NLU modules.",
+              "source": "@site/docs/API/nlc-new.md",
+              "sourceDirName": "API",
+              "slug": "/API/nlc-new",
+              "permalink": "/docs/API/nlc-new",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -1119,8 +1142,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Categories",
-                "permalink": "/docs/API/Glossary/categories"
+                "title": "NLC",
+                "permalink": "/docs/API/nlc"
               },
               "next": {
                 "title": "POS Tagger",
@@ -1786,7 +1809,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "API/nlc"
+                    "id": "API/nlc-new"
                   },
                   {
                     "type": "doc",
@@ -1859,6 +1882,10 @@
                         "id": "API/Glossary/categories"
                       }
                     ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/nlc"
                   }
                 ]
               },

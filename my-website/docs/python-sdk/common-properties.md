@@ -28,3 +28,5 @@ All properties have a **_flat** variant (token_flat) which flatten recursively t
 | sentence_type    	| String         	| Returns type of sentence                                                                	|
 | coreference      	| String         	| Returns reference of token if it exists                                                 	|
 | synthesis        	| Dictionary     	| Returns synthesis object                                                                	|
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

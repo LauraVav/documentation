@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Categories",
-    "permalink": "/docs/API/Glossary/categories"
+    "title": "NLC",
+    "permalink": "/docs/API/nlc"
   },
   "next": {
     "title": "POS Tagger",

@@ -40,19 +40,6 @@ button {
 }
 
 
-img.register-sticky {
-  position: -webkit-sticky; 
-  position: sticky;
-  top: 0;
-}
-
-.get_started_button {
-  background-color: #FCCB4E;
-  border-radius: 24px;
-}
-
-
-
 html[data-theme='dark'] .navbar .navbar__logo {
   content: url(/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/static/img/dark-logo.png)
   }
@@ -62,4 +49,8 @@ html[data-theme='dark'] .navbar .navbar__logo {
     --ifm-color-primary-dark: #fff;
   }
 
-
+  img[alt=register-sticky] {
+    width: 18%;
+    position:fixed; bottom: 20px; right: 20px;
+    border-radius: 15px;
+ }

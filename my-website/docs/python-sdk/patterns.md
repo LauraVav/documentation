@@ -126,3 +126,5 @@ for s, matches in nlp.match_pattern(patterns, level='sentence'):
 | $--               	| A is a sibling of B and is located after B: A.idx > B.idx.                                   	|
 
 Dependency matching should not be used on Subsentence since they don't have a complete dependency tree.
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

@@ -38,3 +38,4 @@ Performs a request to lettria API using the API_KEY provided.
 | list of dictionary 	| Each of these objects represents the informations collected for a sentence. 	|
 
 
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

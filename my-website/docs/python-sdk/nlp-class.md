@@ -112,3 +112,5 @@ Replaces current client with provided one, or creates a new client using the pro
 | client  	| instance of Client class 	| Client instance to replace the current one. 	| True     	|
 | api_key 	| string                   	| Key to use for the new client.              	| True     	|
 
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

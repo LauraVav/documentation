@@ -110,7 +110,7 @@
           {
             "type": "link",
             "label": "NLC",
-            "href": "/docs/API/nlc"
+            "href": "/docs/API/nlc-new"
           },
           {
             "type": "link",
@@ -199,6 +199,11 @@
                 "href": "/docs/API/Glossary/categories"
               }
             ]
+          },
+          {
+            "type": "link",
+            "label": "NLC",
+            "href": "/docs/API/nlc"
           }
         ]
       },

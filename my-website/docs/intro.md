@@ -49,5 +49,7 @@ Now your ready to add your document and start analyzing your text. Check out the
 
 ![ready](/img/ready-go.png)
 
+---
 
 [![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)
+

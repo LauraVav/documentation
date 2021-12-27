@@ -28,3 +28,6 @@ Subsentence is iterable and will yield instances of Token class.
 |----------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
 | tokens                                                                                 	| list of [Token](https://www.lettria.com/documentation/docs/python-sdk/token-class) instances 	| List of **Token** in the subsentence                          	|
 | [common properties](https://www.lettria.com/documentation/docs/python-sdk/common-properties) 	| depends on property                                                                    	| Properties allowing access to specific data (pos, token etc.) 	|
+
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

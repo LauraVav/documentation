@@ -48,3 +48,4 @@ for doc in nlp:
 Check the official sources for more information and documentation on how to extract key informations using our SDK : https://github.com/Lettria/sdk-python
 
 
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)
