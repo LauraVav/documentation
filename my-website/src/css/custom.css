@@ -50,7 +50,8 @@ html[data-theme='dark'] .navbar .navbar__logo {
   }
 
   img[alt=register-sticky] {
-    width: 18%;
+    max-width: 100%;
+    height: auto;
     position:fixed; bottom: 20px; right: 20px;
     border-radius: 15px;
  }
