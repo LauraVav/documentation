@@ -202,3 +202,5 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 </Tabs>
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

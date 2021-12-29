@@ -169,8 +169,8 @@
                 "permalink": "/docs/API/Glossary/entities"
               },
               "next": {
-                "title": "NLC",
-                "permalink": "/docs/API/nlc"
+                "title": "Tokenizer",
+                "permalink": "/docs/Tool guides/tokenizer"
               }
             },
             {
@@ -431,29 +431,6 @@
               "next": {
                 "title": "Proposition",
                 "permalink": "/docs/API/proposition"
-              }
-            },
-            {
-              "unversionedId": "API/nlc",
-              "id": "API/nlc",
-              "isDocsHomePage": false,
-              "title": "NLC",
-              "description": "Includes NER, NLP and NLU modules.",
-              "source": "@site/docs/API/nlc.md",
-              "sourceDirName": "API",
-              "slug": "/API/nlc",
-              "permalink": "/docs/API/nlc",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Categories",
-                "permalink": "/docs/API/Glossary/categories"
-              },
-              "next": {
-                "title": "Tokenizer",
-                "permalink": "/docs/Tool guides/tokenizer"
               }
             },
             {
@@ -1142,8 +1119,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "NLC",
-                "permalink": "/docs/API/nlc"
+                "title": "Categories",
+                "permalink": "/docs/API/Glossary/categories"
               },
               "next": {
                 "title": "POS Tagger",
@@ -1882,10 +1859,6 @@
                         "id": "API/Glossary/categories"
                       }
                     ]
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/nlc"
                   }
                 ]
               },

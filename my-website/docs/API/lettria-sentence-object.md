@@ -25,3 +25,5 @@ In this object, each key corresponds to the returned object from a sub-API.
 | sentence_acts     	| [Sentence Acts Object](https://www.lettria.com/documentation/docs/API/sentence-acts)           	| Detection of sentence type                                              	|
 | proposition       	| list of [Subsentence Object](https://www.lettria.com/documentation/docs/API/ml-sentiment#subsentences-ia-sentiment-object)     	| List of subsentences found within the sentence                          	|
 | synthesis         	| list of [Synthesis Token Object](https://www.lettria.com/documentation/docs/API/synthesis) 	| compiles all the most relevant information for each token               	|                               	|
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

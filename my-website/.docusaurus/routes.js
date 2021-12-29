@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','fce'),
+    component: ComponentCreator('/docs','7fc'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -145,12 +145,6 @@ export default [
       {
         path: '/docs/API/ml-sentiment',
         component: ComponentCreator('/docs/API/ml-sentiment','caa'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/API/nlc',
-        component: ComponentCreator('/docs/API/nlc','ea9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

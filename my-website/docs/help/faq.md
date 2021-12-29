@@ -41,4 +41,5 @@ You can get a free API Key by signing up to [Lettria](https://app.lettria.com/).
 
 ![api key](/img/api_key-platform.png)
 
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)
 

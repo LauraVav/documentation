@@ -948,3 +948,5 @@ If the category of the adverb is 'manner' or 'time and aspect', then it takes th
 | matter    	|
 | situation 	|
 | NULL      	|
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

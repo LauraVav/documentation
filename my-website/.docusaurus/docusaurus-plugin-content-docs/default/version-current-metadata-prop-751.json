@@ -199,11 +199,6 @@
                 "href": "/docs/API/Glossary/categories"
               }
             ]
-          },
-          {
-            "type": "link",
-            "label": "NLC",
-            "href": "/docs/API/nlc"
           }
         ]
       },

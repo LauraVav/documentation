@@ -76,3 +76,6 @@ The tag [Speed] brings essential information for comprehension. The lexical elem
 A tokenizer is a tool that **segments text into tagged values or tokens**. Each token corresponds to a tag that is linguistically unique, specific to the language of the analysis. Tokenizing a text is like cleaning and standardizing it in order to manipulate it and **extract meaning.**
 
 At Lettria, our API goes even further, proposing not only grammatically-correct tags, but also semantically-based groupings.
+
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

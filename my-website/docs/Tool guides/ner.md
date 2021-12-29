@@ -60,3 +60,5 @@ The work of Named Entity Recognition comes down to labelling. By labelling marke
 Each named entity refers to an independent label that constitutes a landmark or anchor in the text. Essential for the extraction of information, named entities are completely dependent on a language and its culture.
 
 At Lettria, our NER stays agile because it’s not based on fixed learnings from computational linguistics, but also on the processing of regular expressions.
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

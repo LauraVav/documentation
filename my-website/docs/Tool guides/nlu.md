@@ -69,3 +69,5 @@ The user can erase this primary meaning and modify “peony” with the tag of �
 Natural Language Understanding, whether or not we consider it in the field of NLP, is a separate domain which aims to bring out the meaning of examined sentences.
 
 It highlights the linguistic elements that contribute to meaning, by relying in particular on all the clues left by the form of the words and the architecture of the statements. Each identified word **only makes sense based on context and usage;** it is then a matter of combining objective information and language habits to predict the most adequate meaning.
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Video
 
-![word frequency](/img/word_frequency-CS.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZhQFJsitiLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is word frequency?
 
@@ -99,3 +99,5 @@ word_frequency(filter_pos = 'N', lemma=False)
 
 nlp.save_results(‘example_results')
 ```
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

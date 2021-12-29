@@ -62,3 +62,5 @@ A tag must:
 - recognize the grammatical parameters of the word
 
 identify the function of a word in its context
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

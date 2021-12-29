@@ -12,3 +12,5 @@ sidebar_position: 5
 | participe   	| past, present         	|
 | conditional 	| present               	|
 | infinitive  	| infinitive            	|
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

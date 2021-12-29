@@ -52,3 +52,5 @@ However the identified lemma is [ wanted ], making reference to the past partici
 **Key takeaways**
 
 A lemmatizer is a survey tool that finds the basic form of a word as it appears in the dictionary; this is the lemma. Each lemma corresponds to a linguistically unique label that is easily manipulable. Particularly useful for an opinion search or the detection of emotions, lemmatizers allow the major semantic themes of a document to emerge. At Lettria, a lemmatizer’s syntactic analysis goes farther by proposing not only complete tags with the mention of gender or number in context, but also by proposing a verified and personalized dictionary.
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

@@ -28,3 +28,5 @@ Here's a list of possible word tags. Used in the **POS Tagger** and **Parser Dep
 | V      	| verb                      	|
 | VINF   	| infinitive verb           	|
 | VP     	| verb participe past       	|
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

@@ -91,11 +91,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "API/nlc",
-              "path": "/docs/API/nlc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "API/nlc-new",
               "path": "/docs/API/nlc-new",
               "sidebar": "tutorialSidebar"

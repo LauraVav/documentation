@@ -85,3 +85,5 @@ list_entities()
 
 nlp.save_results(‘example_results')
 ```
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

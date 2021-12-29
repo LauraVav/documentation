@@ -108,3 +108,5 @@ sentiment.meaning_sentiment(filter_meaning=['example'])
 
 nlp.save_results(‘example_results')
 ```
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

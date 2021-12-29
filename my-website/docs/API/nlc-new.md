@@ -92,3 +92,5 @@ Gives information about the gender and plurality of a word.
 | category 	| string 	| see Preposition categories 	|
 | next     	| string 	| see Preposition next       	|
 
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

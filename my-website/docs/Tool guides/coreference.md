@@ -53,3 +53,5 @@ Working on coreference links in a document requires rigorous discipline. By avoi
 The direct coreference is easy to find and applies to the detection of pronouns and items with which they create a dependency link.
 
 The indirect coreference is more complex, and requires vast dedicated general knowledge. At Lettria, the coreference is a challenge that we take up, not only by proposing a specific algorithm, but also by expanding our semantic databases.
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

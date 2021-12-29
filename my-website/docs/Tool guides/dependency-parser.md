@@ -42,3 +42,6 @@ In the sentence "I have a dog, it’s called Doug,” Lettria correctly identifi
 **Key takeaways**
 
 A parser does the work of hierarchization.  It makes clear the dependency relations that exist within a sentence, separating the headwords from the modifiers. At Lettria, the parser is adapted to the needs of each specific language, combining tags from secure knowledge bases and learning based on rigorous machine learning.
+
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

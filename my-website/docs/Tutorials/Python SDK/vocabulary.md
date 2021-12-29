@@ -101,3 +101,4 @@ vocabulary(filter_pos = 'N', lemma=False)
 
 nlp.save_results(‘example_results')
 ```
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

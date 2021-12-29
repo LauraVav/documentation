@@ -53,3 +53,5 @@ Sentiment and emotion analysis is a process of detection based on lexicon and co
 Each detection must find the source of sentiment and the context of its use. The analysis of sentiments and emotions is a function of language and also of the speakers themselves. Irony, generational gaps and sarcasm constitute so many difficulties that we must treat methodically. Machine Learning processes lend themselves particularly well to this sort of work, which requires the deep analysis of many statements. Transfer learning helps the software, allowing it to apply certain acquired knowledge to similar situations. Each new layer of understanding is built upon the preceding one.
 
 At Lettria, the building of sentiment and emotion detection goes farther by proposing dedicated learning, in addition to the lexical and structural analysis of the speech.
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)

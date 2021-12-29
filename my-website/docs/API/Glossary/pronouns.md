@@ -12,3 +12,5 @@ sidebar_position: 4
 | 4     	| we          	|
 | 5     	| its         	|
 | 6     	| they        	|
+
+[![register-sticky](/img/register-sticky.png)](https://app.lettria.com/signup)
