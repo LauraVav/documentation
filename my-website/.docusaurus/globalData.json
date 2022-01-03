@@ -276,6 +276,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/Python SDK/document-class",
+              "path": "/docs/Tutorials/Python SDK/document-class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/Python SDK/filter-emotion",
               "path": "/docs/Tutorials/Python SDK/filter-emotion",
               "sidebar": "tutorialSidebar"
@@ -283,6 +288,11 @@
             {
               "id": "Tutorials/Python SDK/filter-polarity",
               "path": "/docs/Tutorials/Python SDK/filter-polarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/filter-type",
+              "path": "/docs/Tutorials/Python SDK/filter-type",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -308,6 +318,11 @@
             {
               "id": "Tutorials/Python SDK/meaning-sentiment",
               "path": "/docs/Tutorials/Python SDK/meaning-sentiment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/sentence-class",
+              "path": "/docs/Tutorials/Python SDK/sentence-class",
               "sidebar": "tutorialSidebar"
             },
             {

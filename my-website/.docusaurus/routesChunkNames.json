@@ -7,7 +7,7 @@
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/docs-7fc": {
+  "/docs-a3a": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -223,6 +223,10 @@
     "component": "17896441",
     "content": "7bb72330"
   },
+  "/docs/Tutorials/Python SDK/document-class-35b": {
+    "component": "17896441",
+    "content": "ba5b5042"
+  },
   "/docs/Tutorials/Python SDK/filter-emotion-e7b": {
     "component": "17896441",
     "content": "72686f7b"
@@ -230,6 +234,10 @@
   "/docs/Tutorials/Python SDK/filter-polarity-636": {
     "component": "17896441",
     "content": "e010518f"
+  },
+  "/docs/Tutorials/Python SDK/filter-type-537": {
+    "component": "17896441",
+    "content": "45974bfd"
   },
   "/docs/Tutorials/Python SDK/get-emotion-210": {
     "component": "17896441",
@@ -250,6 +258,10 @@
   "/docs/Tutorials/Python SDK/meaning-sentiment-b02": {
     "component": "17896441",
     "content": "5344b3b5"
+  },
+  "/docs/Tutorials/Python SDK/sentence-class-ae0": {
+    "component": "17896441",
+    "content": "2f64e500"
   },
   "/docs/Tutorials/Python SDK/vocabulary-afd": {
     "component": "17896441",

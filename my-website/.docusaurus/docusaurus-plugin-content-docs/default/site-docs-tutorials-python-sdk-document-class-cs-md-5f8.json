@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Tutorials/Python SDK/document-class-CS",
+  "id": "Tutorials/Python SDK/document-class-CS",
+  "isDocsHomePage": false,
+  "title": "document-class-CS",
+  "description": "",
+  "source": "@site/docs/Tutorials/Python SDK/document-class-CS.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/document-class-CS",
+  "permalink": "/docs/Tutorials/Python SDK/document-class-CS",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Filter Type",
+    "permalink": "/docs/Tutorials/Python SDK/filter-type"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/docs/help/faq"
+  }
+}

@@ -633,8 +633,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Filter Polarity",
-                "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
+                "title": "Sentence Class",
+                "permalink": "/docs/Tutorials/Python SDK/sentence-class"
               }
             },
             {
@@ -1388,6 +1388,32 @@
               }
             },
             {
+              "unversionedId": "Tutorials/Python SDK/document-class",
+              "id": "Tutorials/Python SDK/document-class",
+              "isDocsHomePage": false,
+              "title": "Document Class",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/document-class.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/document-class",
+              "permalink": "/docs/Tutorials/Python SDK/document-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Filter Type",
+                "permalink": "/docs/Tutorials/Python SDK/filter-type"
+              },
+              "next": {
+                "title": "Sentence Class",
+                "permalink": "/docs/Tutorials/Python SDK/sentence-class"
+              }
+            },
+            {
               "unversionedId": "Tutorials/Python SDK/filter-emotion",
               "id": "Tutorials/Python SDK/filter-emotion",
               "isDocsHomePage": false,
@@ -1435,8 +1461,34 @@
                 "permalink": "/docs/Tutorials/Python SDK/filter-emotion"
               },
               "next": {
-                "title": "FAQs",
-                "permalink": "/docs/help/faq"
+                "title": "Filter Type",
+                "permalink": "/docs/Tutorials/Python SDK/filter-type"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/filter-type",
+              "id": "Tutorials/Python SDK/filter-type",
+              "isDocsHomePage": false,
+              "title": "Filter Type",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/filter-type.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/filter-type",
+              "permalink": "/docs/Tutorials/Python SDK/filter-type",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Filter Polarity",
+                "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
+              },
+              "next": {
+                "title": "Document Class",
+                "permalink": "/docs/Tutorials/Python SDK/document-class"
               }
             },
             {
@@ -1567,6 +1619,32 @@
               "next": {
                 "title": "Meaning Emotion",
                 "permalink": "/docs/Tutorials/Python SDK/meaning-emotion"
+              }
+            },
+            {
+              "unversionedId": "Tutorials/Python SDK/sentence-class",
+              "id": "Tutorials/Python SDK/sentence-class",
+              "isDocsHomePage": false,
+              "title": "Sentence Class",
+              "description": "Video",
+              "source": "@site/docs/Tutorials/Python SDK/sentence-class.md",
+              "sourceDirName": "Tutorials/Python SDK",
+              "slug": "/Tutorials/Python SDK/sentence-class",
+              "permalink": "/docs/Tutorials/Python SDK/sentence-class",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "sidebar_position": 15
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Document Class",
+                "permalink": "/docs/Tutorials/Python SDK/document-class"
+              },
+              "next": {
+                "title": "FAQs",
+                "permalink": "/docs/help/faq"
               }
             },
             {
@@ -2009,6 +2087,18 @@
                       {
                         "type": "doc",
                         "id": "Tutorials/Python SDK/filter-polarity"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/filter-type"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/document-class"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Tutorials/Python SDK/sentence-class"
                       }
                     ]
                   }

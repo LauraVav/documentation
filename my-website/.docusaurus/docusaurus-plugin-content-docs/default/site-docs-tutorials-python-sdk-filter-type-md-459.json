@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/filter-type",
+  "id": "Tutorials/Python SDK/filter-type",
+  "isDocsHomePage": false,
+  "title": "Filter Type",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/filter-type.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/filter-type",
+  "permalink": "/docs/Tutorials/Python SDK/filter-type",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Filter Polarity",
+    "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
+  },
+  "next": {
+    "title": "Document Class",
+    "permalink": "/docs/Tutorials/Python SDK/document-class"
+  }
+}

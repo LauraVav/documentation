@@ -379,6 +379,21 @@
                 "type": "link",
                 "label": "Filter Polarity",
                 "href": "/docs/Tutorials/Python SDK/filter-polarity"
+              },
+              {
+                "type": "link",
+                "label": "Filter Type",
+                "href": "/docs/Tutorials/Python SDK/filter-type"
+              },
+              {
+                "type": "link",
+                "label": "Document Class",
+                "href": "/docs/Tutorials/Python SDK/document-class"
+              },
+              {
+                "type": "link",
+                "label": "Sentence Class",
+                "href": "/docs/Tutorials/Python SDK/sentence-class"
               }
             ]
           }

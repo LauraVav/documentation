@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','7fc'),
+    component: ComponentCreator('/docs','a3a'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -336,6 +336,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/docs/Tutorials/Python SDK/document-class',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/document-class','35b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/docs/Tutorials/Python SDK/filter-emotion',
         component: ComponentCreator('/docs/Tutorials/Python SDK/filter-emotion','e7b'),
         exact: true,
@@ -344,6 +350,12 @@ export default [
       {
         path: '/docs/Tutorials/Python SDK/filter-polarity',
         component: ComponentCreator('/docs/Tutorials/Python SDK/filter-polarity','636'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/filter-type',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/filter-type','537'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -374,6 +386,12 @@ export default [
       {
         path: '/docs/Tutorials/Python SDK/meaning-sentiment',
         component: ComponentCreator('/docs/Tutorials/Python SDK/meaning-sentiment','b02'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/docs/Tutorials/Python SDK/sentence-class',
+        component: ComponentCreator('/docs/Tutorials/Python SDK/sentence-class','ae0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
