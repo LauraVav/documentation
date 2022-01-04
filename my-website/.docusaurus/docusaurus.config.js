@@ -73,7 +73,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Lettria"
+      "copyright": "Copyright © 2022 Lettria"
     },
     "prism": {
       "theme": {
