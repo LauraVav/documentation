@@ -394,6 +394,16 @@
                 "type": "link",
                 "label": "Sentence Class",
                 "href": "/docs/Tutorials/Python SDK/sentence-class"
+              },
+              {
+                "type": "link",
+                "label": "Subsentence Class",
+                "href": "/docs/Tutorials/Python SDK/subsentence-class"
+              },
+              {
+                "type": "link",
+                "label": "Common Properties",
+                "href": "/docs/Tutorials/Python SDK/common-properties-CS"
               }
             ]
           }

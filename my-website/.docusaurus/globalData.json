@@ -276,6 +276,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Tutorials/Python SDK/common-properties-CS",
+              "path": "/docs/Tutorials/Python SDK/common-properties-CS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Tutorials/Python SDK/document-class",
               "path": "/docs/Tutorials/Python SDK/document-class",
               "sidebar": "tutorialSidebar"
@@ -323,6 +328,11 @@
             {
               "id": "Tutorials/Python SDK/sentence-class",
               "path": "/docs/Tutorials/Python SDK/sentence-class",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/subsentence-class",
+              "path": "/docs/Tutorials/Python SDK/subsentence-class",
               "sidebar": "tutorialSidebar"
             },
             {
