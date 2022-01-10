@@ -20,7 +20,7 @@
     "permalink": "/docs/API/pos-tagger"
   },
   "next": {
-    "title": "Entities Numeral",
-    "permalink": "/docs/API/entities-numeral"
+    "title": "Parser Dependency",
+    "permalink": "/docs/API/parser-dependency"
   }
 }

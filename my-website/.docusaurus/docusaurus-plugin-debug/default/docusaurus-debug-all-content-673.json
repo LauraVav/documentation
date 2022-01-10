@@ -35,8 +35,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Parser Dependency",
-                "permalink": "/docs/API/parser-dependency"
+                "title": "Disturbance",
+                "permalink": "/docs/API/disturbance"
               },
               "next": {
                 "title": "Language Used",
@@ -65,8 +65,8 @@
                 "permalink": "/docs/API/entities-numeral"
               },
               "next": {
-                "title": "Parser Dependency",
-                "permalink": "/docs/API/parser-dependency"
+                "title": "Coreference",
+                "permalink": "/docs/API/coreference"
               }
             },
             {
@@ -91,8 +91,8 @@
                 "permalink": "/docs/API/pos-tagger"
               },
               "next": {
-                "title": "Entities Numeral",
-                "permalink": "/docs/API/entities-numeral"
+                "title": "Parser Dependency",
+                "permalink": "/docs/API/parser-dependency"
               }
             },
             {
@@ -107,9 +107,9 @@
               "permalink": "/docs/API/emotions",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 12,
+              "sidebarPosition": 13,
               "frontMatter": {
-                "sidebar_position": 12
+                "sidebar_position": 13
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -139,8 +139,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Emoticons",
-                "permalink": "/docs/API/emoticons"
+                "title": "Parser Dependency",
+                "permalink": "/docs/API/parser-dependency"
               },
               "next": {
                 "title": "Disturbance",
@@ -419,9 +419,9 @@
               "permalink": "/docs/API/ml-emotion",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 14,
+              "sidebarPosition": 15,
               "frontMatter": {
-                "sidebar_position": 14
+                "sidebar_position": 15
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -445,9 +445,9 @@
               "permalink": "/docs/API/ml-sentiment",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 15,
+              "sidebarPosition": 16,
               "frontMatter": {
-                "sidebar_position": 15
+                "sidebar_position": 16
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -497,18 +497,18 @@
               "permalink": "/docs/API/parser-dependency",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Disturbance",
-                "permalink": "/docs/API/disturbance"
+                "title": "Emoticons",
+                "permalink": "/docs/API/emoticons"
               },
               "next": {
-                "title": "Coreference",
-                "permalink": "/docs/API/coreference"
+                "title": "Entities Numeral",
+                "permalink": "/docs/API/entities-numeral"
               }
             },
             {
@@ -549,9 +549,9 @@
               "permalink": "/docs/API/proposition",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 16,
+              "sidebarPosition": 17,
               "frontMatter": {
-                "sidebar_position": 16
+                "sidebar_position": 17
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -575,9 +575,9 @@
               "permalink": "/docs/API/sentence-acts",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 11,
+              "sidebarPosition": 12,
               "frontMatter": {
-                "sidebar_position": 11
+                "sidebar_position": 12
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -601,9 +601,9 @@
               "permalink": "/docs/API/sentiment",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 13,
+              "sidebarPosition": 14,
               "frontMatter": {
-                "sidebar_position": 13
+                "sidebar_position": 14
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -1942,15 +1942,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "API/parser-dependency"
+                  },
+                  {
+                    "type": "doc",
                     "id": "API/entities-numeral"
                   },
                   {
                     "type": "doc",
                     "id": "API/disturbance"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/parser-dependency"
                   },
                   {
                     "type": "doc",

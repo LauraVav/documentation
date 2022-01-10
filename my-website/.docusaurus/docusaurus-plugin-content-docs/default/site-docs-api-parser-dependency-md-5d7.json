@@ -10,17 +10,17 @@
   "permalink": "/docs/API/parser-dependency",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 9,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 9
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Disturbance",
-    "permalink": "/docs/API/disturbance"
+    "title": "Emoticons",
+    "permalink": "/docs/API/emoticons"
   },
   "next": {
-    "title": "Coreference",
-    "permalink": "/docs/API/coreference"
+    "title": "Entities Numeral",
+    "permalink": "/docs/API/entities-numeral"
   }
 }

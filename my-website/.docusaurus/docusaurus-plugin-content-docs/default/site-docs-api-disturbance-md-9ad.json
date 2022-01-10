@@ -20,7 +20,7 @@
     "permalink": "/docs/API/entities-numeral"
   },
   "next": {
-    "title": "Parser Dependency",
-    "permalink": "/docs/API/parser-dependency"
+    "title": "Coreference",
+    "permalink": "/docs/API/coreference"
   }
 }

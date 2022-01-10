@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Emoticons",
-    "permalink": "/docs/API/emoticons"
+    "title": "Parser Dependency",
+    "permalink": "/docs/API/parser-dependency"
   },
   "next": {
     "title": "Disturbance",

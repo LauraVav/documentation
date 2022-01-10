@@ -10,9 +10,9 @@
   "permalink": "/docs/API/ml-sentiment",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 15,
+  "sidebarPosition": 16,
   "frontMatter": {
-    "sidebar_position": 15
+    "sidebar_position": 16
   },
   "sidebar": "tutorialSidebar",
   "previous": {

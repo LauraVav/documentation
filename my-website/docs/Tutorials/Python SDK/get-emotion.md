@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## Video
 
-![Get emotion](/img/get-emotion-CS.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eIYDEbNBNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is the get emotion tool?
 

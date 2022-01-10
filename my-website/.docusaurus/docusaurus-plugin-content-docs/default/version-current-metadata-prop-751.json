@@ -109,6 +109,11 @@
           },
           {
             "type": "link",
+            "label": "Parser Dependency",
+            "href": "/docs/API/parser-dependency"
+          },
+          {
+            "type": "link",
             "label": "Entities Numeral",
             "href": "/docs/API/entities-numeral"
           },
@@ -116,11 +121,6 @@
             "type": "link",
             "label": "Disturbance",
             "href": "/docs/API/disturbance"
-          },
-          {
-            "type": "link",
-            "label": "Parser Dependency",
-            "href": "/docs/API/parser-dependency"
           },
           {
             "type": "link",
