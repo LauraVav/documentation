@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "API/lemmitizer",
+              "path": "/docs/API/lemmitizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "API/lettria-sentence-object",
               "path": "/docs/API/lettria-sentence-object",
               "sidebar": "tutorialSidebar"

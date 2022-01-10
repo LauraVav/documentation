@@ -10,17 +10,17 @@
   "permalink": "/docs/API/disturbance",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "POS Tagger",
-    "permalink": "/docs/API/pos-tagger"
+    "title": "Entities Numeral",
+    "permalink": "/docs/API/entities-numeral"
   },
   "next": {
-    "title": "NLC",
-    "permalink": "/docs/API/nlc-new"
+    "title": "Parser Dependency",
+    "permalink": "/docs/API/parser-dependency"
   }
 }

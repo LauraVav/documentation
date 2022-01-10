@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NLC",
-    "permalink": "/docs/API/nlc-new"
+    "title": "Emoticons",
+    "permalink": "/docs/API/emoticons"
   },
   "next": {
-    "title": "Parser Dependency",
-    "permalink": "/docs/API/parser-dependency"
+    "title": "Disturbance",
+    "permalink": "/docs/API/disturbance"
   }
 }

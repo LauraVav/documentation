@@ -39,8 +39,8 @@
                 "permalink": "/docs/API/parser-dependency"
               },
               "next": {
-                "title": "Sentence Acts",
-                "permalink": "/docs/API/sentence-acts"
+                "title": "Language Used",
+                "permalink": "/docs/API/language-used"
               }
             },
             {
@@ -55,18 +55,18 @@
               "permalink": "/docs/API/disturbance",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "POS Tagger",
-                "permalink": "/docs/API/pos-tagger"
+                "title": "Entities Numeral",
+                "permalink": "/docs/API/entities-numeral"
               },
               "next": {
-                "title": "NLC",
-                "permalink": "/docs/API/nlc-new"
+                "title": "Parser Dependency",
+                "permalink": "/docs/API/parser-dependency"
               }
             },
             {
@@ -81,18 +81,18 @@
               "permalink": "/docs/API/emoticons",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 3,
+              "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Synthesis",
-                "permalink": "/docs/API/synthesis"
+                "title": "POS Tagger",
+                "permalink": "/docs/API/pos-tagger"
               },
               "next": {
-                "title": "Language Used",
-                "permalink": "/docs/API/language-used"
+                "title": "Entities Numeral",
+                "permalink": "/docs/API/entities-numeral"
               }
             },
             {
@@ -139,12 +139,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "NLC",
-                "permalink": "/docs/API/nlc-new"
+                "title": "Emoticons",
+                "permalink": "/docs/API/emoticons"
               },
               "next": {
-                "title": "Parser Dependency",
-                "permalink": "/docs/API/parser-dependency"
+                "title": "Disturbance",
+                "permalink": "/docs/API/disturbance"
               }
             },
             {
@@ -341,14 +341,40 @@
               "permalink": "/docs/API/language-used",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Coreference",
+                "permalink": "/docs/API/coreference"
+              },
+              "next": {
+                "title": "Sentence Acts",
+                "permalink": "/docs/API/sentence-acts"
+              }
+            },
+            {
+              "unversionedId": "API/lemmitizer",
+              "id": "API/lemmitizer",
+              "isDocsHomePage": false,
+              "title": "Lemmatizer",
+              "description": "The content of the lemmatizer object is different for each tag. The table bellow references all the keys that are available, and lists the tags that will return them (see POS Tagger and list of tags).",
+              "source": "@site/docs/API/lemmitizer.md",
+              "sourceDirName": "API",
+              "slug": "/API/lemmitizer",
+              "permalink": "/docs/API/lemmitizer",
+              "tags": [],
+              "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Emoticons",
-                "permalink": "/docs/API/emoticons"
+                "title": "NLC",
+                "permalink": "/docs/API/nlc-new"
               },
               "next": {
                 "title": "POS Tagger",
@@ -445,18 +471,18 @@
               "permalink": "/docs/API/nlc-new",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 6,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Disturbance",
-                "permalink": "/docs/API/disturbance"
+                "title": "Synthesis",
+                "permalink": "/docs/API/synthesis"
               },
               "next": {
-                "title": "Entities Numeral",
-                "permalink": "/docs/API/entities-numeral"
+                "title": "Lemmatizer",
+                "permalink": "/docs/API/lemmitizer"
               }
             },
             {
@@ -477,8 +503,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Entities Numeral",
-                "permalink": "/docs/API/entities-numeral"
+                "title": "Disturbance",
+                "permalink": "/docs/API/disturbance"
               },
               "next": {
                 "title": "Coreference",
@@ -503,12 +529,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Language Used",
-                "permalink": "/docs/API/language-used"
+                "title": "Lemmatizer",
+                "permalink": "/docs/API/lemmitizer"
               },
               "next": {
-                "title": "Disturbance",
-                "permalink": "/docs/API/disturbance"
+                "title": "Emoticons",
+                "permalink": "/docs/API/emoticons"
               }
             },
             {
@@ -555,8 +581,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Coreference",
-                "permalink": "/docs/API/coreference"
+                "title": "Language Used",
+                "permalink": "/docs/API/language-used"
               },
               "next": {
                 "title": "Emotions",
@@ -611,8 +637,8 @@
                 "permalink": "/docs/API/lettria-sentence-object"
               },
               "next": {
-                "title": "Emoticons",
-                "permalink": "/docs/API/emoticons"
+                "title": "NLC",
+                "permalink": "/docs/API/nlc-new"
               }
             },
             {
@@ -1900,11 +1926,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "API/emoticons"
+                    "id": "API/nlc-new"
                   },
                   {
                     "type": "doc",
-                    "id": "API/language-used"
+                    "id": "API/lemmitizer"
                   },
                   {
                     "type": "doc",
@@ -1912,15 +1938,15 @@
                   },
                   {
                     "type": "doc",
-                    "id": "API/disturbance"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "API/nlc-new"
+                    "id": "API/emoticons"
                   },
                   {
                     "type": "doc",
                     "id": "API/entities-numeral"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/disturbance"
                   },
                   {
                     "type": "doc",
@@ -1929,6 +1955,10 @@
                   {
                     "type": "doc",
                     "id": "API/coreference"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "API/language-used"
                   },
                   {
                     "type": "doc",

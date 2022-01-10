@@ -89,13 +89,13 @@
           },
           {
             "type": "link",
-            "label": "Emoticons",
-            "href": "/docs/API/emoticons"
+            "label": "NLC",
+            "href": "/docs/API/nlc-new"
           },
           {
             "type": "link",
-            "label": "Language Used",
-            "href": "/docs/API/language-used"
+            "label": "Lemmatizer",
+            "href": "/docs/API/lemmitizer"
           },
           {
             "type": "link",
@@ -104,18 +104,18 @@
           },
           {
             "type": "link",
-            "label": "Disturbance",
-            "href": "/docs/API/disturbance"
-          },
-          {
-            "type": "link",
-            "label": "NLC",
-            "href": "/docs/API/nlc-new"
+            "label": "Emoticons",
+            "href": "/docs/API/emoticons"
           },
           {
             "type": "link",
             "label": "Entities Numeral",
             "href": "/docs/API/entities-numeral"
+          },
+          {
+            "type": "link",
+            "label": "Disturbance",
+            "href": "/docs/API/disturbance"
           },
           {
             "type": "link",
@@ -126,6 +126,11 @@
             "type": "link",
             "label": "Coreference",
             "href": "/docs/API/coreference"
+          },
+          {
+            "type": "link",
+            "label": "Language Used",
+            "href": "/docs/API/language-used"
           },
           {
             "type": "link",

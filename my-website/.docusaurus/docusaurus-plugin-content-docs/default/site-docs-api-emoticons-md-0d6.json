@@ -10,17 +10,17 @@
   "permalink": "/docs/API/emoticons",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Synthesis",
-    "permalink": "/docs/API/synthesis"
+    "title": "POS Tagger",
+    "permalink": "/docs/API/pos-tagger"
   },
   "next": {
-    "title": "Language Used",
-    "permalink": "/docs/API/language-used"
+    "title": "Entities Numeral",
+    "permalink": "/docs/API/entities-numeral"
   }
 }

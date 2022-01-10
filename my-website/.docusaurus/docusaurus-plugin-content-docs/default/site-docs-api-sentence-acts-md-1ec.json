@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Coreference",
-    "permalink": "/docs/API/coreference"
+    "title": "Language Used",
+    "permalink": "/docs/API/language-used"
   },
   "next": {
     "title": "Emotions",

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Entities Numeral",
-    "permalink": "/docs/API/entities-numeral"
+    "title": "Disturbance",
+    "permalink": "/docs/API/disturbance"
   },
   "next": {
     "title": "Coreference",

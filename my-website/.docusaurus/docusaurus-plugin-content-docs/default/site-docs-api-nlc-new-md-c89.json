@@ -10,17 +10,17 @@
   "permalink": "/docs/API/nlc-new",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Disturbance",
-    "permalink": "/docs/API/disturbance"
+    "title": "Synthesis",
+    "permalink": "/docs/API/synthesis"
   },
   "next": {
-    "title": "Entities Numeral",
-    "permalink": "/docs/API/entities-numeral"
+    "title": "Lemmatizer",
+    "permalink": "/docs/API/lemmitizer"
   }
 }
