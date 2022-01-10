@@ -116,8 +116,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "API/sentence-acts",
-              "path": "/docs/API/sentence-acts",
+              "id": "API/sentence-type",
+              "path": "/docs/API/sentence-type",
               "sidebar": "tutorialSidebar"
             },
             {

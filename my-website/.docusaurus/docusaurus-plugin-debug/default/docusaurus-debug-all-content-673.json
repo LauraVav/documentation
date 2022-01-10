@@ -113,8 +113,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sentence Acts",
-                "permalink": "/docs/API/sentence-acts"
+                "title": "Sentence Type",
+                "permalink": "/docs/API/sentence-type"
               },
               "next": {
                 "title": "Sentiment",
@@ -351,8 +351,8 @@
                 "permalink": "/docs/API/coreference"
               },
               "next": {
-                "title": "Sentence Acts",
-                "permalink": "/docs/API/sentence-acts"
+                "title": "Sentence Type",
+                "permalink": "/docs/API/sentence-type"
               }
             },
             {
@@ -564,15 +564,15 @@
               }
             },
             {
-              "unversionedId": "API/sentence-acts",
-              "id": "API/sentence-acts",
+              "unversionedId": "API/sentence-type",
+              "id": "API/sentence-type",
               "isDocsHomePage": false,
-              "title": "Sentence Acts",
+              "title": "Sentence Type",
               "description": "Go back to the Sentence Object.",
-              "source": "@site/docs/API/sentence-acts.md",
+              "source": "@site/docs/API/sentence-type.md",
               "sourceDirName": "API",
-              "slug": "/API/sentence-acts",
-              "permalink": "/docs/API/sentence-acts",
+              "slug": "/API/sentence-type",
+              "permalink": "/docs/API/sentence-type",
               "tags": [],
               "version": "current",
               "sidebarPosition": 12,
@@ -1962,7 +1962,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "API/sentence-acts"
+                    "id": "API/sentence-type"
                   },
                   {
                     "type": "doc",

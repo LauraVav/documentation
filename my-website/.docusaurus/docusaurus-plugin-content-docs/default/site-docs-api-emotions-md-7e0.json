@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sentence Acts",
-    "permalink": "/docs/API/sentence-acts"
+    "title": "Sentence Type",
+    "permalink": "/docs/API/sentence-type"
   },
   "next": {
     "title": "Sentiment",

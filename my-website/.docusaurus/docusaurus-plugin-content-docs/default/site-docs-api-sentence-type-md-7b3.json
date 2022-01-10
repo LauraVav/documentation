@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence-type",
+  "id": "API/sentence-type",
+  "isDocsHomePage": false,
+  "title": "Sentence Type",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/docs/API/sentence-type.md",
+  "sourceDirName": "API",
+  "slug": "/API/sentence-type",
+  "permalink": "/docs/API/sentence-type",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Used",
+    "permalink": "/docs/API/language-used"
+  },
+  "next": {
+    "title": "Emotions",
+    "permalink": "/docs/API/emotions"
+  }
+}

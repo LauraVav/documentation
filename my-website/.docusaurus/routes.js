@@ -15,7 +15,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','b6d'),
+    component: ComponentCreator('/docs','dec'),
     routes: [
       {
         path: '/docs/API/coreference',
@@ -144,8 +144,8 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/API/sentence-acts',
-        component: ComponentCreator('/docs/API/sentence-acts','b44'),
+        path: '/docs/API/sentence-type',
+        component: ComponentCreator('/docs/API/sentence-type','d47'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

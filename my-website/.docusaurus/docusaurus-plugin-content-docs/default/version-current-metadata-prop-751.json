@@ -134,8 +134,8 @@
           },
           {
             "type": "link",
-            "label": "Sentence Acts",
-            "href": "/docs/API/sentence-acts"
+            "label": "Sentence Type",
+            "href": "/docs/API/sentence-type"
           },
           {
             "type": "link",
