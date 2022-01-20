@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/Tool guides/ner",
+  "id": "versioned_docs/version-6.0.1/Tool guides/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "What is Named Entity Recognition?",
+  "source": "@site/docs/versioned_docs/version-6.0.1/Tool guides/ner.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/Tool guides",
+  "slug": "/versioned_docs/version-6.0.1/Tool guides/ner",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/ner",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NLU",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/nlu"
+  },
+  "next": {
+    "title": "Sentiment Analysis",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/sentiment-analysis"
+  }
+}

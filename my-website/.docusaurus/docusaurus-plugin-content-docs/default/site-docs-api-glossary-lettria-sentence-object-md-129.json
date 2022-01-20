@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/lettria-sentence-object",
+  "id": "API/Glossary/lettria-sentence-object",
+  "isDocsHomePage": false,
+  "title": "Lettria Sentence Object",
+  "description": "In this object, each key corresponds to the returned object from a sub-API.",
+  "source": "@site/docs/API/Glossary/lettria-sentence-object.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/lettria-sentence-object",
+  "permalink": "/documentation/docs/next/API/Glossary/lettria-sentence-object",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detail",
+    "permalink": "/documentation/docs/next/API/detail"
+  },
+  "next": {
+    "title": "Tags",
+    "permalink": "/documentation/docs/next/API/Glossary/tags"
+  }
+}

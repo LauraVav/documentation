@@ -1,9 +1,9 @@
 export default {
-  "title": "Doc Center",
+  "title": "Documentations",
   "tagline": "Lettria documentation & tutorials",
   "url": "https://lettria.com",
-  "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "baseUrl": "/documentation/",
+  "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
   "organizationName": "Lettria",
@@ -13,10 +13,11 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/sidebars.js"
+          "sidebarPath": "/Users/lauravavasseur/Desktop/documentation pre-prod/my-website/sidebars.js",
+          "includeCurrentVersion": false
         },
         "theme": {
-          "customCss": "/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/src/css/custom.css"
+          "customCss": "/Users/lauravavasseur/Desktop/documentation pre-prod/my-website/src/css/custom.css"
         }
       }
     ]
@@ -26,7 +27,8 @@ export default {
       "title": "",
       "logo": {
         "alt": "Lettria Site Logo",
-        "src": "img/logo.png"
+        "src": "img/logo.png",
+        "href": "https://lettria.com"
       },
       "items": [
         {
@@ -34,46 +36,75 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "Documentation"
+        },
+        {
+          "type": "docsVersionDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
+      "logo": {
+        "alt": "Facebook Open Source Logo",
+        "src": "img/logo-footer.svg",
+        "href": "https://lettria.com",
+        "width": 80,
+        "height": 80
+      },
       "style": "light",
       "links": [
         {
-          "title": "Docs",
+          "title": "Solutions",
           "items": [
             {
-              "label": "Documentation",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Linkedin",
-              "href": "https://www.linkedin.com/company/lettria/mycompany/"
+              "label": "Use Cases",
+              "to": "https://www.lettria.com/solutions?type=use_case"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/lettria_fr?lang=en"
+              "label": "Success Stories",
+              "to": "https://www.lettria.com/solutions?type=success_story"
+            },
+            {
+              "label": "Industry",
+              "to": "https://www.lettria.com/solutions"
             }
           ]
         },
         {
-          "title": "More",
+          "title": "Platform",
           "items": [
             {
-              "label": "GitHub",
-              "href": "https://github.com/Lettria"
+              "label": "Features",
+              "to": "https://www.lettria.com/platform"
+            },
+            {
+              "label": "Pricing",
+              "to": "https://www.lettria.com/pricing"
+            }
+          ]
+        },
+        {
+          "title": "About",
+          "items": [
+            {
+              "label": "Our approach",
+              "to": "https://www.lettria.com/about-us"
+            }
+          ]
+        },
+        {
+          "title": "Blog",
+          "items": [
+            {
+              "label": "Publications",
+              "to": "https://www.lettria.com/blog"
             }
           ]
         }
-      ],
-      "copyright": "Copyright © 2022 Lettria"
+      ]
     },
     "prism": {
       "theme": {

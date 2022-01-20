@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/coreference",
+  "id": "version-1.0/API/coreference",
+  "isDocsHomePage": false,
+  "title": "Coreference",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/coreference.md",
+  "sourceDirName": "API",
+  "slug": "/API/coreference",
+  "permalink": "/documentation/docs/1.0/API/coreference",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Language Used",
+    "permalink": "/documentation/docs/1.0/API/language-used"
+  },
+  "next": {
+    "title": "Sentence Acts",
+    "permalink": "/documentation/docs/1.0/API/sentence-type"
+  }
+}

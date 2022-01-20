@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/texctchunk",
+  "id": "version-1.0/python-sdk/texctchunk",
+  "isDocsHomePage": false,
+  "title": "TextChunk",
+  "description": "What is TextChunk?",
+  "source": "@site/versioned_docs/version-1.0/python-sdk/texctchunk.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/texctchunk",
+  "permalink": "/documentation/docs/1.0/python-sdk/texctchunk",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "NLP Class",
+    "permalink": "/documentation/docs/1.0/python-sdk/nlp-class"
+  },
+  "next": {
+    "title": "Document Class",
+    "permalink": "/documentation/docs/1.0/python-sdk/document-class"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence/proposition",
+  "id": "API/sentence/proposition",
+  "isDocsHomePage": false,
+  "title": "Proposition",
+  "description": "Subsentence Object",
+  "source": "@site/docs/API/sentence/proposition.md",
+  "sourceDirName": "API/sentence",
+  "slug": "/API/sentence/proposition",
+  "permalink": "/documentation/docs/next/API/sentence/proposition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/documentation/docs/next/API/sentence/ner"
+  },
+  "next": {
+    "title": "Details",
+    "permalink": "/documentation/docs/next/API/details/details"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/dependency-parser",
+  "id": "version-1.0/Tool guides/dependency-parser",
+  "isDocsHomePage": false,
+  "title": "Dependency Parser",
+  "description": "What’s a dependency parser?",
+  "source": "@site/versioned_docs/version-1.0/Tool guides/dependency-parser.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/dependency-parser",
+  "permalink": "/documentation/docs/1.0/Tool guides/dependency-parser",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/1.0/Tool guides/lemmatizer"
+  },
+  "next": {
+    "title": "NLU",
+    "permalink": "/documentation/docs/1.0/Tool guides/nlu"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/get-emotion",
+  "id": "version-2.0/Tutorials/Python SDK/TextChunk/get-emotion",
+  "isDocsHomePage": false,
+  "title": "Get Emotion",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/TextChunk/get-emotion.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/get-emotion",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/get-emotion",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "List Entities",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/list-entities"
+  },
+  "next": {
+    "title": "Get Sentiment",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/get-sentiment-CS"
+  }
+}

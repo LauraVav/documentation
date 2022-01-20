@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/emotions",
+  "id": "version-1.0/API/emotions",
+  "isDocsHomePage": false,
+  "title": "Emotions",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/emotions.md",
+  "sourceDirName": "API",
+  "slug": "/API/emotions",
+  "permalink": "/documentation/docs/1.0/API/emotions",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Sentence Acts",
+    "permalink": "/documentation/docs/1.0/API/sentence-type"
+  },
+  "next": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/1.0/API/ml-emotion"
+  }
+}

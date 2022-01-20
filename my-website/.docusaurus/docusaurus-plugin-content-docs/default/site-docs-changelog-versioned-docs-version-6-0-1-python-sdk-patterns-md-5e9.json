@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/python-sdk/patterns",
+  "id": "Changelog/versioned_docs/version-6.0.1/python-sdk/patterns",
+  "isDocsHomePage": false,
+  "title": "Patterns",
+  "description": "Patterns let you find documents, sentences or tokens according to certain rules that will describe token attributes and relations between tokens. Attributes refer to information about a token like postag, raw text, dependency, entity type ...",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/python-sdk/patterns.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/python-sdk",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/python-sdk/patterns",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/patterns",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client Class",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/client-class"
+  },
+  "next": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/emoticons"
+  }
+}

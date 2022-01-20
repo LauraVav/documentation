@@ -3,11 +3,11 @@
   "id": "python-sdk/common-properties",
   "isDocsHomePage": false,
   "title": "Common Properties",
-  "description": "These properties are accessible at all analysis levels : NLP, Document, Sentence, Subsentence, Token.",
+  "description": "Properties have 'upward' accessibility, properties at a lower level are accessible at a higher level:",
   "source": "@site/docs/python-sdk/common-properties.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/common-properties",
-  "permalink": "/docs/python-sdk/common-properties",
+  "permalink": "/documentation/docs/next/python-sdk/common-properties",
   "tags": [],
   "version": "current",
   "sidebarPosition": 8,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Token Class",
-    "permalink": "/docs/python-sdk/token-class"
+    "permalink": "/documentation/docs/next/python-sdk/token-class"
   },
   "next": {
     "title": "Client Class",
-    "permalink": "/docs/python-sdk/client-class"
+    "permalink": "/documentation/docs/next/python-sdk/client-class"
   }
 }

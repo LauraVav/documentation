@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/Glossary/tags",
+  "id": "versioned_docs/version-6.0.1/API/Glossary/tags",
+  "isDocsHomePage": false,
+  "title": "Tags",
+  "description": "Here's a list of possible word tags. Used in the POS Tagger and Parser Dependency.",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/Glossary/tags.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/versioned_docs/version-6.0.1/API/Glossary/tags",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/tags",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lettria Sentence Object",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/lettria-sentence-object"
+  },
+  "next": {
+    "title": "Dependency Tags",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/dependency-tags"
+  }
+}

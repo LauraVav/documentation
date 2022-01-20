@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/API/tokenizer.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/tokenizer",
-  "permalink": "/docs/Tutorials/API/tokenizer",
+  "permalink": "/documentation/docs/next/Tutorials/API/tokenizer",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Language Recognition",
-    "permalink": "/docs/Tutorials/API/language-recognition"
+    "permalink": "/documentation/docs/next/Tutorials/API/language-recognition"
   },
   "next": {
-    "title": "Dependency Parser",
-    "permalink": "/docs/Tutorials/API/dependency-parser"
+    "title": "Emotion Analysis",
+    "permalink": "/documentation/docs/next/Tutorials/API/emotion-analysis"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/python-sdk/nlp-class.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/nlp-class",
-  "permalink": "/docs/python-sdk/nlp-class",
+  "permalink": "/documentation/docs/next/python-sdk/nlp-class",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Python SDK",
-    "permalink": "/docs/python-sdk/python-sdk"
+    "permalink": "/documentation/docs/next/python-sdk/python-sdk"
   },
   "next": {
     "title": "TextChunk",
-    "permalink": "/docs/python-sdk/texctchunk"
+    "permalink": "/documentation/docs/next/python-sdk/texctchunk"
   }
 }

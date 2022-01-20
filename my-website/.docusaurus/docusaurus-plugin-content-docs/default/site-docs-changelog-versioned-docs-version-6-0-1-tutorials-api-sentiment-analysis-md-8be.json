@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/Tutorials/API/sentiment-analysis",
+  "id": "Changelog/versioned_docs/version-6.0.1/Tutorials/API/sentiment-analysis",
+  "isDocsHomePage": false,
+  "title": "Sentiment Analysis",
+  "description": "Video",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/Tutorials/API/sentiment-analysis.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/Tutorials/API",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/Tutorials/API/sentiment-analysis",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/sentiment-analysis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emotion Analysis",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/emotion-analysis"
+  },
+  "next": {
+    "title": "Intent Detection",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/intent-detection"
+  }
+}

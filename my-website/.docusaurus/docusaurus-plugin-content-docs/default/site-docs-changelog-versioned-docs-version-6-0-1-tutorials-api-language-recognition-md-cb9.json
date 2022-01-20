@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/Tutorials/API/language-recognition",
+  "id": "Changelog/versioned_docs/version-6.0.1/Tutorials/API/language-recognition",
+  "isDocsHomePage": false,
+  "title": "Language Recognition",
+  "description": "Video",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/Tutorials/API/language-recognition.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/Tutorials/API",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/Tutorials/API/language-recognition",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/language-recognition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentence Type",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/sentence-type"
+  },
+  "next": {
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/tokenizer"
+  }
+}

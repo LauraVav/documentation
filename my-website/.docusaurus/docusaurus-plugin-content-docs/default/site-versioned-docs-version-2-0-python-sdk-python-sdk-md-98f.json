@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/python-sdk",
+  "id": "version-2.0/python-sdk/python-sdk",
+  "isDocsHomePage": false,
+  "title": "Python SDK",
+  "description": "Using the SDK",
+  "source": "@site/versioned_docs/version-2.0/python-sdk/python-sdk.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/python-sdk",
+  "permalink": "/documentation/docs/python-sdk/python-sdk",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/documentation/docs/intro"
+  },
+  "next": {
+    "title": "NLP Class",
+    "permalink": "/documentation/docs/python-sdk/nlp-class"
+  }
+}

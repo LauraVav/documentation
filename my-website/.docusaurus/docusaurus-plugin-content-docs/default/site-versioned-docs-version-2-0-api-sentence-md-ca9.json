@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence",
+  "id": "version-2.0/API/sentence",
+  "isDocsHomePage": false,
+  "title": "Sentence",
+  "description": "The API output is divided into three levels. The second level of return is the Sentence level. Within the Sentence Object you will find the following return below.",
+  "source": "@site/versioned_docs/version-2.0/API/sentence.md",
+  "sourceDirName": "API",
+  "slug": "/API/sentence",
+  "permalink": "/documentation/docs/API/sentence",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Document",
+    "permalink": "/documentation/docs/API/document"
+  },
+  "next": {
+    "title": "Detail",
+    "permalink": "/documentation/docs/API/detail"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/Glossary/dependency-tags",
+  "id": "versioned_docs/version-6.0.1/API/Glossary/dependency-tags",
+  "isDocsHomePage": false,
+  "title": "Dependency Tags",
+  "description": "We use the universal dependencies for our dependency parser.",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/Glossary/dependency-tags.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/versioned_docs/version-6.0.1/API/Glossary/dependency-tags",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/dependency-tags",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tags",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/tags"
+  },
+  "next": {
+    "title": "Synthesis",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/synthesis"
+  }
+}

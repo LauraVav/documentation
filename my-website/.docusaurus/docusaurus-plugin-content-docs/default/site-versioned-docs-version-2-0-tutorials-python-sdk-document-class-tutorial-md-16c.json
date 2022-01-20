@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/document-class-tutorial",
+  "id": "version-2.0/Tutorials/Python SDK/document-class-tutorial",
+  "isDocsHomePage": false,
+  "title": "Document Class",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/document-class-tutorial.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/document-class-tutorial",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/document-class-tutorial",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Match Pattern",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern"
+  },
+  "next": {
+    "title": "Sentence Class",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/sentence-class-tutorial"
+  }
+}

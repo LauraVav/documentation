@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/document-class.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/document-class",
-  "permalink": "/docs/Tutorials/Python SDK/document-class",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/document-class",
   "tags": [],
   "version": "current",
   "sidebarPosition": 14,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Filter Type",
-    "permalink": "/docs/Tutorials/Python SDK/filter-type"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/filter-type"
   },
   "next": {
     "title": "Sentence Class",
-    "permalink": "/docs/Tutorials/Python SDK/sentence-class"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/sentence-class"
   }
 }

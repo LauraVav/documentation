@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/API/lemmatizer.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/lemmatizer",
-  "permalink": "/docs/Tutorials/API/lemmatizer",
+  "permalink": "/documentation/docs/next/Tutorials/API/lemmatizer",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "POS Tagger",
-    "permalink": "/docs/Tutorials/API/pos-tagger"
+    "permalink": "/documentation/docs/next/Tutorials/API/pos-tagger"
   },
   "next": {
     "title": "Sentence Type",
-    "permalink": "/docs/Tutorials/API/sentence-type"
+    "permalink": "/documentation/docs/next/Tutorials/API/sentence-type"
   }
 }

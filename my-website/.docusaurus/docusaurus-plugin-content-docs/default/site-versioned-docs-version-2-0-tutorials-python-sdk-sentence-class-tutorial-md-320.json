@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/sentence-class-tutorial",
+  "id": "version-2.0/Tutorials/Python SDK/sentence-class-tutorial",
+  "isDocsHomePage": false,
+  "title": "Sentence Class",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/sentence-class-tutorial.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/sentence-class-tutorial",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/sentence-class-tutorial",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Document Class",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/document-class-tutorial"
+  },
+  "next": {
+    "title": "Subsentence Class",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/subsentence-class-tutorial"
+  }
+}

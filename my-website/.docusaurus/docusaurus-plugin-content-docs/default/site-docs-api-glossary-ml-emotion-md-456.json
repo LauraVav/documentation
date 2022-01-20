@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/ml-emotion",
+  "id": "API/Glossary/ml-emotion",
+  "isDocsHomePage": false,
+  "title": "ML Emotion",
+  "description": "ML emotion is a multilabel model that returns the emotions expressed in a sentence or subsentence.",
+  "source": "@site/docs/API/Glossary/ml-emotion.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/ml-emotion",
+  "permalink": "/documentation/docs/next/API/Glossary/ml-emotion",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Parser Dependency",
+    "permalink": "/documentation/docs/next/API/Glossary/parser-dependency"
+  },
+  "next": {
+    "title": "ML Sentiment",
+    "permalink": "/documentation/docs/next/API/Glossary/ml-sentiment"
+  }
+}

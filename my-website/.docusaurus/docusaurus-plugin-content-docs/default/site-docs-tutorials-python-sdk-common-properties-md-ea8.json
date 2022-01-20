@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/common-properties",
+  "id": "Tutorials/Python SDK/common-properties",
+  "isDocsHomePage": false,
+  "title": "Common Properties",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/common-properties.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/common-properties",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/common-properties",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Subsentence Class",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/subsentence-class-tutorial"
+  },
+  "next": {
+    "title": "Token Pattern",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/Patterns/token-pattern"
+  }
+}

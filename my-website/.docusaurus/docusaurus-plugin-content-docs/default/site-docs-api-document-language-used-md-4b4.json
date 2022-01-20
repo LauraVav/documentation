@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/language-used",
+  "id": "API/document/language-used",
+  "isDocsHomePage": false,
+  "title": "Language Used",
+  "description": "Go back to the Document Object.",
+  "source": "@site/docs/API/document/language-used.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/language-used",
+  "permalink": "/documentation/docs/next/API/document/language-used",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/next/API/document/coreference"
+  },
+  "next": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/next/API/document/emoticons"
+  }
+}

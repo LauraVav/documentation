@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/nlu",
+  "id": "version-1.0/API/nlu",
+  "isDocsHomePage": false,
+  "title": "NLU",
+  "description": "Understanding for each token in the sentence.",
+  "source": "@site/versioned_docs/version-1.0/API/nlu.md",
+  "sourceDirName": "API",
+  "slug": "/API/nlu",
+  "permalink": "/documentation/docs/1.0/API/nlu",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Parser Dependency",
+    "permalink": "/documentation/docs/1.0/API/parser-dependency"
+  },
+  "next": {
+    "title": "Entities Numeral",
+    "permalink": "/documentation/docs/1.0/API/entities-numeral"
+  }
+}

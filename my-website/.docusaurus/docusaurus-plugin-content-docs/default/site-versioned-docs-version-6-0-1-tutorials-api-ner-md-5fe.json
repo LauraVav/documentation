@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/ner",
+  "id": "version-6.0.1/Tutorials/API/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-6.0.1/Tutorials/API/ner.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/ner",
+  "permalink": "/documentation/docs/Tutorials/API/ner",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Intent Detection",
+    "permalink": "/documentation/docs/Tutorials/API/intent-detection"
+  },
+  "next": {
+    "title": "Vocabulary",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/vocabulary"
+  }
+}

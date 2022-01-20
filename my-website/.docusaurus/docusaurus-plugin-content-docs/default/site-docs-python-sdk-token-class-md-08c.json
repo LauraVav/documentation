@@ -7,7 +7,7 @@
   "source": "@site/docs/python-sdk/token-class.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/token-class",
-  "permalink": "/docs/python-sdk/token-class",
+  "permalink": "/documentation/docs/next/python-sdk/token-class",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Subsentence Class",
-    "permalink": "/docs/python-sdk/subsentence-class"
+    "permalink": "/documentation/docs/next/python-sdk/subsentence-class"
   },
   "next": {
     "title": "Common Properties",
-    "permalink": "/docs/python-sdk/common-properties"
+    "permalink": "/documentation/docs/next/python-sdk/common-properties"
   }
 }

@@ -1,324 +1,576 @@
 {
-  "/__docusaurus/debug-3d6": {
+  "/documentation/__docusaurus/debug-9a6": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/config-914": {
+  "/documentation/__docusaurus/debug/config-9b2": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/documentation/__docusaurus/debug/content-9eb": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
   },
-  "/__docusaurus/debug/globalData-3cf": {
+  "/documentation/__docusaurus/debug/globalData-4d6": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/__docusaurus/debug/metadata-31b": {
+  "/documentation/__docusaurus/debug/metadata-c5d": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/__docusaurus/debug/registry-0da": {
+  "/documentation/__docusaurus/debug/registry-32c": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/__docusaurus/debug/routes-244": {
+  "/documentation/__docusaurus/debug/routes-e38": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog/archive-f4c": {
+  "/documentation/blog/archive-4d8": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---documentation-blog-archiveeda-964"
   },
-  "/markdown-page-be1": {
+  "/documentation/markdown-page-d54": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "content": "content---documentation-markdown-page-393-bce"
   },
-  "/docs-dec": {
+  "/documentation/docs/1.0-d45": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---documentation-docs-1-0352-310"
   },
-  "/docs/API/coreference-b80": {
+  "/documentation/docs/1.0/API/api-b32": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-coreference-484-0e3"
+    "content": "content---documentation-docs-1-0-api-apic-26-99b"
   },
-  "/docs/API/disturbance-d00": {
+  "/documentation/docs/1.0/API/coreference-dcb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-disturbance-9-ad-094"
+    "content": "content---documentation-docs-1-0-api-coreference-8-ff-8cb"
   },
-  "/docs/API/emoticons-023": {
+  "/documentation/docs/1.0/API/disturbance-a79": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-emoticons-0-d-6-384"
+    "content": "content---documentation-docs-1-0-api-disturbance-700-706"
   },
-  "/docs/API/emotions-3ca": {
+  "/documentation/docs/1.0/API/emoticons-907": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-emotions-7-e-0-3a8"
+    "content": "content---documentation-docs-1-0-api-emoticons-7-d-7-9f1"
   },
-  "/docs/API/entities-numeral-e9b": {
+  "/documentation/docs/1.0/API/emotions-ca9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-entities-numeral-534-a47"
+    "content": "content---documentation-docs-1-0-api-emotionsc-06-cdb"
   },
-  "/docs/API/Glossary/categories-232": {
+  "/documentation/docs/1.0/API/entities-numeral-b1c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-categories-97-e-2d9"
+    "content": "content---documentation-docs-1-0-api-entities-numeral-945-137"
   },
-  "/docs/API/Glossary/conjugations-1ba": {
+  "/documentation/docs/1.0/API/Glossary/categories-2e4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-conjugations-71-b-37c"
+    "content": "content---documentation-docs-1-0-api-glossary-categoriesb-93-940"
   },
-  "/docs/API/Glossary/dependency-tags-c4b": {
+  "/documentation/docs/1.0/API/Glossary/conjugations-5ed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-dependency-tags-31-e-17c"
+    "content": "content---documentation-docs-1-0-api-glossary-conjugationsc-88-dad"
   },
-  "/docs/API/Glossary/entities-38a": {
+  "/documentation/docs/1.0/API/Glossary/dependency-tags-0d2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-entitiesb-72-635"
+    "content": "content---documentation-docs-1-0-api-glossary-dependency-tags-8-a-0-fad"
   },
-  "/docs/API/Glossary/possessive-determiners-370": {
+  "/documentation/docs/1.0/API/Glossary/entities-d3b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-possessive-determiners-7-a-3-678"
+    "content": "content---documentation-docs-1-0-api-glossary-entities-82-c-db5"
   },
-  "/docs/API/Glossary/pronouns-61b": {
+  "/documentation/docs/1.0/API/Glossary/possessive-determiners-e61": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-pronounsc-1-f-1af"
+    "content": "content---documentation-docs-1-0-api-glossary-possessive-determiners-677-824"
   },
-  "/docs/API/Glossary/tags-861": {
+  "/documentation/docs/1.0/API/Glossary/pronouns-8c7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-glossary-tags-59-d-3cb"
+    "content": "content---documentation-docs-1-0-api-glossary-pronouns-5-c-7-1ed"
   },
-  "/docs/API/language-used-449": {
+  "/documentation/docs/1.0/API/Glossary/tags-3e0": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-language-usedac-6-f82"
+    "content": "content---documentation-docs-1-0-api-glossary-tags-5-a-3-469"
   },
-  "/docs/API/lemmitizer-793": {
+  "/documentation/docs/1.0/API/language-used-a2f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-lemmitizerf-12-96b"
+    "content": "content---documentation-docs-1-0-api-language-usedd-05-624"
   },
-  "/docs/API/lettria-sentence-object-126": {
+  "/documentation/docs/1.0/API/lemmitizer-4fe": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-lettria-sentence-object-734-a94"
+    "content": "content---documentation-docs-1-0-api-lemmitizer-0-fe-f53"
   },
-  "/docs/API/ml-emotion-68c": {
+  "/documentation/docs/1.0/API/lettria-sentence-object-3d6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-ml-emotion-6-bd-7ca"
+    "content": "content---documentation-docs-1-0-api-lettria-sentence-objecte-6-b-9b9"
   },
-  "/docs/API/ml-sentiment-caa": {
+  "/documentation/docs/1.0/API/ml-emotion-229": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-ml-sentiment-7-c-0-45f"
+    "content": "content---documentation-docs-1-0-api-ml-emotion-388-cb9"
   },
-  "/docs/API/nlc-new-ab5": {
+  "/documentation/docs/1.0/API/ml-sentiment-680": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-nlc-newc-89-de3"
+    "content": "content---documentation-docs-1-0-api-ml-sentiment-6-f-1-462"
   },
-  "/docs/API/parser-dependency-e62": {
+  "/documentation/docs/1.0/API/ner-9b7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-parser-dependency-5-d-7-a27"
+    "content": "content---documentation-docs-1-0-api-ner-607-639"
   },
-  "/docs/API/pos-tagger-69c": {
+  "/documentation/docs/1.0/API/nlp-626": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-pos-tagger-8-aa-6cd"
+    "content": "content---documentation-docs-1-0-api-nlpddc-512"
   },
-  "/docs/API/proposition-74b": {
+  "/documentation/docs/1.0/API/nlu-690": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-propositionde-8-482"
+    "content": "content---documentation-docs-1-0-api-nluc-56-7a3"
   },
-  "/docs/API/sentence-type-d47": {
+  "/documentation/docs/1.0/API/parser-dependency-038": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-sentence-type-7-b-3-e02"
+    "content": "content---documentation-docs-1-0-api-parser-dependency-9-c-3-61e"
   },
-  "/docs/API/sentiment-c45": {
+  "/documentation/docs/1.0/API/pos-tagger-baf": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-sentiment-27-b-948"
+    "content": "content---documentation-docs-1-0-api-pos-tagger-66-f-5ba"
   },
-  "/docs/API/synthesis-6c3": {
+  "/documentation/docs/1.0/API/proposition-237": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-api-synthesisca-3-2d4"
+    "content": "content---documentation-docs-1-0-api-proposition-34-a-514"
   },
-  "/docs/help/faq-701": {
+  "/documentation/docs/1.0/API/sentence-type-4fc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-help-faqdd-5-db6"
+    "content": "content---documentation-docs-1-0-api-sentence-typed-15-46a"
   },
-  "/docs/intro-aed": {
+  "/documentation/docs/1.0/API/sentiment-c2a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---documentation-docs-1-0-api-sentiment-0-be-923"
   },
-  "/docs/python-sdk/client-class-d61": {
+  "/documentation/docs/1.0/API/synthesis-2b9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-client-class-58-f-1a3"
+    "content": "content---documentation-docs-1-0-api-synthesis-321-6ea"
   },
-  "/docs/python-sdk/common-properties-1f2": {
+  "/documentation/docs/1.0/help/faq-d8b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-common-properties-921-859"
+    "content": "content---documentation-docs-1-0-help-faqf-04-d80"
   },
-  "/docs/python-sdk/document-class-d2e": {
+  "/documentation/docs/1.0/intro-e01": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-document-classaf-6-7ea"
+    "content": "content---documentation-docs-1-0-intro-7-bd-3c9"
   },
-  "/docs/python-sdk/nlp-class-c1c": {
+  "/documentation/docs/1.0/python-sdk/client-class-d22": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-nlp-class-3-fb-eb0"
+    "content": "content---documentation-docs-1-0-python-sdk-client-class-37-c-478"
   },
-  "/docs/python-sdk/patterns-e48": {
+  "/documentation/docs/1.0/python-sdk/common-properties-c1d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-patternsd-25-a94"
+    "content": "content---documentation-docs-1-0-python-sdk-common-propertiesb-1-d-120"
   },
-  "/docs/python-sdk/python-sdk-ca1": {
+  "/documentation/docs/1.0/python-sdk/document-class-d9d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-python-sdkd-06-769"
+    "content": "content---documentation-docs-1-0-python-sdk-document-class-4-f-6-019"
   },
-  "/docs/python-sdk/sentence-class-44d": {
+  "/documentation/docs/1.0/python-sdk/nlp-class-7b6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-sentence-classc-03-bbf"
+    "content": "content---documentation-docs-1-0-python-sdk-nlp-classdea-439"
   },
-  "/docs/python-sdk/subsentence-class-cc8": {
+  "/documentation/docs/1.0/python-sdk/patterns-894": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-subsentence-classb-15-ca8"
+    "content": "content---documentation-docs-1-0-python-sdk-patterns-63-f-6db"
   },
-  "/docs/python-sdk/texctchunk-634": {
+  "/documentation/docs/1.0/python-sdk/python-sdk-30c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-texctchunk-189-250"
+    "content": "content---documentation-docs-1-0-python-sdk-python-sdk-22-b-a61"
   },
-  "/docs/python-sdk/token-class-aa2": {
+  "/documentation/docs/1.0/python-sdk/sentence-class-c9e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-python-sdk-token-class-08-c-299"
+    "content": "content---documentation-docs-1-0-python-sdk-sentence-classcd-4-3b2"
   },
-  "/docs/Tool guides/coreference-98a": {
+  "/documentation/docs/1.0/python-sdk/subsentence-class-f8a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-coreference-075-b42"
+    "content": "content---documentation-docs-1-0-python-sdk-subsentence-class-259-83a"
   },
-  "/docs/Tool guides/dependency-parser-4a6": {
+  "/documentation/docs/1.0/python-sdk/texctchunk-e50": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-dependency-parser-432-b82"
+    "content": "content---documentation-docs-1-0-python-sdk-texctchunke-47-420"
   },
-  "/docs/Tool guides/lemmatizer-f11": {
+  "/documentation/docs/1.0/python-sdk/token-class-5de": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-lemmatizer-6-d-0-e9e"
+    "content": "content---documentation-docs-1-0-python-sdk-token-class-600-b6b"
   },
-  "/docs/Tool guides/ner-ac6": {
+  "/documentation/docs/1.0/Tool guides/coreference-72e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-ner-299-cd6"
+    "content": "content---documentation-docs-1-0-tool-guides-coreference-60-d-327"
   },
-  "/docs/Tool guides/nlu-b78": {
+  "/documentation/docs/1.0/Tool guides/dependency-parser-b54": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-nlu-26-f-706"
+    "content": "content---documentation-docs-1-0-tool-guides-dependency-parser-8-ca-fb0"
   },
-  "/docs/Tool guides/pos-tagger-f3b": {
+  "/documentation/docs/1.0/Tool guides/lemmatizer-8ed": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-pos-taggerae-1-85a"
+    "content": "content---documentation-docs-1-0-tool-guides-lemmatizer-760-6a2"
   },
-  "/docs/Tool guides/sentiment-analysis-21c": {
+  "/documentation/docs/1.0/Tool guides/ner-dd9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-sentiment-analysisf-42-849"
+    "content": "content---documentation-docs-1-0-tool-guides-nerb-2-b-378"
   },
-  "/docs/Tool guides/tokenizer-1d0": {
+  "/documentation/docs/1.0/Tool guides/nlu-10d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tool-guides-tokenizerccd-359"
+    "content": "content---documentation-docs-1-0-tool-guides-nlu-2-c-0-f31"
   },
-  "/docs/Tutorials/API/dependency-parser-3fe": {
+  "/documentation/docs/1.0/Tool guides/pos-tagger-dc5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-dependency-parser-9-fe-b0d"
+    "content": "content---documentation-docs-1-0-tool-guides-pos-tagger-8-ad-65f"
   },
-  "/docs/Tutorials/API/emotion-analysis-0f7": {
+  "/documentation/docs/1.0/Tool guides/sentiment-analysis-5c3": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-emotion-analysisebc-ae0"
+    "content": "content---documentation-docs-1-0-tool-guides-sentiment-analysis-396-4db"
   },
-  "/docs/Tutorials/API/intent-detection-ff6": {
+  "/documentation/docs/1.0/Tool guides/tokenizer-10d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-intent-detection-387-ba9"
+    "content": "content---documentation-docs-1-0-tool-guides-tokenizer-912-5f2"
   },
-  "/docs/Tutorials/API/language-recognition-fca": {
+  "/documentation/docs/1.0/Tutorials/API/dependency-parser-16e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-language-recognitioncf-7-faf"
+    "content": "content---documentation-docs-1-0-tutorials-api-dependency-parsere-3-a-83f"
   },
-  "/docs/Tutorials/API/lemmatizer-50d": {
+  "/documentation/docs/1.0/Tutorials/API/emotion-analysis-0cb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-lemmatizer-629-5b3"
+    "content": "content---documentation-docs-1-0-tutorials-api-emotion-analysisce-8-574"
   },
-  "/docs/Tutorials/API/ner-75a": {
+  "/documentation/docs/1.0/Tutorials/API/intent-detection-ce8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-nerbf-1-f43"
+    "content": "content---documentation-docs-1-0-tutorials-api-intent-detectionac-9-4e5"
   },
-  "/docs/Tutorials/API/pos-tagger-4e5": {
+  "/documentation/docs/1.0/Tutorials/API/language-recognition-90b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-pos-taggeraf-7-6fd"
+    "content": "content---documentation-docs-1-0-tutorials-api-language-recognition-1-ab-09c"
   },
-  "/docs/Tutorials/API/sentence-type-181": {
+  "/documentation/docs/1.0/Tutorials/API/lemmatizer-8e8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-sentence-type-19-c-12b"
+    "content": "content---documentation-docs-1-0-tutorials-api-lemmatizer-2-ec-e56"
   },
-  "/docs/Tutorials/API/sentiment-analysis-6d3": {
+  "/documentation/docs/1.0/Tutorials/API/ner-01b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-sentiment-analysisfaf-cfc"
+    "content": "content---documentation-docs-1-0-tutorials-api-ner-616-34a"
   },
-  "/docs/Tutorials/API/tokenizer-a07": {
+  "/documentation/docs/1.0/Tutorials/API/pos-tagger-0eb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-api-tokenizer-7-bb-c23"
+    "content": "content---documentation-docs-1-0-tutorials-api-pos-tagger-4-d-2-57d"
   },
-  "/docs/Tutorials/Python SDK/common-properties-CS-72b": {
+  "/documentation/docs/1.0/Tutorials/API/sentence-type-358": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-common-properties-c-sb-1-b-d6f"
+    "content": "content---documentation-docs-1-0-tutorials-api-sentence-type-2-bd-c63"
   },
-  "/docs/Tutorials/Python SDK/document-class-35b": {
+  "/documentation/docs/1.0/Tutorials/API/sentiment-analysis-9c9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-document-classba-5-75f"
+    "content": "content---documentation-docs-1-0-tutorials-api-sentiment-analysis-311-094"
   },
-  "/docs/Tutorials/Python SDK/filter-emotion-e7b": {
+  "/documentation/docs/1.0/Tutorials/API/tokenizer-c6e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-filter-emotion-726-6b1"
+    "content": "content---documentation-docs-1-0-tutorials-api-tokenizere-44-fe5"
   },
-  "/docs/Tutorials/Python SDK/filter-polarity-636": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/filter-emotion-77a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-filter-polaritye-01-ff6"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-filter-emotion-32-d-ced"
   },
-  "/docs/Tutorials/Python SDK/filter-type-537": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/filter-polarity-a88": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-filter-type-459-832"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-filter-polarity-54-a-b59"
   },
-  "/docs/Tutorials/Python SDK/get-emotion-210": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/get-emotion-a31": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-get-emotion-4-d-0-8ba"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-get-emotionb-0-e-24d"
   },
-  "/docs/Tutorials/Python SDK/get-sentiment-CS-76f": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/get-sentiment-CS-c19": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-get-sentiment-cs-0-e-3-cf9"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-get-sentiment-cs-0-e-4-9f3"
   },
-  "/docs/Tutorials/Python SDK/list-entities-515": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/list-entities-14d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-list-entities-790-028"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-list-entities-550-0a7"
   },
-  "/docs/Tutorials/Python SDK/meaning-emotion-ecf": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/meaning-emotion-598": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-meaning-emotiond-91-fe2"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-meaning-emotionbf-1-ccc"
   },
-  "/docs/Tutorials/Python SDK/meaning-sentiment-b02": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/meaning-sentiment-f33": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-meaning-sentiment-534-170"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-meaning-sentiment-435-afb"
   },
-  "/docs/Tutorials/Python SDK/sentence-class-ae0": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/vocabulary-dfd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-sentence-class-2-f-6-4e0"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-vocabulary-071-76a"
   },
-  "/docs/Tutorials/Python SDK/subsentence-class-c23": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/word-count-045": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-subsentence-class-3-da-f5b"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-word-count-461-33e"
   },
-  "/docs/Tutorials/Python SDK/vocabulary-afd": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/word-emotion-c03": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-vocabularye-48-69c"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-word-emotion-827-9ab"
   },
-  "/docs/Tutorials/Python SDK/word-count-0f3": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/word-frequency-3db": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-word-countb-5-b-e82"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-word-frequencyd-22-ef2"
   },
-  "/docs/Tutorials/Python SDK/word-emotion-e0e": {
+  "/documentation/docs/1.0/Tutorials/Python SDK/word-sentiment-d36": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-word-emotion-966-58b"
+    "content": "content---documentation-docs-1-0-tutorials-python-sdk-word-sentimente-79-45a"
   },
-  "/docs/Tutorials/Python SDK/word-frequency-bab": {
+  "/documentation/docs-557": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---documentation-docs-783-e87"
+  },
+  "/documentation/docs/API/api-738": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-apic-37-587"
+  },
+  "/documentation/docs/API/detail-46d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-detail-40-f-124"
+  },
+  "/documentation/docs/API/document-74a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-document-73-d-2da"
+  },
+  "/documentation/docs/API/Glossary/categories-688": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-categories-6-f-4-75e"
+  },
+  "/documentation/docs/API/Glossary/conjugations-3f3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-conjugationsbac-fa8"
+  },
+  "/documentation/docs/API/Glossary/dependency-tags-fe8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-dependency-tags-78-e-26b"
+  },
+  "/documentation/docs/API/Glossary/entities-1a8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-entities-5-d-8-06a"
+  },
+  "/documentation/docs/API/Glossary/possessive-determiners-b7a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-possessive-determinersa-95-951"
+  },
+  "/documentation/docs/API/Glossary/pronouns-1ed": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-pronouns-3-b-3-f48"
+  },
+  "/documentation/docs/API/Glossary/tags-0ce": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-glossary-tagscae-176"
+  },
+  "/documentation/docs/API/sentence-f1d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-api-sentenceca-9-31b"
+  },
+  "/documentation/docs/help/faq-bd7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-help-faq-2-e-3-647"
+  },
+  "/documentation/docs/intro-6a1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-intro-66-e-39b"
+  },
+  "/documentation/docs/python-sdk/client-class-857": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-client-classfe-7-83c"
+  },
+  "/documentation/docs/python-sdk/common-properties-2fd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-common-propertiesb-62-08d"
+  },
+  "/documentation/docs/python-sdk/document-class-bb0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-document-class-81-a-9b8"
+  },
+  "/documentation/docs/python-sdk/nlp-class-98d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-nlp-class-6-af-6e1"
+  },
+  "/documentation/docs/python-sdk/patterns-8e6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-patterns-6-d-6-c02"
+  },
+  "/documentation/docs/python-sdk/python-sdk-ae2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-python-sdk-98-f-f52"
+  },
+  "/documentation/docs/python-sdk/sentence-class-937": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-sentence-classf-42-e43"
+  },
+  "/documentation/docs/python-sdk/subsentence-class-ded": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-subsentence-class-2-ff-a88"
+  },
+  "/documentation/docs/python-sdk/texctchunk-92f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-texctchunk-350-aa8"
+  },
+  "/documentation/docs/python-sdk/token-class-208": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-python-sdk-token-classfe-9-4e3"
+  },
+  "/documentation/docs/Tool guides/coreference-0f9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-coreference-7-e-1-b84"
+  },
+  "/documentation/docs/Tool guides/dependency-parser-aa1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-dependency-parserd-95-5e5"
+  },
+  "/documentation/docs/Tool guides/lemmatizer-9bf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-lemmatizer-2-c-8-718"
+  },
+  "/documentation/docs/Tool guides/ner-a4a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-ner-97-d-991"
+  },
+  "/documentation/docs/Tool guides/nlu-eb1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-nlu-909-33c"
+  },
+  "/documentation/docs/Tool guides/pos-tagger-3f1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-pos-tagger-264-9dd"
+  },
+  "/documentation/docs/Tool guides/sentiment-analysis-4bf": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-sentiment-analysis-5-c-1-d6a"
+  },
+  "/documentation/docs/Tool guides/tokenizer-21a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tool-guides-tokenizer-457-24c"
+  },
+  "/documentation/docs/Tutorials/API/detail/dependency-parser-b31": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-detail-dependency-parsera-25-8d6"
+  },
+  "/documentation/docs/Tutorials/API/detail/intent-detection-d96": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-detail-intent-detectionda-6-85f"
+  },
+  "/documentation/docs/Tutorials/API/detail/lemmatizer-817": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-detail-lemmatizer-52-c-913"
+  },
+  "/documentation/docs/Tutorials/API/detail/pos-tagger-de5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-detail-pos-tagger-3-a-9-76a"
+  },
+  "/documentation/docs/Tutorials/API/document/emotion-analysis-3f5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-document-emotion-analysis-599-efb"
+  },
+  "/documentation/docs/Tutorials/API/document/language-recognition-3cb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-document-language-recognition-16-a-28f"
+  },
+  "/documentation/docs/Tutorials/API/document/sentiment-analysis-e3c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-document-sentiment-analysise-03-9b1"
+  },
+  "/documentation/docs/Tutorials/API/document/synthesis-31a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-document-synthesisf-5-b-e55"
+  },
+  "/documentation/docs/Tutorials/API/document/tokenizer-c8f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-document-tokenizere-01-a49"
+  },
+  "/documentation/docs/Tutorials/API/sentence/ml-emotion-c9e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-sentence-ml-emotion-555-947"
+  },
+  "/documentation/docs/Tutorials/API/sentence/ml-sentiment-5bd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-sentence-ml-sentimentdd-5-d53"
+  },
+  "/documentation/docs/Tutorials/API/sentence/ner-3e9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-sentence-ner-291-074"
+  },
+  "/documentation/docs/Tutorials/API/sentence/sentence-type-228": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-api-sentence-sentence-typea-12-759"
+  },
+  "/documentation/docs/Tutorials/Python SDK/common-properties-08d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-common-properties-1-d-7-d68"
+  },
+  "/documentation/docs/Tutorials/Python SDK/document-class-tutorial-683": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-document-class-tutorial-16-c-73c"
+  },
+  "/documentation/docs/Tutorials/Python SDK/Patterns/dependency-pattern-25b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-patterns-dependency-pattern-38-b-db4"
+  },
+  "/documentation/docs/Tutorials/Python SDK/Patterns/token-pattern-3ce": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-patterns-token-pattern-3-c-0-c86"
+  },
+  "/documentation/docs/Tutorials/Python SDK/sentence-class-tutorial-6d5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-sentence-class-tutorial-320-f27"
+  },
+  "/documentation/docs/Tutorials/Python SDK/subsentence-class-tutorial-5c1": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-subsentence-class-tutoriale-87-501"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-emotion-f9d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-filter-emotion-38-b-1d1"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-polarity-847": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-filter-polarity-9-f-4-efe"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-type-ae5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-filter-type-404-b1f"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/get-emotion-9ca": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-get-emotion-432-c14"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/get-sentiment-CS-9f4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-get-sentiment-c-sf-1-a-4b8"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/list-entities-172": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-list-entities-2-d-6-6f9"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern-311": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-match-pattern-98-b-9e0"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-emotion-de2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-meaning-emotion-021-a36"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-sentiment-96f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-meaning-sentiment-8-da-808"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/vocabulary-289": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-vocabularybc-3-87d"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/word-count-181": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-word-countb-60-8dc"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/word-emotion-a1f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-word-emotion-8-ea-ad2"
+  },
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/word-frequency-741": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-word-frequency-4-d-7-dc9"
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-word-frequency-51-d-afd"
   },
-  "/docs/Tutorials/Python SDK/word-sentiment-8d7": {
+  "/documentation/docs/Tutorials/Python SDK/TextChunk/word-sentiment-482": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorials-python-sdk-word-sentiment-3-c-4-6b7"
+    "content": "content---documentation-docs-tutorials-python-sdk-text-chunk-word-sentimenta-01-a37"
   },
-  "/-deb": {
+  "/documentation/-d97": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "config": "config---documentation-5-e-9-cf4"
   }
 }

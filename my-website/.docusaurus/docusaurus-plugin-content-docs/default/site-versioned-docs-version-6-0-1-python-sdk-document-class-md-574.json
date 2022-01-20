@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/document-class",
+  "id": "version-6.0.1/python-sdk/document-class",
+  "isDocsHomePage": false,
+  "title": "Document Class",
+  "description": "Document inherits from TextChunk.",
+  "source": "@site/versioned_docs/version-6.0.1/python-sdk/document-class.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/document-class",
+  "permalink": "/documentation/docs/python-sdk/document-class",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "TextChunk",
+    "permalink": "/documentation/docs/python-sdk/texctchunk"
+  },
+  "next": {
+    "title": "Sentence Class",
+    "permalink": "/documentation/docs/python-sdk/sentence-class"
+  }
+}

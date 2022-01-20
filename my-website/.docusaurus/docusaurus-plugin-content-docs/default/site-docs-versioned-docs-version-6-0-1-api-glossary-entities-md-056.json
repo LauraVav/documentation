@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/Glossary/entities",
+  "id": "versioned_docs/version-6.0.1/API/Glossary/entities",
+  "isDocsHomePage": false,
+  "title": "Entities",
+  "description": "Entity types",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/Glossary/entities.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/versioned_docs/version-6.0.1/API/Glossary/entities",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/entities",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/pos-tagger"
+  },
+  "next": {
+    "title": "NLC",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/nlc"
+  }
+}

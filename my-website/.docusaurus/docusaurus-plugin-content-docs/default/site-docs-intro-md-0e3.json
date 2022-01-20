@@ -7,7 +7,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/documentation/docs/next/intro",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Python SDK",
-    "permalink": "/docs/python-sdk/python-sdk"
+    "permalink": "/documentation/docs/next/python-sdk/python-sdk"
   }
 }

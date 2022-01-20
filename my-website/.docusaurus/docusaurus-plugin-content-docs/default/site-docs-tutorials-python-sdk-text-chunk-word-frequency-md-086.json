@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/word-frequency",
+  "id": "Tutorials/Python SDK/TextChunk/word-frequency",
+  "isDocsHomePage": false,
+  "title": "Word Frequency",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/TextChunk/word-frequency.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/word-frequency",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-frequency",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Count",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-count"
+  },
+  "next": {
+    "title": "List Entities",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/list-entities"
+  }
+}

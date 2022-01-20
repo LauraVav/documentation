@@ -4,485 +4,863 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    path: '/documentation/__docusaurus/debug',
+    component: ComponentCreator('/documentation/__docusaurus/debug','9a6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    path: '/documentation/__docusaurus/debug/config',
+    component: ComponentCreator('/documentation/__docusaurus/debug/config','9b2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    path: '/documentation/__docusaurus/debug/content',
+    component: ComponentCreator('/documentation/__docusaurus/debug/content','9eb'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    path: '/documentation/__docusaurus/debug/globalData',
+    component: ComponentCreator('/documentation/__docusaurus/debug/globalData','4d6'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    path: '/documentation/__docusaurus/debug/metadata',
+    component: ComponentCreator('/documentation/__docusaurus/debug/metadata','c5d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    path: '/documentation/__docusaurus/debug/registry',
+    component: ComponentCreator('/documentation/__docusaurus/debug/registry','32c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    path: '/documentation/__docusaurus/debug/routes',
+    component: ComponentCreator('/documentation/__docusaurus/debug/routes','e38'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive','f4c'),
+    path: '/documentation/blog/archive',
+    component: ComponentCreator('/documentation/blog/archive','4d8'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
+    path: '/documentation/markdown-page',
+    component: ComponentCreator('/documentation/markdown-page','d54'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs','dec'),
+    path: '/documentation/docs/1.0',
+    component: ComponentCreator('/documentation/docs/1.0','d45'),
     routes: [
       {
-        path: '/docs/API/coreference',
-        component: ComponentCreator('/docs/API/coreference','b80'),
+        path: '/documentation/docs/1.0/API/api',
+        component: ComponentCreator('/documentation/docs/1.0/API/api','b32'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/disturbance',
-        component: ComponentCreator('/docs/API/disturbance','d00'),
+        path: '/documentation/docs/1.0/API/coreference',
+        component: ComponentCreator('/documentation/docs/1.0/API/coreference','dcb'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/emoticons',
-        component: ComponentCreator('/docs/API/emoticons','023'),
+        path: '/documentation/docs/1.0/API/disturbance',
+        component: ComponentCreator('/documentation/docs/1.0/API/disturbance','a79'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/emotions',
-        component: ComponentCreator('/docs/API/emotions','3ca'),
+        path: '/documentation/docs/1.0/API/emoticons',
+        component: ComponentCreator('/documentation/docs/1.0/API/emoticons','907'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/entities-numeral',
-        component: ComponentCreator('/docs/API/entities-numeral','e9b'),
+        path: '/documentation/docs/1.0/API/emotions',
+        component: ComponentCreator('/documentation/docs/1.0/API/emotions','ca9'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/categories',
-        component: ComponentCreator('/docs/API/Glossary/categories','232'),
+        path: '/documentation/docs/1.0/API/entities-numeral',
+        component: ComponentCreator('/documentation/docs/1.0/API/entities-numeral','b1c'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/conjugations',
-        component: ComponentCreator('/docs/API/Glossary/conjugations','1ba'),
+        path: '/documentation/docs/1.0/API/Glossary/categories',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/categories','2e4'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/dependency-tags',
-        component: ComponentCreator('/docs/API/Glossary/dependency-tags','c4b'),
+        path: '/documentation/docs/1.0/API/Glossary/conjugations',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/conjugations','5ed'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/entities',
-        component: ComponentCreator('/docs/API/Glossary/entities','38a'),
+        path: '/documentation/docs/1.0/API/Glossary/dependency-tags',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/dependency-tags','0d2'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/possessive-determiners',
-        component: ComponentCreator('/docs/API/Glossary/possessive-determiners','370'),
+        path: '/documentation/docs/1.0/API/Glossary/entities',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/entities','d3b'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/pronouns',
-        component: ComponentCreator('/docs/API/Glossary/pronouns','61b'),
+        path: '/documentation/docs/1.0/API/Glossary/possessive-determiners',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/possessive-determiners','e61'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/Glossary/tags',
-        component: ComponentCreator('/docs/API/Glossary/tags','861'),
+        path: '/documentation/docs/1.0/API/Glossary/pronouns',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/pronouns','8c7'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/language-used',
-        component: ComponentCreator('/docs/API/language-used','449'),
+        path: '/documentation/docs/1.0/API/Glossary/tags',
+        component: ComponentCreator('/documentation/docs/1.0/API/Glossary/tags','3e0'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/lemmitizer',
-        component: ComponentCreator('/docs/API/lemmitizer','793'),
+        path: '/documentation/docs/1.0/API/language-used',
+        component: ComponentCreator('/documentation/docs/1.0/API/language-used','a2f'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/lettria-sentence-object',
-        component: ComponentCreator('/docs/API/lettria-sentence-object','126'),
+        path: '/documentation/docs/1.0/API/lemmitizer',
+        component: ComponentCreator('/documentation/docs/1.0/API/lemmitizer','4fe'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/ml-emotion',
-        component: ComponentCreator('/docs/API/ml-emotion','68c'),
+        path: '/documentation/docs/1.0/API/lettria-sentence-object',
+        component: ComponentCreator('/documentation/docs/1.0/API/lettria-sentence-object','3d6'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/ml-sentiment',
-        component: ComponentCreator('/docs/API/ml-sentiment','caa'),
+        path: '/documentation/docs/1.0/API/ml-emotion',
+        component: ComponentCreator('/documentation/docs/1.0/API/ml-emotion','229'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/nlc-new',
-        component: ComponentCreator('/docs/API/nlc-new','ab5'),
+        path: '/documentation/docs/1.0/API/ml-sentiment',
+        component: ComponentCreator('/documentation/docs/1.0/API/ml-sentiment','680'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/parser-dependency',
-        component: ComponentCreator('/docs/API/parser-dependency','e62'),
+        path: '/documentation/docs/1.0/API/ner',
+        component: ComponentCreator('/documentation/docs/1.0/API/ner','9b7'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/pos-tagger',
-        component: ComponentCreator('/docs/API/pos-tagger','69c'),
+        path: '/documentation/docs/1.0/API/nlp',
+        component: ComponentCreator('/documentation/docs/1.0/API/nlp','626'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/proposition',
-        component: ComponentCreator('/docs/API/proposition','74b'),
+        path: '/documentation/docs/1.0/API/nlu',
+        component: ComponentCreator('/documentation/docs/1.0/API/nlu','690'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/sentence-type',
-        component: ComponentCreator('/docs/API/sentence-type','d47'),
+        path: '/documentation/docs/1.0/API/parser-dependency',
+        component: ComponentCreator('/documentation/docs/1.0/API/parser-dependency','038'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/sentiment',
-        component: ComponentCreator('/docs/API/sentiment','c45'),
+        path: '/documentation/docs/1.0/API/pos-tagger',
+        component: ComponentCreator('/documentation/docs/1.0/API/pos-tagger','baf'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/API/synthesis',
-        component: ComponentCreator('/docs/API/synthesis','6c3'),
+        path: '/documentation/docs/1.0/API/proposition',
+        component: ComponentCreator('/documentation/docs/1.0/API/proposition','237'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/help/faq',
-        component: ComponentCreator('/docs/help/faq','701'),
+        path: '/documentation/docs/1.0/API/sentence-type',
+        component: ComponentCreator('/documentation/docs/1.0/API/sentence-type','4fc'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        path: '/documentation/docs/1.0/API/sentiment',
+        component: ComponentCreator('/documentation/docs/1.0/API/sentiment','c2a'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/client-class',
-        component: ComponentCreator('/docs/python-sdk/client-class','d61'),
+        path: '/documentation/docs/1.0/API/synthesis',
+        component: ComponentCreator('/documentation/docs/1.0/API/synthesis','2b9'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/common-properties',
-        component: ComponentCreator('/docs/python-sdk/common-properties','1f2'),
+        path: '/documentation/docs/1.0/help/faq',
+        component: ComponentCreator('/documentation/docs/1.0/help/faq','d8b'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/document-class',
-        component: ComponentCreator('/docs/python-sdk/document-class','d2e'),
+        path: '/documentation/docs/1.0/intro',
+        component: ComponentCreator('/documentation/docs/1.0/intro','e01'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/nlp-class',
-        component: ComponentCreator('/docs/python-sdk/nlp-class','c1c'),
+        path: '/documentation/docs/1.0/python-sdk/client-class',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/client-class','d22'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/patterns',
-        component: ComponentCreator('/docs/python-sdk/patterns','e48'),
+        path: '/documentation/docs/1.0/python-sdk/common-properties',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/common-properties','c1d'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/python-sdk',
-        component: ComponentCreator('/docs/python-sdk/python-sdk','ca1'),
+        path: '/documentation/docs/1.0/python-sdk/document-class',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/document-class','d9d'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/sentence-class',
-        component: ComponentCreator('/docs/python-sdk/sentence-class','44d'),
+        path: '/documentation/docs/1.0/python-sdk/nlp-class',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/nlp-class','7b6'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/subsentence-class',
-        component: ComponentCreator('/docs/python-sdk/subsentence-class','cc8'),
+        path: '/documentation/docs/1.0/python-sdk/patterns',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/patterns','894'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/texctchunk',
-        component: ComponentCreator('/docs/python-sdk/texctchunk','634'),
+        path: '/documentation/docs/1.0/python-sdk/python-sdk',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/python-sdk','30c'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/python-sdk/token-class',
-        component: ComponentCreator('/docs/python-sdk/token-class','aa2'),
+        path: '/documentation/docs/1.0/python-sdk/sentence-class',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/sentence-class','c9e'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/coreference',
-        component: ComponentCreator('/docs/Tool guides/coreference','98a'),
+        path: '/documentation/docs/1.0/python-sdk/subsentence-class',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/subsentence-class','f8a'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/dependency-parser',
-        component: ComponentCreator('/docs/Tool guides/dependency-parser','4a6'),
+        path: '/documentation/docs/1.0/python-sdk/texctchunk',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/texctchunk','e50'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/lemmatizer',
-        component: ComponentCreator('/docs/Tool guides/lemmatizer','f11'),
+        path: '/documentation/docs/1.0/python-sdk/token-class',
+        component: ComponentCreator('/documentation/docs/1.0/python-sdk/token-class','5de'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/ner',
-        component: ComponentCreator('/docs/Tool guides/ner','ac6'),
+        path: '/documentation/docs/1.0/Tool guides/coreference',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/coreference','72e'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/nlu',
-        component: ComponentCreator('/docs/Tool guides/nlu','b78'),
+        path: '/documentation/docs/1.0/Tool guides/dependency-parser',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/dependency-parser','b54'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/pos-tagger',
-        component: ComponentCreator('/docs/Tool guides/pos-tagger','f3b'),
+        path: '/documentation/docs/1.0/Tool guides/lemmatizer',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/lemmatizer','8ed'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/sentiment-analysis',
-        component: ComponentCreator('/docs/Tool guides/sentiment-analysis','21c'),
+        path: '/documentation/docs/1.0/Tool guides/ner',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/ner','dd9'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tool guides/tokenizer',
-        component: ComponentCreator('/docs/Tool guides/tokenizer','1d0'),
+        path: '/documentation/docs/1.0/Tool guides/nlu',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/nlu','10d'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/dependency-parser',
-        component: ComponentCreator('/docs/Tutorials/API/dependency-parser','3fe'),
+        path: '/documentation/docs/1.0/Tool guides/pos-tagger',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/pos-tagger','dc5'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/emotion-analysis',
-        component: ComponentCreator('/docs/Tutorials/API/emotion-analysis','0f7'),
+        path: '/documentation/docs/1.0/Tool guides/sentiment-analysis',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/sentiment-analysis','5c3'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/intent-detection',
-        component: ComponentCreator('/docs/Tutorials/API/intent-detection','ff6'),
+        path: '/documentation/docs/1.0/Tool guides/tokenizer',
+        component: ComponentCreator('/documentation/docs/1.0/Tool guides/tokenizer','10d'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/language-recognition',
-        component: ComponentCreator('/docs/Tutorials/API/language-recognition','fca'),
+        path: '/documentation/docs/1.0/Tutorials/API/dependency-parser',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/dependency-parser','16e'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/lemmatizer',
-        component: ComponentCreator('/docs/Tutorials/API/lemmatizer','50d'),
+        path: '/documentation/docs/1.0/Tutorials/API/emotion-analysis',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/emotion-analysis','0cb'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/ner',
-        component: ComponentCreator('/docs/Tutorials/API/ner','75a'),
+        path: '/documentation/docs/1.0/Tutorials/API/intent-detection',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/intent-detection','ce8'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/pos-tagger',
-        component: ComponentCreator('/docs/Tutorials/API/pos-tagger','4e5'),
+        path: '/documentation/docs/1.0/Tutorials/API/language-recognition',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/language-recognition','90b'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/sentence-type',
-        component: ComponentCreator('/docs/Tutorials/API/sentence-type','181'),
+        path: '/documentation/docs/1.0/Tutorials/API/lemmatizer',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/lemmatizer','8e8'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/sentiment-analysis',
-        component: ComponentCreator('/docs/Tutorials/API/sentiment-analysis','6d3'),
+        path: '/documentation/docs/1.0/Tutorials/API/ner',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/ner','01b'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/API/tokenizer',
-        component: ComponentCreator('/docs/Tutorials/API/tokenizer','a07'),
+        path: '/documentation/docs/1.0/Tutorials/API/pos-tagger',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/pos-tagger','0eb'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/common-properties-CS',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/common-properties-CS','72b'),
+        path: '/documentation/docs/1.0/Tutorials/API/sentence-type',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/sentence-type','358'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/document-class',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/document-class','35b'),
+        path: '/documentation/docs/1.0/Tutorials/API/sentiment-analysis',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/sentiment-analysis','9c9'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/filter-emotion',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/filter-emotion','e7b'),
+        path: '/documentation/docs/1.0/Tutorials/API/tokenizer',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/API/tokenizer','c6e'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/filter-polarity',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/filter-polarity','636'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/filter-emotion',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/filter-emotion','77a'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/filter-type',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/filter-type','537'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/filter-polarity',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/filter-polarity','a88'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/get-emotion',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/get-emotion','210'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/get-emotion',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/get-emotion','a31'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/get-sentiment-CS',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/get-sentiment-CS','76f'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/get-sentiment-CS',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/get-sentiment-CS','c19'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/list-entities',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/list-entities','515'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/list-entities',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/list-entities','14d'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/meaning-emotion',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/meaning-emotion','ecf'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/meaning-emotion',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/meaning-emotion','598'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/meaning-sentiment',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/meaning-sentiment','b02'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/meaning-sentiment',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/meaning-sentiment','f33'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/sentence-class',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/sentence-class','ae0'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/vocabulary',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/vocabulary','dfd'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/subsentence-class',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/subsentence-class','c23'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/word-count',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/word-count','045'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/vocabulary',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/vocabulary','afd'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/word-emotion',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/word-emotion','c03'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/word-count',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/word-count','0f3'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/word-frequency',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/word-frequency','3db'),
         exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       },
       {
-        path: '/docs/Tutorials/Python SDK/word-emotion',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/word-emotion','e0e'),
+        path: '/documentation/docs/1.0/Tutorials/Python SDK/word-sentiment',
+        component: ComponentCreator('/documentation/docs/1.0/Tutorials/Python SDK/word-sentiment','d36'),
         exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/Tutorials/Python SDK/word-frequency',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/word-frequency','bab'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/Tutorials/Python SDK/word-sentiment',
-        component: ComponentCreator('/docs/Tutorials/Python SDK/word-sentiment','8d7'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
+        'sidebar': "version-1.0/tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/','deb'),
+    path: '/documentation/docs',
+    component: ComponentCreator('/documentation/docs','557'),
+    routes: [
+      {
+        path: '/documentation/docs/API/api',
+        component: ComponentCreator('/documentation/docs/API/api','738'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/detail',
+        component: ComponentCreator('/documentation/docs/API/detail','46d'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/document',
+        component: ComponentCreator('/documentation/docs/API/document','74a'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/categories',
+        component: ComponentCreator('/documentation/docs/API/Glossary/categories','688'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/conjugations',
+        component: ComponentCreator('/documentation/docs/API/Glossary/conjugations','3f3'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/dependency-tags',
+        component: ComponentCreator('/documentation/docs/API/Glossary/dependency-tags','fe8'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/entities',
+        component: ComponentCreator('/documentation/docs/API/Glossary/entities','1a8'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/possessive-determiners',
+        component: ComponentCreator('/documentation/docs/API/Glossary/possessive-determiners','b7a'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/pronouns',
+        component: ComponentCreator('/documentation/docs/API/Glossary/pronouns','1ed'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/Glossary/tags',
+        component: ComponentCreator('/documentation/docs/API/Glossary/tags','0ce'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/API/sentence',
+        component: ComponentCreator('/documentation/docs/API/sentence','f1d'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/help/faq',
+        component: ComponentCreator('/documentation/docs/help/faq','bd7'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/intro',
+        component: ComponentCreator('/documentation/docs/intro','6a1'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/client-class',
+        component: ComponentCreator('/documentation/docs/python-sdk/client-class','857'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/common-properties',
+        component: ComponentCreator('/documentation/docs/python-sdk/common-properties','2fd'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/document-class',
+        component: ComponentCreator('/documentation/docs/python-sdk/document-class','bb0'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/nlp-class',
+        component: ComponentCreator('/documentation/docs/python-sdk/nlp-class','98d'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/patterns',
+        component: ComponentCreator('/documentation/docs/python-sdk/patterns','8e6'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/python-sdk',
+        component: ComponentCreator('/documentation/docs/python-sdk/python-sdk','ae2'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/sentence-class',
+        component: ComponentCreator('/documentation/docs/python-sdk/sentence-class','937'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/subsentence-class',
+        component: ComponentCreator('/documentation/docs/python-sdk/subsentence-class','ded'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/texctchunk',
+        component: ComponentCreator('/documentation/docs/python-sdk/texctchunk','92f'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/python-sdk/token-class',
+        component: ComponentCreator('/documentation/docs/python-sdk/token-class','208'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/coreference',
+        component: ComponentCreator('/documentation/docs/Tool guides/coreference','0f9'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/dependency-parser',
+        component: ComponentCreator('/documentation/docs/Tool guides/dependency-parser','aa1'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/lemmatizer',
+        component: ComponentCreator('/documentation/docs/Tool guides/lemmatizer','9bf'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/ner',
+        component: ComponentCreator('/documentation/docs/Tool guides/ner','a4a'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/nlu',
+        component: ComponentCreator('/documentation/docs/Tool guides/nlu','eb1'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/pos-tagger',
+        component: ComponentCreator('/documentation/docs/Tool guides/pos-tagger','3f1'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/sentiment-analysis',
+        component: ComponentCreator('/documentation/docs/Tool guides/sentiment-analysis','4bf'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tool guides/tokenizer',
+        component: ComponentCreator('/documentation/docs/Tool guides/tokenizer','21a'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/detail/dependency-parser',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/detail/dependency-parser','b31'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/detail/intent-detection',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/detail/intent-detection','d96'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/detail/lemmatizer',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/detail/lemmatizer','817'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/detail/pos-tagger',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/detail/pos-tagger','de5'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/document/emotion-analysis',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/document/emotion-analysis','3f5'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/document/language-recognition',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/document/language-recognition','3cb'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/document/sentiment-analysis',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/document/sentiment-analysis','e3c'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/document/synthesis',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/document/synthesis','31a'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/document/tokenizer',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/document/tokenizer','c8f'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/sentence/ml-emotion',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/sentence/ml-emotion','c9e'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/sentence/ml-sentiment',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/sentence/ml-sentiment','5bd'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/sentence/ner',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/sentence/ner','3e9'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/API/sentence/sentence-type',
+        component: ComponentCreator('/documentation/docs/Tutorials/API/sentence/sentence-type','228'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/common-properties',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/common-properties','08d'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/document-class-tutorial',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/document-class-tutorial','683'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/Patterns/dependency-pattern',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/Patterns/dependency-pattern','25b'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/Patterns/token-pattern',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/Patterns/token-pattern','3ce'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/sentence-class-tutorial',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/sentence-class-tutorial','6d5'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/subsentence-class-tutorial',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/subsentence-class-tutorial','5c1'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/filter-emotion',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/filter-emotion','f9d'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/filter-polarity',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/filter-polarity','847'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/filter-type',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/filter-type','ae5'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/get-emotion',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/get-emotion','9ca'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/get-sentiment-CS',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/get-sentiment-CS','9f4'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/list-entities',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/list-entities','172'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern','311'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-emotion',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-emotion','de2'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-sentiment',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-sentiment','96f'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/vocabulary',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/vocabulary','289'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/word-count',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/word-count','181'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/word-emotion',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/word-emotion','a1f'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/word-frequency',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/word-frequency','741'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/Tutorials/Python SDK/TextChunk/word-sentiment',
+        component: ComponentCreator('/documentation/docs/Tutorials/Python SDK/TextChunk/word-sentiment','482'),
+        exact: true,
+        'sidebar': "version-2.0/tutorialSidebar"
+      }
+    ]
+  },
+  {
+    path: '/documentation/',
+    component: ComponentCreator('/documentation/','d97'),
     exact: true
   },
   {

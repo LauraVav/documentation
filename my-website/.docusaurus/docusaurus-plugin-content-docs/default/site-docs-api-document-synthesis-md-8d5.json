@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/synthesis",
+  "id": "API/document/synthesis",
+  "isDocsHomePage": false,
+  "title": "Synthesis",
+  "description": "Compiles all the most relevant information for each token.",
+  "source": "@site/docs/API/document/synthesis.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/synthesis",
+  "permalink": "/documentation/docs/next/API/document/synthesis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentence",
+    "permalink": "/documentation/docs/next/API/document/sentence"
+  },
+  "next": {
+    "title": "Sentence",
+    "permalink": "/documentation/docs/next/API/sentence/sentence"
+  }
+}

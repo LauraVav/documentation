@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/word-count.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/word-count",
-  "permalink": "/docs/Tutorials/Python SDK/word-count",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/word-count",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Vocabulary",
-    "permalink": "/docs/Tutorials/Python SDK/vocabulary"
+    "title": "NER",
+    "permalink": "/documentation/docs/next/Tutorials/API/ner"
   },
   "next": {
-    "title": "Word Frequency",
-    "permalink": "/docs/Tutorials/Python SDK/word-frequency"
+    "title": "Vocabulary",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary"
   }
 }

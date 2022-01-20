@@ -7,7 +7,7 @@
   "source": "@site/docs/API/synthesis.md",
   "sourceDirName": "API",
   "slug": "/API/synthesis",
-  "permalink": "/docs/API/synthesis",
+  "permalink": "/documentation/docs/next/API/synthesis",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Lettria Sentence Object",
-    "permalink": "/docs/API/lettria-sentence-object"
+    "title": "API",
+    "permalink": "/documentation/docs/next/API/api"
   },
   "next": {
-    "title": "NLC",
-    "permalink": "/docs/API/nlc-new"
+    "title": "Document",
+    "permalink": "/documentation/docs/next/API/document/document"
   }
 }

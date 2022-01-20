@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence-type",
+  "id": "version-1.0/API/sentence-type",
+  "isDocsHomePage": false,
+  "title": "Sentence Acts",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/sentence-type.md",
+  "sourceDirName": "API",
+  "slug": "/API/sentence-type",
+  "permalink": "/documentation/docs/1.0/API/sentence-type",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/1.0/API/coreference"
+  },
+  "next": {
+    "title": "Emotions",
+    "permalink": "/documentation/docs/1.0/API/emotions"
+  }
+}

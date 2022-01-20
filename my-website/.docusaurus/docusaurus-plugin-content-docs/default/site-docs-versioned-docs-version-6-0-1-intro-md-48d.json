@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/intro",
+  "id": "versioned_docs/version-6.0.1/intro",
+  "isDocsHomePage": false,
+  "title": "Getting started",
+  "description": "This page will help you get started with the  Lettria doc center. You'll be up and running in no time ⏱",
+  "source": "@site/docs/versioned_docs/version-6.0.1/intro.md",
+  "sourceDirName": "versioned_docs/version-6.0.1",
+  "slug": "/versioned_docs/version-6.0.1/intro",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/intro",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/documentation/docs/next/help/faq"
+  },
+  "next": {
+    "title": "Python SDK",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/python-sdk/python-sdk"
+  }
+}

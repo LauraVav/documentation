@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/filter-type.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/filter-type",
-  "permalink": "/docs/Tutorials/Python SDK/filter-type",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/filter-type",
   "tags": [],
   "version": "current",
   "sidebarPosition": 13,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Filter Polarity",
-    "permalink": "/docs/Tutorials/Python SDK/filter-polarity"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/filter-polarity"
   },
   "next": {
     "title": "Document Class",
-    "permalink": "/docs/Tutorials/Python SDK/document-class"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/document-class-tutorial"
   }
 }

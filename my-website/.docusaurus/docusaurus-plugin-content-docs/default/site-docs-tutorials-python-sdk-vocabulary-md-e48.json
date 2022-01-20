@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/vocabulary.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/vocabulary",
-  "permalink": "/docs/Tutorials/Python SDK/vocabulary",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/vocabulary",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "NER",
-    "permalink": "/docs/Tutorials/API/ner"
+    "permalink": "/documentation/docs/next/Tutorials/API/ner"
   },
   "next": {
     "title": "Word Count",
-    "permalink": "/docs/Tutorials/Python SDK/word-count"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/word-count"
   }
 }

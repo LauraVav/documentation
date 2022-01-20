@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/lettria-sentence-object",
+  "id": "version-1.0/API/lettria-sentence-object",
+  "isDocsHomePage": false,
+  "title": "Lettria Sentence Object",
+  "description": "In this object, each key corresponds to the returned object from a sub-API.",
+  "source": "@site/versioned_docs/version-1.0/API/lettria-sentence-object.md",
+  "sourceDirName": "API",
+  "slug": "/API/lettria-sentence-object",
+  "permalink": "/documentation/docs/1.0/API/lettria-sentence-object",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/documentation/docs/1.0/API/api"
+  },
+  "next": {
+    "title": "Synthesis",
+    "permalink": "/documentation/docs/1.0/API/synthesis"
+  }
+}

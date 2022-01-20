@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/nlu",
+  "id": "version-2.0/Tool guides/nlu",
+  "isDocsHomePage": false,
+  "title": "NLU",
+  "description": "What is Natural Language Understanding ?",
+  "source": "@site/versioned_docs/version-2.0/Tool guides/nlu.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/nlu",
+  "permalink": "/documentation/docs/Tool guides/nlu",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/Tool guides/coreference"
+  },
+  "next": {
+    "title": "Language Recognition",
+    "permalink": "/documentation/docs/Tutorials/API/document/language-recognition"
+  }
+}

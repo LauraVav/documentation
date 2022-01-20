@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/details/parser-dependency",
+  "id": "API/details/parser-dependency",
+  "isDocsHomePage": false,
+  "title": "Parser Dependency",
+  "description": "Dependency Object",
+  "source": "@site/docs/API/details/parser-dependency.md",
+  "sourceDirName": "API/details",
+  "slug": "/API/details/parser-dependency",
+  "permalink": "/documentation/docs/next/API/details/parser-dependency",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/next/API/details/pos-tagger"
+  },
+  "next": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/next/API/details/lemmitizer"
+  }
+}

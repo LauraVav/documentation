@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/language-used",
+  "id": "API/Glossary/language-used",
+  "isDocsHomePage": false,
+  "title": "Language Used",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/docs/API/Glossary/language-used.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/language-used",
+  "permalink": "/documentation/docs/next/API/Glossary/language-used",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Possessive Determiners",
+    "permalink": "/documentation/docs/next/API/Glossary/possessive-determiners"
+  },
+  "next": {
+    "title": "Pronouns",
+    "permalink": "/documentation/docs/next/API/Glossary/pronouns"
+  }
+}

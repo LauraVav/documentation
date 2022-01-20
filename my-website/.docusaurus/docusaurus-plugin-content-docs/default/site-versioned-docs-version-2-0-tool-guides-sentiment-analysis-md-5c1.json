@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/sentiment-analysis",
+  "id": "version-2.0/Tool guides/sentiment-analysis",
+  "isDocsHomePage": false,
+  "title": "Sentiment Analysis",
+  "description": "What is sentiment analysis?",
+  "source": "@site/versioned_docs/version-2.0/Tool guides/sentiment-analysis.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/sentiment-analysis",
+  "permalink": "/documentation/docs/Tool guides/sentiment-analysis",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/Tool guides/lemmatizer"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/documentation/docs/Tool guides/ner"
+  }
+}

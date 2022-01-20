@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/list-entities",
+  "id": "version-2.0/Tutorials/Python SDK/TextChunk/list-entities",
+  "isDocsHomePage": false,
+  "title": "List Entities",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/TextChunk/list-entities.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/list-entities",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/list-entities",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Word Frequency",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/word-frequency"
+  },
+  "next": {
+    "title": "Get Emotion",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/get-emotion"
+  }
+}

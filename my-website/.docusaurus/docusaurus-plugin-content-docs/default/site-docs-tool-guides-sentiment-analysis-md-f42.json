@@ -7,20 +7,20 @@
   "source": "@site/docs/Tool guides/sentiment-analysis.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/sentiment-analysis",
-  "permalink": "/docs/Tool guides/sentiment-analysis",
+  "permalink": "/documentation/docs/next/Tool guides/sentiment-analysis",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 7
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "NER",
-    "permalink": "/docs/Tool guides/ner"
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/next/Tool guides/lemmatizer"
   },
   "next": {
-    "title": "Coreference",
-    "permalink": "/docs/Tool guides/coreference"
+    "title": "NER",
+    "permalink": "/documentation/docs/next/Tool guides/ner"
   }
 }

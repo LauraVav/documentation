@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/API/Glossary/synthesis",
+  "id": "Changelog/versioned_docs/version-6.0.1/API/Glossary/synthesis",
+  "isDocsHomePage": false,
+  "title": "Synthesis",
+  "description": "Compiles all the most relevant information for each token.",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/API/Glossary/synthesis.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/API/Glossary/synthesis",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/synthesis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependency Tags",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/dependency-tags"
+  },
+  "next": {
+    "title": "Possessive Determiners",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/possessive-determiners"
+  }
+}

@@ -7,20 +7,20 @@
   "source": "@site/docs/Tool guides/dependency-parser.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/dependency-parser",
-  "permalink": "/docs/Tool guides/dependency-parser",
+  "permalink": "/documentation/docs/next/Tool guides/dependency-parser",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 7,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Lemmatizer",
-    "permalink": "/docs/Tool guides/lemmatizer"
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/next/Tool guides/pos-tagger"
   },
   "next": {
-    "title": "NLU",
-    "permalink": "/docs/Tool guides/nlu"
+    "title": "Coreference",
+    "permalink": "/documentation/docs/next/Tool guides/coreference"
   }
 }

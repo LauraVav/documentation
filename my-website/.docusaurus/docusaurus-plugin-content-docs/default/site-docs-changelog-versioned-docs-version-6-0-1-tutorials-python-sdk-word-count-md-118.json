@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-count",
+  "id": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-count",
+  "isDocsHomePage": false,
+  "title": "Word Count",
+  "description": "Video",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-count.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-count",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-count",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vocabulary",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/vocabulary"
+  },
+  "next": {
+    "title": "Word Frequency",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-frequency"
+  }
+}

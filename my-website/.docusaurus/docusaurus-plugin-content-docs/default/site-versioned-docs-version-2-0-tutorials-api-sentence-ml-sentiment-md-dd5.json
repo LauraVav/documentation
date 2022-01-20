@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/sentence/ml-sentiment",
+  "id": "version-2.0/Tutorials/API/sentence/ml-sentiment",
+  "isDocsHomePage": false,
+  "title": "ML Sentiment",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/API/sentence/ml-sentiment.md",
+  "sourceDirName": "Tutorials/API/sentence",
+  "slug": "/Tutorials/API/sentence/ml-sentiment",
+  "permalink": "/documentation/docs/Tutorials/API/sentence/ml-sentiment",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Sentiment Analysis",
+    "permalink": "/documentation/docs/Tutorials/API/document/sentiment-analysis"
+  },
+  "next": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/Tutorials/API/sentence/ml-emotion"
+  }
+}

@@ -4,9 +4,26 @@
  * work well for content-centric websites.
  */
 
+.navbar__logo > img {
+	width: 83px !important;
+	height: 23px !important;
+	margin-top: 4px;
+}
+
+html[data-theme='dark'] .navbar__logo > img {
+	content: url(/img/dark-logo.png);
+}
+
+footer{
+	padding-top: 80px !important;
+	/* background: #ffffff !important; */
+	border-top: #dadde1 1px solid;
+}
+
+
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #0d1b2b;
+  /* --ifm-color-primary: #0d1b2b; */
   --ifm-color-primary-dark: #13273d;
   --ifm-color-primary-darker: #12243a;
   --ifm-color-primary-darkest: #0f1e30;
@@ -23,25 +40,60 @@
 }
 
 html {
-  font-family: 'Inter', sans-serif;
+  font-family: normal 100%/1.4 "Inter","Helvetica Neue Light","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
 .button {
-  background-color: #FCCB4E;
-  border-radius: 24px;
+	border-color: #FCCB4E;
+	background-color: #FCCB4E;
+	border-radius: 24px;
 }
 
-button {
-  margin: 0 auto;
-  display: block;
-  background-color: #FCCB4E;
-  border-radius: 24px;
-  font-size: larger;
+.home-features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  margin-top: 4rem;
+  /* background: #0B2540; */
+}
+
+.home-features .col{
+	margin-bottom: 1.5rem;
+}
+.home-features p{
+	text-align: left;
+}
+.home-features h3{
+	text-align: left;
+}
+
+
+html[data-theme='light'] .home-feature{
+	background: #243b54;
+}
+
+.home-feature{
+	background: rgba(255,255,255,0.1);
+    box-shadow: 0px 13px 40px rgb(0 0 0 / 12%);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30px 40px;
+    height: 100%;
+}
+
+img[alt=register-sticky] {
+  max-width: 100%;
+  height: auto;
+  position:fixed; bottom: 20px; right: 20px;
+  border-radius: 15px;
 }
 
 
 html[data-theme='dark'] .navbar .navbar__logo {
-  content: url(/Users/lauravavasseur/Desktop/work/code/git/documentation/my-website/static/img/dark-logo.png)
+  content: url(/img/dark-logo.png)
   }
 
   html[data-theme='dark'] {
@@ -49,9 +101,7 @@ html[data-theme='dark'] .navbar .navbar__logo {
     --ifm-color-primary-dark: #fff;
   }
 
-  img[alt=register-sticky] {
-    max-width: 100%;
-    height: auto;
-    position:fixed; bottom: 20px; right: 20px;
-    border-radius: 15px;
- }
+  img {
+    display: block;
+    margin: 0 auto;
+} 

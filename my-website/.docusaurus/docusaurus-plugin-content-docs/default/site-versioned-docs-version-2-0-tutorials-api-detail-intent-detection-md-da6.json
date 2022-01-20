@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/detail/intent-detection",
+  "id": "version-2.0/Tutorials/API/detail/intent-detection",
+  "isDocsHomePage": false,
+  "title": "Intent Detection",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/API/detail/intent-detection.md",
+  "sourceDirName": "Tutorials/API/detail",
+  "slug": "/Tutorials/API/detail/intent-detection",
+  "permalink": "/documentation/docs/Tutorials/API/detail/intent-detection",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/Tutorials/API/detail/lemmatizer"
+  },
+  "next": {
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/Tutorials/API/detail/dependency-parser"
+  }
+}

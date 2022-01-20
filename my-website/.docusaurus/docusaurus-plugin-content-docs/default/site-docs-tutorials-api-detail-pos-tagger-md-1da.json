@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/detail/pos-tagger",
+  "id": "Tutorials/API/detail/pos-tagger",
+  "isDocsHomePage": false,
+  "title": "POS Tagger",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/detail/pos-tagger.md",
+  "sourceDirName": "Tutorials/API/detail",
+  "slug": "/Tutorials/API/detail/pos-tagger",
+  "permalink": "/documentation/docs/next/Tutorials/API/detail/pos-tagger",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/documentation/docs/next/Tutorials/API/sentence/ner"
+  },
+  "next": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/next/Tutorials/API/detail/lemmatizer"
+  }
+}

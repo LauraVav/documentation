@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/document/language-recognition",
+  "id": "Tutorials/API/document/language-recognition",
+  "isDocsHomePage": false,
+  "title": "Language Recognition",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/document/language-recognition.md",
+  "sourceDirName": "Tutorials/API/document",
+  "slug": "/Tutorials/API/document/language-recognition",
+  "permalink": "/documentation/docs/next/Tutorials/API/document/language-recognition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NLU",
+    "permalink": "/documentation/docs/next/Tool guides/nlu"
+  },
+  "next": {
+    "title": "Synthesis",
+    "permalink": "/documentation/docs/next/Tutorials/API/document/synthesis"
+  }
+}

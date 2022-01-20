@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/Glossary/ml-sentiment",
+  "id": "versioned_docs/version-6.0.1/API/Glossary/ml-sentiment",
+  "isDocsHomePage": false,
+  "title": "ML Sentiment",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/Glossary/ml-sentiment.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/versioned_docs/version-6.0.1/API/Glossary/ml-sentiment",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/ml-sentiment",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/ml-emotion"
+  },
+  "next": {
+    "title": "Proposition",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/proposition"
+  }
+}

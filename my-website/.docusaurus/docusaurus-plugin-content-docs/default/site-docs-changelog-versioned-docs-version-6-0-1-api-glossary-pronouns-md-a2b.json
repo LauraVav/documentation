@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/API/Glossary/pronouns",
+  "id": "Changelog/versioned_docs/version-6.0.1/API/Glossary/pronouns",
+  "isDocsHomePage": false,
+  "title": "Pronouns",
+  "description": "| VALUE \t| EXAMPLES    \t|",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/API/Glossary/pronouns.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/API/Glossary/pronouns",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/pronouns",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Used",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/language-used"
+  },
+  "next": {
+    "title": "Conjugations",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/conjugations"
+  }
+}

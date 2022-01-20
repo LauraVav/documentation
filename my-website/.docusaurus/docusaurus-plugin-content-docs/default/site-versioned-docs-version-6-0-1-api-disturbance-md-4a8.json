@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/disturbance",
+  "id": "version-6.0.1/API/disturbance",
+  "isDocsHomePage": false,
+  "title": "Disturbance",
+  "description": "Disturbance Object",
+  "source": "@site/versioned_docs/version-6.0.1/API/disturbance.md",
+  "sourceDirName": "API",
+  "slug": "/API/disturbance",
+  "permalink": "/documentation/docs/API/disturbance",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/API/emoticons"
+  },
+  "next": {
+    "title": "Entities Numeral",
+    "permalink": "/documentation/docs/API/entities-numeral"
+  }
+}

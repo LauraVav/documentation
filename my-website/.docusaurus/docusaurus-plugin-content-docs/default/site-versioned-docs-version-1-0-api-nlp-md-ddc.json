@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/nlp",
+  "id": "version-1.0/API/nlp",
+  "isDocsHomePage": false,
+  "title": "NLP",
+  "description": "NLP Object",
+  "source": "@site/versioned_docs/version-1.0/API/nlp.md",
+  "sourceDirName": "API",
+  "slug": "/API/nlp",
+  "permalink": "/documentation/docs/1.0/API/nlp",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/1.0/API/emoticons"
+  },
+  "next": {
+    "title": "Parser Dependency",
+    "permalink": "/documentation/docs/1.0/API/parser-dependency"
+  }
+}

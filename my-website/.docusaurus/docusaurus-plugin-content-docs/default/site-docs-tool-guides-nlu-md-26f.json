@@ -7,20 +7,20 @@
   "source": "@site/docs/Tool guides/nlu.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/nlu",
-  "permalink": "/docs/Tool guides/nlu",
+  "permalink": "/documentation/docs/next/Tool guides/nlu",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 5
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Dependency Parser",
-    "permalink": "/docs/Tool guides/dependency-parser"
+    "title": "Coreference",
+    "permalink": "/documentation/docs/next/Tool guides/coreference"
   },
   "next": {
-    "title": "NER",
-    "permalink": "/docs/Tool guides/ner"
+    "title": "Language Recognition",
+    "permalink": "/documentation/docs/next/Tutorials/API/document/language-recognition"
   }
 }

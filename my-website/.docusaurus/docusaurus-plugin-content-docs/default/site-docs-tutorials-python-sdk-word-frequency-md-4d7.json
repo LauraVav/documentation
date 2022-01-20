@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/word-frequency.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/word-frequency",
-  "permalink": "/docs/Tutorials/Python SDK/word-frequency",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/word-frequency",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Word Count",
-    "permalink": "/docs/Tutorials/Python SDK/word-count"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-count"
   },
   "next": {
     "title": "List Entities",
-    "permalink": "/docs/Tutorials/Python SDK/list-entities"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/list-entities"
   }
 }

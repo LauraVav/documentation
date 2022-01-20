@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence/subsentence",
+  "id": "API/sentence/subsentence",
+  "isDocsHomePage": false,
+  "title": "Subsentence",
+  "description": "Subsentence Object",
+  "source": "@site/docs/API/sentence/subsentence.md",
+  "sourceDirName": "API/sentence",
+  "slug": "/API/sentence/subsentence",
+  "permalink": "/documentation/docs/next/API/sentence/subsentence",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentence Type",
+    "permalink": "/documentation/docs/next/API/sentence/sentence-type"
+  },
+  "next": {
+    "title": "Details",
+    "permalink": "/documentation/docs/next/API/details/details"
+  }
+}

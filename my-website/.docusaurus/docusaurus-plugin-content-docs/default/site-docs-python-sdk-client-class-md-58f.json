@@ -7,7 +7,7 @@
   "source": "@site/docs/python-sdk/client-class.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/client-class",
-  "permalink": "/docs/python-sdk/client-class",
+  "permalink": "/documentation/docs/next/python-sdk/client-class",
   "tags": [],
   "version": "current",
   "sidebarPosition": 9,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Common Properties",
-    "permalink": "/docs/python-sdk/common-properties"
+    "permalink": "/documentation/docs/next/python-sdk/common-properties"
   },
   "next": {
     "title": "Patterns",
-    "permalink": "/docs/python-sdk/patterns"
+    "permalink": "/documentation/docs/next/python-sdk/patterns"
   }
 }

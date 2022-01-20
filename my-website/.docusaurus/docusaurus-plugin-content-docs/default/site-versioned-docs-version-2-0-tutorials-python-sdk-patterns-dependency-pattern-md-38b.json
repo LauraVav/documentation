@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/Patterns/dependency-pattern",
+  "id": "version-2.0/Tutorials/Python SDK/Patterns/dependency-pattern",
+  "isDocsHomePage": false,
+  "title": "Dependency Pattern",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/Patterns/dependency-pattern.md",
+  "sourceDirName": "Tutorials/Python SDK/Patterns",
+  "slug": "/Tutorials/Python SDK/Patterns/dependency-pattern",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/Patterns/dependency-pattern",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Token Pattern",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/Patterns/token-pattern"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/documentation/docs/help/faq"
+  }
+}

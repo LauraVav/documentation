@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/emoticons",
+  "id": "versioned_docs/version-6.0.1/API/emoticons",
+  "isDocsHomePage": false,
+  "title": "Emoticons",
+  "description": "List all emoticons found.",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/emoticons.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API",
+  "slug": "/versioned_docs/version-6.0.1/API/emoticons",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/emoticons",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Patterns",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/python-sdk/patterns"
+  },
+  "next": {
+    "title": "Disturbance",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/disturbance"
+  }
+}

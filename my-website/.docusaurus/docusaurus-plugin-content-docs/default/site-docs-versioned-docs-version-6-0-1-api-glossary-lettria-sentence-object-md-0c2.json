@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/Glossary/lettria-sentence-object",
+  "id": "versioned_docs/version-6.0.1/API/Glossary/lettria-sentence-object",
+  "isDocsHomePage": false,
+  "title": "Lettria Sentence Object",
+  "description": "In this object, each key corresponds to the returned object from a sub-API.",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/Glossary/lettria-sentence-object.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/versioned_docs/version-6.0.1/API/Glossary/lettria-sentence-object",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/lettria-sentence-object",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emotions",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/emotions"
+  },
+  "next": {
+    "title": "Tags",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/tags"
+  }
+}

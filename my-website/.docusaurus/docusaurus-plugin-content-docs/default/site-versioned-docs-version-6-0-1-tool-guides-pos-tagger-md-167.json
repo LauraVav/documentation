@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/pos-tagger",
+  "id": "version-6.0.1/Tool guides/pos-tagger",
+  "isDocsHomePage": false,
+  "title": "POS Tagger",
+  "description": "What’s a pos-tagger ?",
+  "source": "@site/versioned_docs/version-6.0.1/Tool guides/pos-tagger.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/pos-tagger",
+  "permalink": "/documentation/docs/Tool guides/pos-tagger",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/Tool guides/tokenizer"
+  },
+  "next": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/Tool guides/lemmatizer"
+  }
+}

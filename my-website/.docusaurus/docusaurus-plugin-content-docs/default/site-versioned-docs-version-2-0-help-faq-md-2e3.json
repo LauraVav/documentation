@@ -1,0 +1,22 @@
+{
+  "unversionedId": "help/faq",
+  "id": "version-2.0/help/faq",
+  "isDocsHomePage": false,
+  "title": "FAQs",
+  "description": "---",
+  "source": "@site/versioned_docs/version-2.0/help/faq.md",
+  "sourceDirName": "help",
+  "slug": "/help/faq",
+  "permalink": "/documentation/docs/help/faq",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Dependency Pattern",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/Patterns/dependency-pattern"
+  }
+}

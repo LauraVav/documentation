@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/Patterns/token-pattern",
+  "id": "Tutorials/Python SDK/Patterns/token-pattern",
+  "isDocsHomePage": false,
+  "title": "Token Pattern",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/Patterns/token-pattern.md",
+  "sourceDirName": "Tutorials/Python SDK/Patterns",
+  "slug": "/Tutorials/Python SDK/Patterns/token-pattern",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/Patterns/token-pattern",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Common Properties",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/common-properties"
+  },
+  "next": {
+    "title": "Dependency Pattern",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/Patterns/dependency-pattern"
+  }
+}

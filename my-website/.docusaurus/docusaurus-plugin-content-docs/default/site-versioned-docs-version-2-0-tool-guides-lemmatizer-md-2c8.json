@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/lemmatizer",
+  "id": "version-2.0/Tool guides/lemmatizer",
+  "isDocsHomePage": false,
+  "title": "Lemmatizer",
+  "description": "What’s a lemmatizer?",
+  "source": "@site/versioned_docs/version-2.0/Tool guides/lemmatizer.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/lemmatizer",
+  "permalink": "/documentation/docs/Tool guides/lemmatizer",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/Tool guides/tokenizer"
+  },
+  "next": {
+    "title": "Sentiment Analysis",
+    "permalink": "/documentation/docs/Tool guides/sentiment-analysis"
+  }
+}

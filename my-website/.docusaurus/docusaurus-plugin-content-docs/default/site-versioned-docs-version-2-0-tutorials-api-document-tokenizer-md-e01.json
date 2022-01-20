@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/document/tokenizer",
+  "id": "version-2.0/Tutorials/API/document/tokenizer",
+  "isDocsHomePage": false,
+  "title": "Tokenizer",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/API/document/tokenizer.md",
+  "sourceDirName": "Tutorials/API/document",
+  "slug": "/Tutorials/API/document/tokenizer",
+  "permalink": "/documentation/docs/Tutorials/API/document/tokenizer",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Synthesis",
+    "permalink": "/documentation/docs/Tutorials/API/document/synthesis"
+  },
+  "next": {
+    "title": "Emotion Analysis",
+    "permalink": "/documentation/docs/Tutorials/API/document/emotion-analysis"
+  }
+}

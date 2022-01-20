@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/API/ner.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/ner",
-  "permalink": "/docs/Tutorials/API/ner",
+  "permalink": "/documentation/docs/next/Tutorials/API/ner",
   "tags": [],
   "version": "current",
   "sidebarPosition": 10,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Intent Detection",
-    "permalink": "/docs/Tutorials/API/intent-detection"
+    "permalink": "/documentation/docs/next/Tutorials/API/intent-detection"
   },
   "next": {
     "title": "Vocabulary",
-    "permalink": "/docs/Tutorials/Python SDK/vocabulary"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary"
   }
 }

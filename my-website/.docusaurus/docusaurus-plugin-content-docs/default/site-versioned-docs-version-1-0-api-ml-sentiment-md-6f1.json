@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/ml-sentiment",
+  "id": "version-1.0/API/ml-sentiment",
+  "isDocsHomePage": false,
+  "title": "ML Sentiment",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/ml-sentiment.md",
+  "sourceDirName": "API",
+  "slug": "/API/ml-sentiment",
+  "permalink": "/documentation/docs/1.0/API/ml-sentiment",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "sidebar_position": 18
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Proposition",
+    "permalink": "/documentation/docs/1.0/API/proposition"
+  },
+  "next": {
+    "title": "Tags",
+    "permalink": "/documentation/docs/1.0/API/Glossary/tags"
+  }
+}

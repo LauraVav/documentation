@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/details/details",
+  "id": "API/details/details",
+  "isDocsHomePage": false,
+  "title": "Details",
+  "description": "Details Object",
+  "source": "@site/docs/API/details/details.md",
+  "sourceDirName": "API/details",
+  "slug": "/API/details/details",
+  "permalink": "/documentation/docs/next/API/details/details",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Subsentence",
+    "permalink": "/documentation/docs/next/API/sentence/subsentence"
+  },
+  "next": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/next/API/details/pos-tagger"
+  }
+}

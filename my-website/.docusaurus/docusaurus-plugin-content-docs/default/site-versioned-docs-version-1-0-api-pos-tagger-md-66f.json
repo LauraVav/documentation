@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/pos-tagger",
+  "id": "version-1.0/API/pos-tagger",
+  "isDocsHomePage": false,
+  "title": "POS Tagger",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/pos-tagger.md",
+  "sourceDirName": "API",
+  "slug": "/API/pos-tagger",
+  "permalink": "/documentation/docs/1.0/API/pos-tagger",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/1.0/API/lemmitizer"
+  },
+  "next": {
+    "title": "Disturbance",
+    "permalink": "/documentation/docs/1.0/API/disturbance"
+  }
+}

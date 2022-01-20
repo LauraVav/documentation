@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/possessive-determiners",
+  "id": "version-1.0/API/Glossary/possessive-determiners",
+  "isDocsHomePage": false,
+  "title": "Possessive Determiners",
+  "description": "| VALUE \t| EXAMPLES \t|",
+  "source": "@site/versioned_docs/version-1.0/API/Glossary/possessive-determiners.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/possessive-determiners",
+  "permalink": "/documentation/docs/1.0/API/Glossary/possessive-determiners",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Dependency Tags",
+    "permalink": "/documentation/docs/1.0/API/Glossary/dependency-tags"
+  },
+  "next": {
+    "title": "Pronouns",
+    "permalink": "/documentation/docs/1.0/API/Glossary/pronouns"
+  }
+}

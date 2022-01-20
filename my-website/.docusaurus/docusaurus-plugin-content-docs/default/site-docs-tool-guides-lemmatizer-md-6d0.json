@@ -7,7 +7,7 @@
   "source": "@site/docs/Tool guides/lemmatizer.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/lemmatizer",
-  "permalink": "/docs/Tool guides/lemmatizer",
+  "permalink": "/documentation/docs/next/Tool guides/lemmatizer",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "POS Tagger",
-    "permalink": "/docs/Tool guides/pos-tagger"
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/next/Tool guides/tokenizer"
   },
   "next": {
-    "title": "Dependency Parser",
-    "permalink": "/docs/Tool guides/dependency-parser"
+    "title": "Sentiment Analysis",
+    "permalink": "/documentation/docs/next/Tool guides/sentiment-analysis"
   }
 }

@@ -1,369 +1,688 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/documentation/docs",
       "versions": [
         {
-          "name": "current",
-          "label": "Next",
+          "name": "2.0",
+          "label": "2.0",
           "isLast": true,
-          "path": "/docs",
+          "path": "/documentation/docs",
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "API/coreference",
-              "path": "/docs/API/coreference",
-              "sidebar": "tutorialSidebar"
+              "id": "API/api",
+              "path": "/documentation/docs/API/api",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
-              "id": "API/disturbance",
-              "path": "/docs/API/disturbance",
-              "sidebar": "tutorialSidebar"
+              "id": "API/detail",
+              "path": "/documentation/docs/API/detail",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
-              "id": "API/emoticons",
-              "path": "/docs/API/emoticons",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/emotions",
-              "path": "/docs/API/emotions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/entities-numeral",
-              "path": "/docs/API/entities-numeral",
-              "sidebar": "tutorialSidebar"
+              "id": "API/document",
+              "path": "/documentation/docs/API/document",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/categories",
-              "path": "/docs/API/Glossary/categories",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/categories",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/conjugations",
-              "path": "/docs/API/Glossary/conjugations",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/conjugations",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/dependency-tags",
-              "path": "/docs/API/Glossary/dependency-tags",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/dependency-tags",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/entities",
-              "path": "/docs/API/Glossary/entities",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/entities",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/possessive-determiners",
-              "path": "/docs/API/Glossary/possessive-determiners",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/possessive-determiners",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/pronouns",
-              "path": "/docs/API/Glossary/pronouns",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/pronouns",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "API/Glossary/tags",
-              "path": "/docs/API/Glossary/tags",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/API/Glossary/tags",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
-              "id": "API/language-used",
-              "path": "/docs/API/language-used",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/lemmitizer",
-              "path": "/docs/API/lemmitizer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/lettria-sentence-object",
-              "path": "/docs/API/lettria-sentence-object",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/ml-emotion",
-              "path": "/docs/API/ml-emotion",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/ml-sentiment",
-              "path": "/docs/API/ml-sentiment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/nlc-new",
-              "path": "/docs/API/nlc-new",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/parser-dependency",
-              "path": "/docs/API/parser-dependency",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/pos-tagger",
-              "path": "/docs/API/pos-tagger",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/proposition",
-              "path": "/docs/API/proposition",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/sentence-type",
-              "path": "/docs/API/sentence-type",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/sentiment",
-              "path": "/docs/API/sentiment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "API/synthesis",
-              "path": "/docs/API/synthesis",
-              "sidebar": "tutorialSidebar"
+              "id": "API/sentence",
+              "path": "/documentation/docs/API/sentence",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "help/faq",
-              "path": "/docs/help/faq",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/help/faq",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/intro",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/client-class",
-              "path": "/docs/python-sdk/client-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/client-class",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/common-properties",
-              "path": "/docs/python-sdk/common-properties",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/common-properties",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/document-class",
-              "path": "/docs/python-sdk/document-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/document-class",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/nlp-class",
-              "path": "/docs/python-sdk/nlp-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/nlp-class",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/patterns",
-              "path": "/docs/python-sdk/patterns",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/patterns",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/python-sdk",
-              "path": "/docs/python-sdk/python-sdk",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/python-sdk",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/sentence-class",
-              "path": "/docs/python-sdk/sentence-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/sentence-class",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/subsentence-class",
-              "path": "/docs/python-sdk/subsentence-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/subsentence-class",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/texctchunk",
-              "path": "/docs/python-sdk/texctchunk",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/texctchunk",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "python-sdk/token-class",
-              "path": "/docs/python-sdk/token-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/python-sdk/token-class",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/coreference",
-              "path": "/docs/Tool guides/coreference",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/coreference",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/dependency-parser",
-              "path": "/docs/Tool guides/dependency-parser",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/dependency-parser",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/lemmatizer",
-              "path": "/docs/Tool guides/lemmatizer",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/lemmatizer",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/ner",
-              "path": "/docs/Tool guides/ner",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/ner",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/nlu",
-              "path": "/docs/Tool guides/nlu",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/nlu",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/pos-tagger",
-              "path": "/docs/Tool guides/pos-tagger",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/pos-tagger",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/sentiment-analysis",
-              "path": "/docs/Tool guides/sentiment-analysis",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/sentiment-analysis",
+              "sidebar": "version-2.0/tutorialSidebar"
             },
             {
               "id": "Tool guides/tokenizer",
-              "path": "/docs/Tool guides/tokenizer",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/Tool guides/tokenizer",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/detail/dependency-parser",
+              "path": "/documentation/docs/Tutorials/API/detail/dependency-parser",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/detail/intent-detection",
+              "path": "/documentation/docs/Tutorials/API/detail/intent-detection",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/detail/lemmatizer",
+              "path": "/documentation/docs/Tutorials/API/detail/lemmatizer",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/detail/pos-tagger",
+              "path": "/documentation/docs/Tutorials/API/detail/pos-tagger",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/document/emotion-analysis",
+              "path": "/documentation/docs/Tutorials/API/document/emotion-analysis",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/document/language-recognition",
+              "path": "/documentation/docs/Tutorials/API/document/language-recognition",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/document/sentiment-analysis",
+              "path": "/documentation/docs/Tutorials/API/document/sentiment-analysis",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/document/synthesis",
+              "path": "/documentation/docs/Tutorials/API/document/synthesis",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/document/tokenizer",
+              "path": "/documentation/docs/Tutorials/API/document/tokenizer",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/sentence/ml-emotion",
+              "path": "/documentation/docs/Tutorials/API/sentence/ml-emotion",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/sentence/ml-sentiment",
+              "path": "/documentation/docs/Tutorials/API/sentence/ml-sentiment",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/sentence/ner",
+              "path": "/documentation/docs/Tutorials/API/sentence/ner",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/API/sentence/sentence-type",
+              "path": "/documentation/docs/Tutorials/API/sentence/sentence-type",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/common-properties",
+              "path": "/documentation/docs/Tutorials/Python SDK/common-properties",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/document-class-tutorial",
+              "path": "/documentation/docs/Tutorials/Python SDK/document-class-tutorial",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/Patterns/dependency-pattern",
+              "path": "/documentation/docs/Tutorials/Python SDK/Patterns/dependency-pattern",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/Patterns/token-pattern",
+              "path": "/documentation/docs/Tutorials/Python SDK/Patterns/token-pattern",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/sentence-class-tutorial",
+              "path": "/documentation/docs/Tutorials/Python SDK/sentence-class-tutorial",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/subsentence-class-tutorial",
+              "path": "/documentation/docs/Tutorials/Python SDK/subsentence-class-tutorial",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/filter-emotion",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-emotion",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/filter-polarity",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-polarity",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/filter-type",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-type",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/get-emotion",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/get-emotion",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/get-sentiment-CS",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/get-sentiment-CS",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/list-entities",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/list-entities",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/match-pattern",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/meaning-emotion",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-emotion",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/meaning-sentiment",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-sentiment",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/vocabulary",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/vocabulary",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/word-count",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/word-count",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/word-emotion",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/word-emotion",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/word-frequency",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/word-frequency",
+              "sidebar": "version-2.0/tutorialSidebar"
+            },
+            {
+              "id": "Tutorials/Python SDK/TextChunk/word-sentiment",
+              "path": "/documentation/docs/Tutorials/Python SDK/TextChunk/word-sentiment",
+              "sidebar": "version-2.0/tutorialSidebar"
+            }
+          ]
+        },
+        {
+          "name": "1.0",
+          "label": "1.0",
+          "isLast": false,
+          "path": "/documentation/docs/1.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "API/api",
+              "path": "/documentation/docs/1.0/API/api",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/coreference",
+              "path": "/documentation/docs/1.0/API/coreference",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/disturbance",
+              "path": "/documentation/docs/1.0/API/disturbance",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/emoticons",
+              "path": "/documentation/docs/1.0/API/emoticons",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/emotions",
+              "path": "/documentation/docs/1.0/API/emotions",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/entities-numeral",
+              "path": "/documentation/docs/1.0/API/entities-numeral",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/categories",
+              "path": "/documentation/docs/1.0/API/Glossary/categories",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/conjugations",
+              "path": "/documentation/docs/1.0/API/Glossary/conjugations",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/dependency-tags",
+              "path": "/documentation/docs/1.0/API/Glossary/dependency-tags",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/entities",
+              "path": "/documentation/docs/1.0/API/Glossary/entities",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/possessive-determiners",
+              "path": "/documentation/docs/1.0/API/Glossary/possessive-determiners",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/pronouns",
+              "path": "/documentation/docs/1.0/API/Glossary/pronouns",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/Glossary/tags",
+              "path": "/documentation/docs/1.0/API/Glossary/tags",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/language-used",
+              "path": "/documentation/docs/1.0/API/language-used",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/lemmitizer",
+              "path": "/documentation/docs/1.0/API/lemmitizer",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/lettria-sentence-object",
+              "path": "/documentation/docs/1.0/API/lettria-sentence-object",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/ml-emotion",
+              "path": "/documentation/docs/1.0/API/ml-emotion",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/ml-sentiment",
+              "path": "/documentation/docs/1.0/API/ml-sentiment",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/ner",
+              "path": "/documentation/docs/1.0/API/ner",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/nlp",
+              "path": "/documentation/docs/1.0/API/nlp",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/nlu",
+              "path": "/documentation/docs/1.0/API/nlu",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/parser-dependency",
+              "path": "/documentation/docs/1.0/API/parser-dependency",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/pos-tagger",
+              "path": "/documentation/docs/1.0/API/pos-tagger",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/proposition",
+              "path": "/documentation/docs/1.0/API/proposition",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/sentence-type",
+              "path": "/documentation/docs/1.0/API/sentence-type",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/sentiment",
+              "path": "/documentation/docs/1.0/API/sentiment",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "API/synthesis",
+              "path": "/documentation/docs/1.0/API/synthesis",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "help/faq",
+              "path": "/documentation/docs/1.0/help/faq",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/documentation/docs/1.0/intro",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/client-class",
+              "path": "/documentation/docs/1.0/python-sdk/client-class",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/common-properties",
+              "path": "/documentation/docs/1.0/python-sdk/common-properties",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/document-class",
+              "path": "/documentation/docs/1.0/python-sdk/document-class",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/nlp-class",
+              "path": "/documentation/docs/1.0/python-sdk/nlp-class",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/patterns",
+              "path": "/documentation/docs/1.0/python-sdk/patterns",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/python-sdk",
+              "path": "/documentation/docs/1.0/python-sdk/python-sdk",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/sentence-class",
+              "path": "/documentation/docs/1.0/python-sdk/sentence-class",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/subsentence-class",
+              "path": "/documentation/docs/1.0/python-sdk/subsentence-class",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/texctchunk",
+              "path": "/documentation/docs/1.0/python-sdk/texctchunk",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "python-sdk/token-class",
+              "path": "/documentation/docs/1.0/python-sdk/token-class",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/coreference",
+              "path": "/documentation/docs/1.0/Tool guides/coreference",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/dependency-parser",
+              "path": "/documentation/docs/1.0/Tool guides/dependency-parser",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/lemmatizer",
+              "path": "/documentation/docs/1.0/Tool guides/lemmatizer",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/ner",
+              "path": "/documentation/docs/1.0/Tool guides/ner",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/nlu",
+              "path": "/documentation/docs/1.0/Tool guides/nlu",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/pos-tagger",
+              "path": "/documentation/docs/1.0/Tool guides/pos-tagger",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/sentiment-analysis",
+              "path": "/documentation/docs/1.0/Tool guides/sentiment-analysis",
+              "sidebar": "version-1.0/tutorialSidebar"
+            },
+            {
+              "id": "Tool guides/tokenizer",
+              "path": "/documentation/docs/1.0/Tool guides/tokenizer",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/dependency-parser",
-              "path": "/docs/Tutorials/API/dependency-parser",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/dependency-parser",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/emotion-analysis",
-              "path": "/docs/Tutorials/API/emotion-analysis",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/emotion-analysis",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/intent-detection",
-              "path": "/docs/Tutorials/API/intent-detection",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/intent-detection",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/language-recognition",
-              "path": "/docs/Tutorials/API/language-recognition",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/language-recognition",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/lemmatizer",
-              "path": "/docs/Tutorials/API/lemmatizer",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/lemmatizer",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/ner",
-              "path": "/docs/Tutorials/API/ner",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/ner",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/pos-tagger",
-              "path": "/docs/Tutorials/API/pos-tagger",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/pos-tagger",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/sentence-type",
-              "path": "/docs/Tutorials/API/sentence-type",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/sentence-type",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/sentiment-analysis",
-              "path": "/docs/Tutorials/API/sentiment-analysis",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/sentiment-analysis",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/API/tokenizer",
-              "path": "/docs/Tutorials/API/tokenizer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Tutorials/Python SDK/common-properties-CS",
-              "path": "/docs/Tutorials/Python SDK/common-properties-CS",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Tutorials/Python SDK/document-class",
-              "path": "/docs/Tutorials/Python SDK/document-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/API/tokenizer",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/filter-emotion",
-              "path": "/docs/Tutorials/Python SDK/filter-emotion",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/filter-emotion",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/filter-polarity",
-              "path": "/docs/Tutorials/Python SDK/filter-polarity",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Tutorials/Python SDK/filter-type",
-              "path": "/docs/Tutorials/Python SDK/filter-type",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/filter-polarity",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/get-emotion",
-              "path": "/docs/Tutorials/Python SDK/get-emotion",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/get-emotion",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/get-sentiment-CS",
-              "path": "/docs/Tutorials/Python SDK/get-sentiment-CS",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/get-sentiment-CS",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/list-entities",
-              "path": "/docs/Tutorials/Python SDK/list-entities",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/list-entities",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/meaning-emotion",
-              "path": "/docs/Tutorials/Python SDK/meaning-emotion",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/meaning-emotion",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/meaning-sentiment",
-              "path": "/docs/Tutorials/Python SDK/meaning-sentiment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Tutorials/Python SDK/sentence-class",
-              "path": "/docs/Tutorials/Python SDK/sentence-class",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Tutorials/Python SDK/subsentence-class",
-              "path": "/docs/Tutorials/Python SDK/subsentence-class",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/meaning-sentiment",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/vocabulary",
-              "path": "/docs/Tutorials/Python SDK/vocabulary",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/vocabulary",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/word-count",
-              "path": "/docs/Tutorials/Python SDK/word-count",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/word-count",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/word-emotion",
-              "path": "/docs/Tutorials/Python SDK/word-emotion",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/word-emotion",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/word-frequency",
-              "path": "/docs/Tutorials/Python SDK/word-frequency",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/word-frequency",
+              "sidebar": "version-1.0/tutorialSidebar"
             },
             {
               "id": "Tutorials/Python SDK/word-sentiment",
-              "path": "/docs/Tutorials/Python SDK/word-sentiment",
-              "sidebar": "tutorialSidebar"
+              "path": "/documentation/docs/1.0/Tutorials/Python SDK/word-sentiment",
+              "sidebar": "version-1.0/tutorialSidebar"
             }
           ]
         }

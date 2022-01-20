@@ -7,7 +7,7 @@
   "source": "@site/docs/API/Glossary/dependency-tags.md",
   "sourceDirName": "API/Glossary",
   "slug": "/API/Glossary/dependency-tags",
-  "permalink": "/docs/API/Glossary/dependency-tags",
+  "permalink": "/documentation/docs/next/API/Glossary/dependency-tags",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tags",
-    "permalink": "/docs/API/Glossary/tags"
+    "permalink": "/documentation/docs/next/API/Glossary/tags"
   },
   "next": {
     "title": "Possessive Determiners",
-    "permalink": "/docs/API/Glossary/possessive-determiners"
+    "permalink": "/documentation/docs/next/API/Glossary/possessive-determiners"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence/sentence-type",
+  "id": "API/sentence/sentence-type",
+  "isDocsHomePage": false,
+  "title": "Sentence Type",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/docs/API/sentence/sentence-type.md",
+  "sourceDirName": "API/sentence",
+  "slug": "/API/sentence/sentence-type",
+  "permalink": "/documentation/docs/next/API/sentence/sentence-type",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/documentation/docs/next/API/sentence/ner"
+  },
+  "next": {
+    "title": "Subsentence",
+    "permalink": "/documentation/docs/next/API/sentence/subsentence"
+  }
+}

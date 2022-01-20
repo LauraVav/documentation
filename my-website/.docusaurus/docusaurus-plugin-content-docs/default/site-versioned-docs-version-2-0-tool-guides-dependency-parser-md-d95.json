@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/dependency-parser",
+  "id": "version-2.0/Tool guides/dependency-parser",
+  "isDocsHomePage": false,
+  "title": "Dependency Parser",
+  "description": "What’s a dependency parser?",
+  "source": "@site/versioned_docs/version-2.0/Tool guides/dependency-parser.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/dependency-parser",
+  "permalink": "/documentation/docs/Tool guides/dependency-parser",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/Tool guides/pos-tagger"
+  },
+  "next": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/Tool guides/coreference"
+  }
+}

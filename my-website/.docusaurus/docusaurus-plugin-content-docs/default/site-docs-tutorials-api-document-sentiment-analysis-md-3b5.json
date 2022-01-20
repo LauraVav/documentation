@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/document/sentiment-analysis",
+  "id": "Tutorials/API/document/sentiment-analysis",
+  "isDocsHomePage": false,
+  "title": "Sentiment Analysis",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/document/sentiment-analysis.md",
+  "sourceDirName": "Tutorials/API/document",
+  "slug": "/Tutorials/API/document/sentiment-analysis",
+  "permalink": "/documentation/docs/next/Tutorials/API/document/sentiment-analysis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emotion Analysis",
+    "permalink": "/documentation/docs/next/Tutorials/API/document/emotion-analysis"
+  },
+  "next": {
+    "title": "ML Sentiment",
+    "permalink": "/documentation/docs/next/Tutorials/API/sentence/ml-sentiment"
+  }
+}

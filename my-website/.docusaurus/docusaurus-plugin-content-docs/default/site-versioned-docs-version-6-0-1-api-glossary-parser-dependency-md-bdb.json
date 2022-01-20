@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/parser-dependency",
+  "id": "version-6.0.1/API/Glossary/parser-dependency",
+  "isDocsHomePage": false,
+  "title": "Parser Dependency",
+  "description": "Dependency Object",
+  "source": "@site/versioned_docs/version-6.0.1/API/Glossary/parser-dependency.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/parser-dependency",
+  "permalink": "/documentation/docs/API/Glossary/parser-dependency",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Categories",
+    "permalink": "/documentation/docs/API/Glossary/categories"
+  },
+  "next": {
+    "title": "Sentence Acts",
+    "permalink": "/documentation/docs/API/Glossary/sentence-acts"
+  }
+}

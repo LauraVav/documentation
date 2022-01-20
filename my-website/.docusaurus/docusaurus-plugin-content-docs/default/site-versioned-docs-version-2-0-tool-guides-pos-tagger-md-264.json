@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/pos-tagger",
+  "id": "version-2.0/Tool guides/pos-tagger",
+  "isDocsHomePage": false,
+  "title": "POS Tagger",
+  "description": "What’s a pos-tagger ?",
+  "source": "@site/versioned_docs/version-2.0/Tool guides/pos-tagger.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/pos-tagger",
+  "permalink": "/documentation/docs/Tool guides/pos-tagger",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/documentation/docs/Tool guides/ner"
+  },
+  "next": {
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/Tool guides/dependency-parser"
+  }
+}

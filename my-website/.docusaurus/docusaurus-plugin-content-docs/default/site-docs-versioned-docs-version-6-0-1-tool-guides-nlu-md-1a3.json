@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/Tool guides/nlu",
+  "id": "versioned_docs/version-6.0.1/Tool guides/nlu",
+  "isDocsHomePage": false,
+  "title": "NLU",
+  "description": "What is Natural Language Understanding ?",
+  "source": "@site/docs/versioned_docs/version-6.0.1/Tool guides/nlu.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/Tool guides",
+  "slug": "/versioned_docs/version-6.0.1/Tool guides/nlu",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/nlu",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/dependency-parser"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/ner"
+  }
+}
