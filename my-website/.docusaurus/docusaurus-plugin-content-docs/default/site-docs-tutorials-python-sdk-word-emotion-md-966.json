@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/word-emotion.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/word-emotion",
-  "permalink": "/docs/Tutorials/Python SDK/word-emotion",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/word-emotion",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Emotion",
-    "permalink": "/docs/Tutorials/Python SDK/get-emotion"
+    "title": "Word Sentiment",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-sentiment"
   },
   "next": {
-    "title": "Word Sentiment",
-    "permalink": "/docs/Tutorials/Python SDK/word-sentiment"
+    "title": "Meaning Sentiment",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/meaning-sentiment"
   }
 }

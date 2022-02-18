@@ -7,7 +7,7 @@
   "source": "@site/docs/API/Glossary/tags.md",
   "sourceDirName": "API/Glossary",
   "slug": "/API/Glossary/tags",
-  "permalink": "/docs/API/Glossary/tags",
+  "permalink": "/documentation/docs/next/API/Glossary/tags",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Proposition",
-    "permalink": "/docs/API/proposition"
+    "title": "Detail",
+    "permalink": "/documentation/docs/next/API/detail"
   },
   "next": {
     "title": "Dependency Tags",
-    "permalink": "/docs/API/Glossary/dependency-tags"
+    "permalink": "/documentation/docs/next/API/Glossary/dependency-tags"
   }
 }

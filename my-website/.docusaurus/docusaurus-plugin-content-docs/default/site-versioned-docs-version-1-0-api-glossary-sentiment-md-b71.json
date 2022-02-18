@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/sentiment",
+  "id": "version-1.0/API/Glossary/sentiment",
+  "isDocsHomePage": false,
+  "title": "Sentiment",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/Glossary/sentiment.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/sentiment",
+  "permalink": "/documentation/docs/API/Glossary/sentiment",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Sentence Acts",
+    "permalink": "/documentation/docs/API/Glossary/sentence-acts"
+  },
+  "next": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/API/Glossary/ml-emotion"
+  }
+}

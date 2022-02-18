@@ -1,0 +1,22 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/help/faq",
+  "id": "versioned_docs/version-6.0.1/help/faq",
+  "isDocsHomePage": false,
+  "title": "FAQs",
+  "description": "---",
+  "source": "@site/docs/versioned_docs/version-6.0.1/help/faq.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/help",
+  "slug": "/versioned_docs/version-6.0.1/help/faq",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/help/faq",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Filter Polarity",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity"
+  }
+}

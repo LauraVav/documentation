@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/subsentence-class",
+  "id": "version-1.0/python-sdk/subsentence-class",
+  "isDocsHomePage": false,
+  "title": "Subsentence Class",
+  "description": "Subsentence inherits from TextChunk.",
+  "source": "@site/versioned_docs/version-1.0/python-sdk/subsentence-class.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/subsentence-class",
+  "permalink": "/documentation/docs/1.0/python-sdk/subsentence-class",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Sentence Class",
+    "permalink": "/documentation/docs/1.0/python-sdk/sentence-class"
+  },
+  "next": {
+    "title": "Token Class",
+    "permalink": "/documentation/docs/1.0/python-sdk/token-class"
+  }
+}

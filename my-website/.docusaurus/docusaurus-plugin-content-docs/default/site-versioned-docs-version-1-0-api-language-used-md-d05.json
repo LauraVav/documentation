@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/language-used",
+  "id": "version-1.0/API/language-used",
+  "isDocsHomePage": false,
+  "title": "Language Used",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/language-used.md",
+  "sourceDirName": "API",
+  "slug": "/API/language-used",
+  "permalink": "/documentation/docs/1.0/API/language-used",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/documentation/docs/1.0/API/ner"
+  },
+  "next": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/1.0/API/coreference"
+  }
+}

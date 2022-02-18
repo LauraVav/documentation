@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/conjugations",
+  "id": "version-1.0/API/Glossary/conjugations",
+  "isDocsHomePage": false,
+  "title": "Conjugations",
+  "description": "| MODE        \t| TENSES                \t|",
+  "source": "@site/versioned_docs/version-1.0/API/Glossary/conjugations.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/conjugations",
+  "permalink": "/documentation/docs/1.0/API/Glossary/conjugations",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Pronouns",
+    "permalink": "/documentation/docs/1.0/API/Glossary/pronouns"
+  },
+  "next": {
+    "title": "Entities",
+    "permalink": "/documentation/docs/1.0/API/Glossary/entities"
+  }
+}

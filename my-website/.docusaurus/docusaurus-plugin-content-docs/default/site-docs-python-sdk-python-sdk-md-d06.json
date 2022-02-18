@@ -3,11 +3,11 @@
   "id": "python-sdk/python-sdk",
   "isDocsHomePage": false,
   "title": "Python SDK",
-  "description": "Requests & Authentication",
+  "description": "Using the SDK",
   "source": "@site/docs/python-sdk/python-sdk.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/python-sdk",
-  "permalink": "/docs/python-sdk/python-sdk",
+  "permalink": "/documentation/docs/next/python-sdk/python-sdk",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting started",
-    "permalink": "/docs/intro"
+    "permalink": "/documentation/docs/next/intro"
   },
   "next": {
     "title": "NLP Class",
-    "permalink": "/docs/python-sdk/nlp-class"
+    "permalink": "/documentation/docs/next/python-sdk/nlp-class"
   }
 }

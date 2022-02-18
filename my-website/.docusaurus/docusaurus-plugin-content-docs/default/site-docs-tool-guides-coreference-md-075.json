@@ -7,7 +7,7 @@
   "source": "@site/docs/Tool guides/coreference.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/coreference",
-  "permalink": "/docs/Tool guides/coreference",
+  "permalink": "/documentation/docs/next/Tool guides/coreference",
   "tags": [],
   "version": "current",
   "sidebarPosition": 8,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sentiment Analysis",
-    "permalink": "/docs/Tool guides/sentiment-analysis"
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/Tool guides/dependency-parser"
   },
   "next": {
-    "title": "POS Tagger",
-    "permalink": "/docs/Tutorials/API/pos-tagger"
+    "title": "NLU",
+    "permalink": "/documentation/docs/next/Tool guides/nlu"
   }
 }

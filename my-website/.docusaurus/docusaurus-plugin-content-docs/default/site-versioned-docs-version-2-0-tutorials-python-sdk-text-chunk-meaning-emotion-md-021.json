@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/meaning-emotion",
+  "id": "version-2.0/Tutorials/Python SDK/TextChunk/meaning-emotion",
+  "isDocsHomePage": false,
+  "title": "Meaning Emotion",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/TextChunk/meaning-emotion.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/meaning-emotion",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-emotion",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Meaning Sentiment",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-sentiment"
+  },
+  "next": {
+    "title": "Filter Polarity",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-polarity"
+  }
+}

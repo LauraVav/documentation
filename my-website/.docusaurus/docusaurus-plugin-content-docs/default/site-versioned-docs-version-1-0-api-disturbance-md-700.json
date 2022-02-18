@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/disturbance",
+  "id": "version-1.0/API/disturbance",
+  "isDocsHomePage": false,
+  "title": "Disturbance",
+  "description": "Disturbance Object",
+  "source": "@site/versioned_docs/version-1.0/API/disturbance.md",
+  "sourceDirName": "API",
+  "slug": "/API/disturbance",
+  "permalink": "/documentation/docs/1.0/API/disturbance",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/1.0/API/pos-tagger"
+  },
+  "next": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/1.0/API/emoticons"
+  }
+}

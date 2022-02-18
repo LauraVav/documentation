@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/match-pattern",
+  "id": "version-2.0/Tutorials/Python SDK/TextChunk/match-pattern",
+  "isDocsHomePage": false,
+  "title": "Match Pattern",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/TextChunk/match-pattern.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/match-pattern",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Filter Type",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-type"
+  },
+  "next": {
+    "title": "Document Class",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/document-class-tutorial"
+  }
+}

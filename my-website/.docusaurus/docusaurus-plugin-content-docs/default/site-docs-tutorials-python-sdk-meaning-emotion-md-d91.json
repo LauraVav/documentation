@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/meaning-emotion.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/meaning-emotion",
-  "permalink": "/docs/Tutorials/Python SDK/meaning-emotion",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/meaning-emotion",
   "tags": [],
   "version": "current",
   "sidebarPosition": 10,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Meaning Sentiment",
-    "permalink": "/docs/Tutorials/Python SDK/meaning-sentiment"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/meaning-sentiment"
   },
   "next": {
     "title": "Filter Emotion",
-    "permalink": "/docs/Tutorials/Python SDK/filter-emotion"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/filter-emotion"
   }
 }

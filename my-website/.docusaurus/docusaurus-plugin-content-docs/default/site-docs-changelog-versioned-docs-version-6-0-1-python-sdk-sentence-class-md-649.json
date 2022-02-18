@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/python-sdk/sentence-class",
+  "id": "Changelog/versioned_docs/version-6.0.1/python-sdk/sentence-class",
+  "isDocsHomePage": false,
+  "title": "Sentence Class",
+  "description": "Sentence inherits from TextChunk.",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/python-sdk/sentence-class.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/python-sdk",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/python-sdk/sentence-class",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/sentence-class",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document Class",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/document-class"
+  },
+  "next": {
+    "title": "Subsentence Class",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/subsentence-class"
+  }
+}

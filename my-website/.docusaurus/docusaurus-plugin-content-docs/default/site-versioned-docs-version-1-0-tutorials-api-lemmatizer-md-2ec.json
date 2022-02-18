@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/lemmatizer",
+  "id": "version-1.0/Tutorials/API/lemmatizer",
+  "isDocsHomePage": false,
+  "title": "Lemmatizer",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-1.0/Tutorials/API/lemmatizer.md",
+  "sourceDirName": "Tutorials/API",
+  "slug": "/Tutorials/API/lemmatizer",
+  "permalink": "/documentation/docs/1.0/Tutorials/API/lemmatizer",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/1.0/Tutorials/API/pos-tagger"
+  },
+  "next": {
+    "title": "Sentence Type",
+    "permalink": "/documentation/docs/1.0/Tutorials/API/sentence-type"
+  }
+}

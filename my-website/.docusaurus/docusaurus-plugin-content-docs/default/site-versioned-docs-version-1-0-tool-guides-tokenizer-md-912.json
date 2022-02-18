@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/tokenizer",
+  "id": "version-1.0/Tool guides/tokenizer",
+  "isDocsHomePage": false,
+  "title": "Tokenizer",
+  "description": "A tokenizer is a tool founded on an algorithm based on a set of rules or on the learning of a manually-labelled corpus. It allows text to be broken down into words. It’s a morphological analysis.",
+  "source": "@site/versioned_docs/version-1.0/Tool guides/tokenizer.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/tokenizer",
+  "permalink": "/documentation/docs/1.0/Tool guides/tokenizer",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Categories",
+    "permalink": "/documentation/docs/1.0/API/Glossary/categories"
+  },
+  "next": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/1.0/Tool guides/pos-tagger"
+  }
+}

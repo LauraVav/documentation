@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/meaning-sentiment",
+  "id": "Tutorials/Python SDK/TextChunk/meaning-sentiment",
+  "isDocsHomePage": false,
+  "title": "Meaning Sentiment",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/TextChunk/meaning-sentiment.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/meaning-sentiment",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/meaning-sentiment",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Emotion",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-emotion"
+  },
+  "next": {
+    "title": "Meaning Emotion",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/meaning-emotion"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/get-sentiment-CS",
+  "id": "Tutorials/Python SDK/TextChunk/get-sentiment-CS",
+  "isDocsHomePage": false,
+  "title": "Get Sentiment",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/TextChunk/get-sentiment-CS.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/get-sentiment-CS",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/get-sentiment-CS",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Emotion",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/get-emotion"
+  },
+  "next": {
+    "title": "Word Sentiment",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-sentiment"
+  }
+}

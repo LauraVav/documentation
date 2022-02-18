@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/common-properties",
+  "id": "version-2.0/python-sdk/common-properties",
+  "isDocsHomePage": false,
+  "title": "Common Properties",
+  "description": "Properties have 'upward' accessibility, properties at a lower level are accessible at a higher level:",
+  "source": "@site/versioned_docs/version-2.0/python-sdk/common-properties.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/common-properties",
+  "permalink": "/documentation/docs/python-sdk/common-properties",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Token Class",
+    "permalink": "/documentation/docs/python-sdk/token-class"
+  },
+  "next": {
+    "title": "Client Class",
+    "permalink": "/documentation/docs/python-sdk/client-class"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/sentence/intent-detection",
+  "id": "Tutorials/API/sentence/intent-detection",
+  "isDocsHomePage": false,
+  "title": "Intent Detection",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/sentence/intent-detection.md",
+  "sourceDirName": "Tutorials/API/sentence",
+  "slug": "/Tutorials/API/sentence/intent-detection",
+  "permalink": "/documentation/docs/next/Tutorials/API/sentence/intent-detection",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/next/Tutorials/API/sentence/ml-emotion"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/documentation/docs/next/Tutorials/API/sentence/ner"
+  }
+}

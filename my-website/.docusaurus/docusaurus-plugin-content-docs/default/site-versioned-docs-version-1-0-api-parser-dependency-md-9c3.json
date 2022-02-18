@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/parser-dependency",
+  "id": "version-1.0/API/parser-dependency",
+  "isDocsHomePage": false,
+  "title": "Parser Dependency",
+  "description": "Dependency Object",
+  "source": "@site/versioned_docs/version-1.0/API/parser-dependency.md",
+  "sourceDirName": "API",
+  "slug": "/API/parser-dependency",
+  "permalink": "/documentation/docs/1.0/API/parser-dependency",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "NLP",
+    "permalink": "/documentation/docs/1.0/API/nlp"
+  },
+  "next": {
+    "title": "NLU",
+    "permalink": "/documentation/docs/1.0/API/nlu"
+  }
+}

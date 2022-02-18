@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/emoticons",
+  "id": "version-1.0/API/emoticons",
+  "isDocsHomePage": false,
+  "title": "Emoticons",
+  "description": "List all emoticons found.",
+  "source": "@site/versioned_docs/version-1.0/API/emoticons.md",
+  "sourceDirName": "API",
+  "slug": "/API/emoticons",
+  "permalink": "/documentation/docs/1.0/API/emoticons",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Disturbance",
+    "permalink": "/documentation/docs/1.0/API/disturbance"
+  },
+  "next": {
+    "title": "NLP",
+    "permalink": "/documentation/docs/1.0/API/nlp"
+  }
+}

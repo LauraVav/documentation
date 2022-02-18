@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/entities-numeral",
+  "id": "API/document/entities-numeral",
+  "isDocsHomePage": false,
+  "title": "Entities Numeral",
+  "description": "Numeral Entity Object",
+  "source": "@site/docs/API/document/entities-numeral.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/entities-numeral",
+  "permalink": "/documentation/docs/next/API/document/entities-numeral",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/next/API/document/emoticons"
+  },
+  "next": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/next/API/document/coreference"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/nlc",
+  "id": "version-6.0.1/API/Glossary/nlc",
+  "isDocsHomePage": false,
+  "title": "NLC",
+  "description": "Includes NER, NLP and NLU modules.",
+  "source": "@site/versioned_docs/version-6.0.1/API/Glossary/nlc.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/nlc",
+  "permalink": "/documentation/docs/API/Glossary/nlc",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/documentation/docs/API/Glossary/entities"
+  },
+  "next": {
+    "title": "Categories",
+    "permalink": "/documentation/docs/API/Glossary/categories"
+  }
+}

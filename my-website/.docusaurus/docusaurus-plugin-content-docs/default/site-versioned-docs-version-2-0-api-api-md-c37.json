@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/api",
+  "id": "version-2.0/API/api",
+  "isDocsHomePage": false,
+  "title": "API",
+  "description": "When you make a request to our API, we first split your text into sentences. Each sentence is processed individually, and the results from each analysis is then compiled into one JSON object. This JSON object is a list of Document, Sentence and Details Objects.",
+  "source": "@site/versioned_docs/version-2.0/API/api.md",
+  "sourceDirName": "API",
+  "slug": "/API/api",
+  "permalink": "/documentation/docs/API/api",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Patterns",
+    "permalink": "/documentation/docs/python-sdk/patterns"
+  },
+  "next": {
+    "title": "Document",
+    "permalink": "/documentation/docs/API/document"
+  }
+}

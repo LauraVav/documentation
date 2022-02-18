@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/entities-numeral",
+  "id": "version-6.0.1/API/entities-numeral",
+  "isDocsHomePage": false,
+  "title": "Entities Numeral",
+  "description": "Numeral Entity Object",
+  "source": "@site/versioned_docs/version-6.0.1/API/entities-numeral.md",
+  "sourceDirName": "API",
+  "slug": "/API/entities-numeral",
+  "permalink": "/documentation/docs/API/entities-numeral",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Disturbance",
+    "permalink": "/documentation/docs/API/disturbance"
+  },
+  "next": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/API/coreference"
+  }
+}

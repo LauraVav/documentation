@@ -1,0 +1,1396 @@
+
+[32m●[39m [32mClient[39m [37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m  (0%)  
+ 
+
+
+[32m●[39m [32mClient[39m [37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m  (0%)  
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 0/0 dependencies[39m
+[90m 0/0 modules 0 active[39m 
+ 
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m setup (5%)  
+ [90mcontext module factory[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 0/0 dependencies[39m
+[90m 0/0 modules 0 active[39m 
+ 
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m setup (5%)  
+ [90mcontext module factory[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 36/52 dependenci[39m
+[90mes 4/21 modules 0 active[39m 
+ 
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 0/0 dependencies[39m
+[90m 0/0 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 36/52 dependenci[39m
+[90mes 4/21 modules 0 active[39m 
+ 
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 0/0 dependencies[39m
+[90m 0/0 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 36/52 dependenci[39m
+[90mes 4/21 modules 0 active[39m 
+ 
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (10%) [90m0/1 entries 36/52 dependenci[39m
+[90mes 4/21 modules 0 active[39m 
+ 
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (71%)  
+ [90mdependencies optimization[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (71%)  
+ [90mdependencies optimization[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (78%)  
+ [90mchunk modules optimization[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (78%)  
+ [90mchunk modules optimization[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m sealing (89%)  
+ [90mhashing[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m sealing (89%)  
+ [90mhashing[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m emitting (95%)  
+ [90memit[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m●[39m [32mClient[39m [32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m emitting (95%)  
+ [90memit[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  Compiled successfully in 1.20s[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  Compiled successfully in 1.20s[39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%) [90m1/1 entries 1544/1544 depend[39m
+[90mencies 530/530 modules 0 active[39m 
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%)  
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m building (65%)  
+ 
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (71%)  
+ [90mdependencies optimization[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (71%)  
+ [90mdependencies optimization[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (78%)  
+ [90mchunk modules optimization[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m sealing (78%)  
+ [90mchunk modules optimization[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m sealing (89%)  
+ [90mafter hashing[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m sealing (89%)  
+ [90mafter hashing[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m sealing (92%) [90masset processing[39m 
+ [90mRealContentHashPlugin[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m●[39m [33mServer[39m [33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[33m█[39m[37m█[39m[37m█[39m sealing (92%) [90masset processing[39m 
+ [90mRealContentHashPlugin[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m✔ Server[39m
+[90m  Compiled successfully in 3.61s[39m
+
+[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G
+[32m✔ Client[39m
+[90m  [39m
+
+[33m✔ Server[39m
+[90m  Compiled successfully in 3.61s[39m
+
+Unable to build website for locale "en".
+Unable to build website for locale "en".
+[31mError: Docusaurus found broken links![39m
+[31m[39m
+[31mPlease check the pages of your site in the list below, and make sure you don't reference any path that does not exist.[39m
+[31mNote: it's possible to ignore broken links with the 'onBrokenLinks' Docusaurus configuration, and let the build pass.[39m
+[31m[39m
+[31mIt looks like some of the broken links we found appear in many pages of your site.[39m
+[31mMaybe those broken links appear on all pages through your site layout?[39m
+[31mWe recommend that you check your theme configuration for such links (particularly, theme navbar and footer).[39m
+[31mFrequent broken links are linking to:[39m
+[31m- /solutions?type=use_case[39m
+[31m- /solutions?type=success_story[39m
+[31m- /solutions[39m
+[31m- /platform[39m
+[31m- /pricing[39m
+[31m- /about-us[39m
+[31m- /blog[39m
+[31m[39m
+[31m[39m
+[31mExhaustive list of all broken links found:[39m
+[31m[39m
+[31m- On source page path = /404.html:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /blog/archive:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /markdown-page:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/coreference:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/disturbance:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/emoticons:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/emotions:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/entities-numeral:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linkin[31mError: Docusaurus found broken links![39m
+[31m[39m
+[31mPlease check the pages of your site in the list below, and make sure you don't reference any path that does not exist.[39m
+[31mNote: it's possible to ignore broken links with the 'onBrokenLinks' Docusaurus configuration, and let the build pass.[39m
+[31m[39m
+[31mIt looks like some of the broken links we found appear in many pages of your site.[39m
+[31mMaybe those broken links appear on all pages through your site layout?[39m
+[31mWe recommend that you check your theme configuration for such links (particularly, theme navbar and footer).[39m
+[31mFrequent broken links are linking to:[39m
+[31m- /solutions?type=use_case[39m
+[31m- /solutions?type=success_story[39m
+[31m- /solutions[39m
+[31m- /platform[39m
+[31m- /pricing[39m
+[31m- /about-us[39m
+[31m- /blog[39m
+[31m[39m
+[31m[39m
+[31mExhaustive list of all broken links found:[39m
+[31m[39m
+[31m- On source page path = /404.html:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /blog/archive:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /markdown-page:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/coreference:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/disturbance:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/emoticons:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/emotions:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/entities-numeral:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/categories:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/conjugations:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/dependency-tags:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/entities:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/possessive-determiners:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/pronouns:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/tags:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/language-used:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/lettria-sentence-object:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/ml-emotion:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m g to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/categories:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/conjugations:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/dependency-tags:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/entities:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/possessive-determiners:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/pronouns:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/Glossary/tags:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/language-used:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/lettria-sentence-object:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/ml-emotion:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/ml-sentiment:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/ner:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/nlp:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/nlu:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/parser-dependency:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/pos-tagger:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/proposition:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/sentence-acts:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/sentiment:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/synthesis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking  -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/ml-sentiment:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/ner:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/nlp:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/nlu:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/parser-dependency:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/pos-tagger:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/proposition:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/sentence-acts:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/sentiment:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/API/synthesis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/help/faq:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/intro:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/client-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/common-properties:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/document-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/nlp-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/patterns:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/python-sdk:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/sentence-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/subsentence-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=suc to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/help/faq:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/intro:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/client-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/common-properties:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/document-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/nlp-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/patterns:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/python-sdk:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/sentence-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/subsentence-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/texctchunk:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/token-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/coreference:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/dependency-parser:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/lemmatizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/ner:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/nlu:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/pos-tagger:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/sentiment-analysis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/tokenizer:[39m
+[31m   -> linking to /solutions?type=usecess_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/texctchunk:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/python-sdk/token-class:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/coreference:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/dependency-parser:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/lemmatizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/ner:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/nlu:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/pos-tagger:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/sentiment-analysis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tool guides/tokenizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/dependency-parser:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/emotion-analysis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/intent-detection:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/language-recognition:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/lemmatizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/ner:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/pos-tagger:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/sentence-type:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/sentiment-analysis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking t_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/dependency-parser:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/emotion-analysis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/intent-detection:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/language-recognition:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/lemmatizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/ner:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/pos-tagger:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/sentence-type:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/sentiment-analysis:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/tokenizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/Python SDK/vocabulary:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/Python SDK/word-count:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/Python SDK/word-frequency:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m    at reportMessage (/home/vic/lettria/doc-center/node_modules/@docusaurus/utils/lib/index.js:308:19)[39m
+[31m    at handleBrokenLinks (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/server/brokenLinks.js:142:35)[39m
+[31m    at async buildLocale (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/commands/build.js:163:5)[39m
+[31m    at async tryToBuildLocale (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/commands/build.js:35:20)[39m
+[31m    at async mapAsyncSequencial (/home/vic/lettria/doc-center/node_modules/@docusaurus/utils/lib/index.js:263:24)[39m
+[31m    at async build (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/commands/build.js:71:25)[39m
+o /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/API/tokenizer:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/Python SDK/vocabulary:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/Python SDK/word-count:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /docs/Tutorials/Python SDK/word-frequency:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m- On source page path = /:[39m
+[31m   -> linking to /solutions?type=use_case (resolved as: /solutions)[39m
+[31m   -> linking to /solutions?type=success_story (resolved as: /solutions)[39m
+[31m   -> linking to /solutions[39m
+[31m   -> linking to /platform[39m
+[31m   -> linking to /pricing[39m
+[31m   -> linking to /about-us[39m
+[31m   -> linking to /blog[39m
+[31m[39m
+[31m    at reportMessage (/home/vic/lettria/doc-center/node_modules/@docusaurus/utils/lib/index.js:308:19)[39m
+[31m    at handleBrokenLinks (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/server/brokenLinks.js:142:35)[39m
+[31m    at async buildLocale (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/commands/build.js:163:5)[39m
+[31m    at async tryToBuildLocale (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/commands/build.js:35:20)[39m
+[31m    at async mapAsyncSequencial (/home/vic/lettria/doc-center/node_modules/@docusaurus/utils/lib/index.js:263:24)[39m
+[31m    at async build (/home/vic/lettria/doc-center/node_modules/@docusaurus/core/lib/commands/build.js:71:25)[39m
+[2K[2K[1G[1G[31merror[39m Command failed with exit code 1.
+[31merror[39m Command failed with exit code 1.

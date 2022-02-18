@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/detail",
+  "id": "version-2.0/API/detail",
+  "isDocsHomePage": false,
+  "title": "Detail",
+  "description": "The API output is divided into three levels. The third level of return is the Detail level. Within the Detail Object you will find the following return below.",
+  "source": "@site/versioned_docs/version-2.0/API/detail.md",
+  "sourceDirName": "API",
+  "slug": "/API/detail",
+  "permalink": "/documentation/docs/API/detail",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Sentence",
+    "permalink": "/documentation/docs/API/sentence"
+  },
+  "next": {
+    "title": "Tags",
+    "permalink": "/documentation/docs/API/Glossary/tags"
+  }
+}

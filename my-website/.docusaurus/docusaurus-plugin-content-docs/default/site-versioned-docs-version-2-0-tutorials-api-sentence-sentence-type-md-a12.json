@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/sentence/sentence-type",
+  "id": "version-2.0/Tutorials/API/sentence/sentence-type",
+  "isDocsHomePage": false,
+  "title": "Sentence Type",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/API/sentence/sentence-type.md",
+  "sourceDirName": "Tutorials/API/sentence",
+  "slug": "/Tutorials/API/sentence/sentence-type",
+  "permalink": "/documentation/docs/Tutorials/API/sentence/sentence-type",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/Tutorials/API/sentence/ml-emotion"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/documentation/docs/Tutorials/API/sentence/ner"
+  }
+}

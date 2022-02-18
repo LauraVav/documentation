@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/filter-type",
+  "id": "version-2.0/Tutorials/Python SDK/TextChunk/filter-type",
+  "isDocsHomePage": false,
+  "title": "Filter Type",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/TextChunk/filter-type.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/filter-type",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-type",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Filter Emotion",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-emotion"
+  },
+  "next": {
+    "title": "Match Pattern",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/match-pattern"
+  }
+}

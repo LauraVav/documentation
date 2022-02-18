@@ -7,7 +7,7 @@
   "source": "@site/docs/API/entities-numeral.md",
   "sourceDirName": "API",
   "slug": "/API/entities-numeral",
-  "permalink": "/docs/API/entities-numeral",
+  "permalink": "/documentation/docs/next/API/entities-numeral",
   "tags": [],
   "version": "current",
   "sidebarPosition": 8,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Parser Dependency",
-    "permalink": "/docs/API/parser-dependency"
+    "title": "Disturbance",
+    "permalink": "/documentation/docs/next/API/disturbance"
   },
   "next": {
-    "title": "Disturbance",
-    "permalink": "/docs/API/disturbance"
+    "title": "Coreference",
+    "permalink": "/documentation/docs/next/API/coreference"
   }
 }

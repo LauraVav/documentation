@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document",
+  "id": "version-2.0/API/document",
+  "isDocsHomePage": false,
+  "title": "Document",
+  "description": "The API output is divided into three levels. The first level of return is the Document level. Within the Document Object you will find the following return below.",
+  "source": "@site/versioned_docs/version-2.0/API/document.md",
+  "sourceDirName": "API",
+  "slug": "/API/document",
+  "permalink": "/documentation/docs/API/document",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/documentation/docs/API/api"
+  },
+  "next": {
+    "title": "Sentence",
+    "permalink": "/documentation/docs/API/sentence"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/API/Glossary/pos-tagger",
+  "id": "Changelog/versioned_docs/version-6.0.1/API/Glossary/pos-tagger",
+  "isDocsHomePage": false,
+  "title": "POS Tagger",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/API/Glossary/pos-tagger.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/API/Glossary/pos-tagger",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/pos-tagger",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conjugations",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/conjugations"
+  },
+  "next": {
+    "title": "Entities",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/Glossary/entities"
+  }
+}

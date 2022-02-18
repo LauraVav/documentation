@@ -2,16 +2,16 @@
   "pluginId": "default",
   "version": "current",
   "label": "Next",
-  "banner": null,
-  "badge": false,
+  "banner": "unreleased",
+  "badge": true,
   "className": "docs-version-current",
-  "isLast": true,
+  "isLast": false,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
         "label": "Getting started",
-        "href": "/docs/intro"
+        "href": "/documentation/docs/next/intro"
       },
       {
         "type": "category",
@@ -22,52 +22,52 @@
           {
             "type": "link",
             "label": "Python SDK",
-            "href": "/docs/python-sdk/python-sdk"
+            "href": "/documentation/docs/next/python-sdk/python-sdk"
           },
           {
             "type": "link",
             "label": "NLP Class",
-            "href": "/docs/python-sdk/nlp-class"
+            "href": "/documentation/docs/next/python-sdk/nlp-class"
           },
           {
             "type": "link",
             "label": "TextChunk",
-            "href": "/docs/python-sdk/texctchunk"
+            "href": "/documentation/docs/next/python-sdk/texctchunk"
           },
           {
             "type": "link",
             "label": "Document Class",
-            "href": "/docs/python-sdk/document-class"
+            "href": "/documentation/docs/next/python-sdk/document-class"
           },
           {
             "type": "link",
             "label": "Sentence Class",
-            "href": "/docs/python-sdk/sentence-class"
+            "href": "/documentation/docs/next/python-sdk/sentence-class"
           },
           {
             "type": "link",
             "label": "Subsentence Class",
-            "href": "/docs/python-sdk/subsentence-class"
+            "href": "/documentation/docs/next/python-sdk/subsentence-class"
           },
           {
             "type": "link",
             "label": "Token Class",
-            "href": "/docs/python-sdk/token-class"
+            "href": "/documentation/docs/next/python-sdk/token-class"
           },
           {
             "type": "link",
             "label": "Common Properties",
-            "href": "/docs/python-sdk/common-properties"
+            "href": "/documentation/docs/next/python-sdk/common-properties"
           },
           {
             "type": "link",
             "label": "Client Class",
-            "href": "/docs/python-sdk/client-class"
+            "href": "/documentation/docs/next/python-sdk/client-class"
           },
           {
             "type": "link",
             "label": "Patterns",
-            "href": "/docs/python-sdk/patterns"
+            "href": "/documentation/docs/next/python-sdk/patterns"
           }
         ]
       },
@@ -79,88 +79,23 @@
         "items": [
           {
             "type": "link",
-            "label": "Lettria Sentence Object",
-            "href": "/docs/API/lettria-sentence-object"
+            "label": "API",
+            "href": "/documentation/docs/next/API/api"
           },
           {
             "type": "link",
-            "label": "Synthesis",
-            "href": "/docs/API/synthesis"
+            "label": "Document",
+            "href": "/documentation/docs/next/API/document"
           },
           {
             "type": "link",
-            "label": "NLC",
-            "href": "/docs/API/nlc-new"
+            "label": "Sentence",
+            "href": "/documentation/docs/next/API/sentence"
           },
           {
             "type": "link",
-            "label": "Lemmatizer",
-            "href": "/docs/API/lemmitizer"
-          },
-          {
-            "type": "link",
-            "label": "POS Tagger",
-            "href": "/docs/API/pos-tagger"
-          },
-          {
-            "type": "link",
-            "label": "Emoticons",
-            "href": "/docs/API/emoticons"
-          },
-          {
-            "type": "link",
-            "label": "Parser Dependency",
-            "href": "/docs/API/parser-dependency"
-          },
-          {
-            "type": "link",
-            "label": "Entities Numeral",
-            "href": "/docs/API/entities-numeral"
-          },
-          {
-            "type": "link",
-            "label": "Disturbance",
-            "href": "/docs/API/disturbance"
-          },
-          {
-            "type": "link",
-            "label": "Coreference",
-            "href": "/docs/API/coreference"
-          },
-          {
-            "type": "link",
-            "label": "Language Used",
-            "href": "/docs/API/language-used"
-          },
-          {
-            "type": "link",
-            "label": "Sentence Type",
-            "href": "/docs/API/sentence-type"
-          },
-          {
-            "type": "link",
-            "label": "Emotions",
-            "href": "/docs/API/emotions"
-          },
-          {
-            "type": "link",
-            "label": "Sentiment",
-            "href": "/docs/API/sentiment"
-          },
-          {
-            "type": "link",
-            "label": "ML Emotion",
-            "href": "/docs/API/ml-emotion"
-          },
-          {
-            "type": "link",
-            "label": "ML Sentiment",
-            "href": "/docs/API/ml-sentiment"
-          },
-          {
-            "type": "link",
-            "label": "Proposition",
-            "href": "/docs/API/proposition"
+            "label": "Detail",
+            "href": "/documentation/docs/next/API/detail"
           },
           {
             "type": "category",
@@ -171,37 +106,37 @@
               {
                 "type": "link",
                 "label": "Tags",
-                "href": "/docs/API/Glossary/tags"
+                "href": "/documentation/docs/next/API/Glossary/tags"
               },
               {
                 "type": "link",
                 "label": "Dependency Tags",
-                "href": "/docs/API/Glossary/dependency-tags"
+                "href": "/documentation/docs/next/API/Glossary/dependency-tags"
               },
               {
                 "type": "link",
                 "label": "Possessive Determiners",
-                "href": "/docs/API/Glossary/possessive-determiners"
+                "href": "/documentation/docs/next/API/Glossary/possessive-determiners"
               },
               {
                 "type": "link",
                 "label": "Pronouns",
-                "href": "/docs/API/Glossary/pronouns"
+                "href": "/documentation/docs/next/API/Glossary/pronouns"
               },
               {
                 "type": "link",
                 "label": "Conjugations",
-                "href": "/docs/API/Glossary/conjugations"
+                "href": "/documentation/docs/next/API/Glossary/conjugations"
               },
               {
                 "type": "link",
                 "label": "Entities",
-                "href": "/docs/API/Glossary/entities"
+                "href": "/documentation/docs/next/API/Glossary/entities"
               },
               {
                 "type": "link",
                 "label": "Categories",
-                "href": "/docs/API/Glossary/categories"
+                "href": "/documentation/docs/next/API/Glossary/categories"
               }
             ]
           }
@@ -216,42 +151,42 @@
           {
             "type": "link",
             "label": "Tokenizer",
-            "href": "/docs/Tool guides/tokenizer"
-          },
-          {
-            "type": "link",
-            "label": "POS Tagger",
-            "href": "/docs/Tool guides/pos-tagger"
+            "href": "/documentation/docs/next/Tool guides/tokenizer"
           },
           {
             "type": "link",
             "label": "Lemmatizer",
-            "href": "/docs/Tool guides/lemmatizer"
-          },
-          {
-            "type": "link",
-            "label": "Dependency Parser",
-            "href": "/docs/Tool guides/dependency-parser"
-          },
-          {
-            "type": "link",
-            "label": "NLU",
-            "href": "/docs/Tool guides/nlu"
-          },
-          {
-            "type": "link",
-            "label": "NER",
-            "href": "/docs/Tool guides/ner"
+            "href": "/documentation/docs/next/Tool guides/lemmatizer"
           },
           {
             "type": "link",
             "label": "Sentiment Analysis",
-            "href": "/docs/Tool guides/sentiment-analysis"
+            "href": "/documentation/docs/next/Tool guides/sentiment-analysis"
+          },
+          {
+            "type": "link",
+            "label": "NER",
+            "href": "/documentation/docs/next/Tool guides/ner"
+          },
+          {
+            "type": "link",
+            "label": "POS Tagger",
+            "href": "/documentation/docs/next/Tool guides/pos-tagger"
+          },
+          {
+            "type": "link",
+            "label": "Dependency Parser",
+            "href": "/documentation/docs/next/Tool guides/dependency-parser"
           },
           {
             "type": "link",
             "label": "Coreference",
-            "href": "/docs/Tool guides/coreference"
+            "href": "/documentation/docs/next/Tool guides/coreference"
+          },
+          {
+            "type": "link",
+            "label": "NLU",
+            "href": "/documentation/docs/next/Tool guides/nlu"
           }
         ]
       },
@@ -268,54 +203,93 @@
             "collapsed": true,
             "items": [
               {
-                "type": "link",
-                "label": "POS Tagger",
-                "href": "/docs/Tutorials/API/pos-tagger"
+                "type": "category",
+                "label": "Document",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Language Recognition",
+                    "href": "/documentation/docs/next/Tutorials/API/document/language-recognition"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Synthesis",
+                    "href": "/documentation/docs/next/Tutorials/API/document/synthesis"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Tokenizer",
+                    "href": "/documentation/docs/next/Tutorials/API/document/tokenizer"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Emotion Analysis",
+                    "href": "/documentation/docs/next/Tutorials/API/document/emotion-analysis"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Sentiment Analysis",
+                    "href": "/documentation/docs/next/Tutorials/API/document/sentiment-analysis"
+                  }
+                ]
               },
               {
-                "type": "link",
-                "label": "Lemmatizer",
-                "href": "/docs/Tutorials/API/lemmatizer"
+                "type": "category",
+                "label": "Sentence",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "ML Sentiment",
+                    "href": "/documentation/docs/next/Tutorials/API/sentence/ml-sentiment"
+                  },
+                  {
+                    "type": "link",
+                    "label": "ML Emotion",
+                    "href": "/documentation/docs/next/Tutorials/API/sentence/ml-emotion"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Sentence Type",
+                    "href": "/documentation/docs/next/Tutorials/API/sentence/sentence-type"
+                  },
+                  {
+                    "type": "link",
+                    "label": "NER",
+                    "href": "/documentation/docs/next/Tutorials/API/sentence/ner"
+                  }
+                ]
               },
               {
-                "type": "link",
-                "label": "Sentence Type",
-                "href": "/docs/Tutorials/API/sentence-type"
-              },
-              {
-                "type": "link",
-                "label": "Language Recognition",
-                "href": "/docs/Tutorials/API/language-recognition"
-              },
-              {
-                "type": "link",
-                "label": "Tokenizer",
-                "href": "/docs/Tutorials/API/tokenizer"
-              },
-              {
-                "type": "link",
-                "label": "Dependency Parser",
-                "href": "/docs/Tutorials/API/dependency-parser"
-              },
-              {
-                "type": "link",
-                "label": "Emotion Analysis",
-                "href": "/docs/Tutorials/API/emotion-analysis"
-              },
-              {
-                "type": "link",
-                "label": "Sentiment Analysis",
-                "href": "/docs/Tutorials/API/sentiment-analysis"
-              },
-              {
-                "type": "link",
-                "label": "Intent Detection",
-                "href": "/docs/Tutorials/API/intent-detection"
-              },
-              {
-                "type": "link",
-                "label": "NER",
-                "href": "/docs/Tutorials/API/ner"
+                "type": "category",
+                "label": "Detail",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "POS Tagger",
+                    "href": "/documentation/docs/next/Tutorials/API/detail/pos-tagger"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Lemmatizer",
+                    "href": "/documentation/docs/next/Tutorials/API/detail/lemmatizer"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Intent Detection",
+                    "href": "/documentation/docs/next/Tutorials/API/detail/intent-detection"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Dependency Parser",
+                    "href": "/documentation/docs/next/Tutorials/API/detail/dependency-parser"
+                  }
+                ]
               }
             ]
           },
@@ -326,89 +300,120 @@
             "collapsed": true,
             "items": [
               {
-                "type": "link",
-                "label": "Vocabulary",
-                "href": "/docs/Tutorials/Python SDK/vocabulary"
-              },
-              {
-                "type": "link",
-                "label": "Word Count",
-                "href": "/docs/Tutorials/Python SDK/word-count"
-              },
-              {
-                "type": "link",
-                "label": "Word Frequency",
-                "href": "/docs/Tutorials/Python SDK/word-frequency"
-              },
-              {
-                "type": "link",
-                "label": "List Entities",
-                "href": "/docs/Tutorials/Python SDK/list-entities"
-              },
-              {
-                "type": "link",
-                "label": "Get Sentiment",
-                "href": "/docs/Tutorials/Python SDK/get-sentiment-CS"
-              },
-              {
-                "type": "link",
-                "label": "Get Emotion",
-                "href": "/docs/Tutorials/Python SDK/get-emotion"
-              },
-              {
-                "type": "link",
-                "label": "Word Emotion",
-                "href": "/docs/Tutorials/Python SDK/word-emotion"
-              },
-              {
-                "type": "link",
-                "label": "Word Sentiment",
-                "href": "/docs/Tutorials/Python SDK/word-sentiment"
-              },
-              {
-                "type": "link",
-                "label": "Meaning Sentiment",
-                "href": "/docs/Tutorials/Python SDK/meaning-sentiment"
-              },
-              {
-                "type": "link",
-                "label": "Meaning Emotion",
-                "href": "/docs/Tutorials/Python SDK/meaning-emotion"
-              },
-              {
-                "type": "link",
-                "label": "Filter Emotion",
-                "href": "/docs/Tutorials/Python SDK/filter-emotion"
-              },
-              {
-                "type": "link",
-                "label": "Filter Polarity",
-                "href": "/docs/Tutorials/Python SDK/filter-polarity"
-              },
-              {
-                "type": "link",
-                "label": "Filter Type",
-                "href": "/docs/Tutorials/Python SDK/filter-type"
+                "type": "category",
+                "label": "TextChunk",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Vocabulary",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Word Count",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-count"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Word Frequency",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-frequency"
+                  },
+                  {
+                    "type": "link",
+                    "label": "List Entities",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/list-entities"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Get Emotion",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/get-emotion"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Get Sentiment",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/get-sentiment-CS"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Word Sentiment",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-sentiment"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Word Emotion",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-emotion"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Meaning Sentiment",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/meaning-sentiment"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Meaning Emotion",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/meaning-emotion"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Filter Polarity",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/filter-polarity"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Filter Emotion",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/filter-emotion"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Filter Type",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/filter-type"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Match Pattern",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/match-pattern"
+                  }
+                ]
               },
               {
                 "type": "link",
                 "label": "Document Class",
-                "href": "/docs/Tutorials/Python SDK/document-class"
+                "href": "/documentation/docs/next/Tutorials/Python SDK/document-class-tutorial"
               },
               {
                 "type": "link",
                 "label": "Sentence Class",
-                "href": "/docs/Tutorials/Python SDK/sentence-class"
+                "href": "/documentation/docs/next/Tutorials/Python SDK/sentence-class-tutorial"
               },
               {
                 "type": "link",
                 "label": "Subsentence Class",
-                "href": "/docs/Tutorials/Python SDK/subsentence-class"
+                "href": "/documentation/docs/next/Tutorials/Python SDK/subsentence-class-tutorial"
               },
               {
                 "type": "link",
                 "label": "Common Properties",
-                "href": "/docs/Tutorials/Python SDK/common-properties-CS"
+                "href": "/documentation/docs/next/Tutorials/Python SDK/common-properties"
+              },
+              {
+                "type": "category",
+                "label": "Patterns",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Token Pattern",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/Patterns/token-pattern"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Dependency Pattern",
+                    "href": "/documentation/docs/next/Tutorials/Python SDK/Patterns/dependency-pattern"
+                  }
+                ]
               }
             ]
           }
@@ -423,7 +428,7 @@
           {
             "type": "link",
             "label": "FAQs",
-            "href": "/docs/help/faq"
+            "href": "/documentation/docs/next/help/faq"
           }
         ]
       }

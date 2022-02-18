@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/emotions",
+  "id": "version-6.0.1/API/emotions",
+  "isDocsHomePage": false,
+  "title": "Emotions",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-6.0.1/API/emotions.md",
+  "sourceDirName": "API",
+  "slug": "/API/emotions",
+  "permalink": "/documentation/docs/API/emotions",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Coreference",
+    "permalink": "/documentation/docs/API/coreference"
+  },
+  "next": {
+    "title": "Lettria Sentence Object",
+    "permalink": "/documentation/docs/API/Glossary/lettria-sentence-object"
+  }
+}

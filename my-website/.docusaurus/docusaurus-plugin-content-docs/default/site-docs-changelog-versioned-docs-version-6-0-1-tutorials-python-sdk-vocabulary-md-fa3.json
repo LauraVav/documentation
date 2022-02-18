@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/vocabulary",
+  "id": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/vocabulary",
+  "isDocsHomePage": false,
+  "title": "Vocabulary",
+  "description": "Video",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/vocabulary.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/vocabulary",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/vocabulary",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "NER",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/API/ner"
+  },
+  "next": {
+    "title": "Word Count",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-count"
+  }
+}

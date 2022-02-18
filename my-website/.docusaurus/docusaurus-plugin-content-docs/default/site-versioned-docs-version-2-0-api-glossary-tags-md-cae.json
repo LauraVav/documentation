@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/tags",
+  "id": "version-2.0/API/Glossary/tags",
+  "isDocsHomePage": false,
+  "title": "Tags",
+  "description": "Here's a list of possible word tags. Used in the POS Tagger and Parser Dependency.",
+  "source": "@site/versioned_docs/version-2.0/API/Glossary/tags.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/tags",
+  "permalink": "/documentation/docs/API/Glossary/tags",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Detail",
+    "permalink": "/documentation/docs/API/detail"
+  },
+  "next": {
+    "title": "Dependency Tags",
+    "permalink": "/documentation/docs/API/Glossary/dependency-tags"
+  }
+}

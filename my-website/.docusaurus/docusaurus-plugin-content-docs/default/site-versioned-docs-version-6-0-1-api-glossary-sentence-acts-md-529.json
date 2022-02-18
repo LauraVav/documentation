@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/sentence-acts",
+  "id": "version-6.0.1/API/Glossary/sentence-acts",
+  "isDocsHomePage": false,
+  "title": "Sentence Acts",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-6.0.1/API/Glossary/sentence-acts.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/sentence-acts",
+  "permalink": "/documentation/docs/API/Glossary/sentence-acts",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Parser Dependency",
+    "permalink": "/documentation/docs/API/Glossary/parser-dependency"
+  },
+  "next": {
+    "title": "Sentiment",
+    "permalink": "/documentation/docs/API/Glossary/sentiment"
+  }
+}

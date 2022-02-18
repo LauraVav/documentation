@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/sentence/ner",
+  "id": "version-2.0/Tutorials/API/sentence/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/API/sentence/ner.md",
+  "sourceDirName": "Tutorials/API/sentence",
+  "slug": "/Tutorials/API/sentence/ner",
+  "permalink": "/documentation/docs/Tutorials/API/sentence/ner",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Sentence Type",
+    "permalink": "/documentation/docs/Tutorials/API/sentence/sentence-type"
+  },
+  "next": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/Tutorials/API/detail/pos-tagger"
+  }
+}

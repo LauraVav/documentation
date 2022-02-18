@@ -1,0 +1,23 @@
+{
+  "unversionedId": "API/request-authentication",
+  "id": "API/request-authentication",
+  "isDocsHomePage": false,
+  "title": "request-authentication",
+  "description": "{",
+  "source": "@site/docs/API/request-authentication.md",
+  "sourceDirName": "API",
+  "slug": "/API/request-authentication",
+  "permalink": "/documentation/docs/next/API/request-authentication",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Proposition",
+    "permalink": "/documentation/docs/next/API/Glossary/proposition"
+  },
+  "next": {
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/next/Tool guides/tokenizer"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/meaning-emotion",
+  "id": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/meaning-emotion",
+  "isDocsHomePage": false,
+  "title": "Meaning Emotion",
+  "description": "Video",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/meaning-emotion.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/meaning-emotion",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/meaning-emotion",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meaning Sentiment",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/meaning-sentiment"
+  },
+  "next": {
+    "title": "Filter Emotion",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-emotion"
+  }
+}

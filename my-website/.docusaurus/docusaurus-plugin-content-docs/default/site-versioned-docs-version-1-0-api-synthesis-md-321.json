@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/synthesis",
+  "id": "version-1.0/API/synthesis",
+  "isDocsHomePage": false,
+  "title": "Synthesis",
+  "description": "Compiles all the most relevant information for each token.",
+  "source": "@site/versioned_docs/version-1.0/API/synthesis.md",
+  "sourceDirName": "API",
+  "slug": "/API/synthesis",
+  "permalink": "/documentation/docs/1.0/API/synthesis",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Lettria Sentence Object",
+    "permalink": "/documentation/docs/1.0/API/lettria-sentence-object"
+  },
+  "next": {
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/1.0/API/lemmitizer"
+  }
+}

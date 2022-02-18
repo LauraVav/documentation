@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/common-properties",
+  "id": "version-1.0/python-sdk/common-properties",
+  "isDocsHomePage": false,
+  "title": "Common Properties",
+  "description": "These properties are accessible at all analysis levels : NLP, Document, Sentence, Subsentence, Token.",
+  "source": "@site/versioned_docs/version-1.0/python-sdk/common-properties.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/common-properties",
+  "permalink": "/documentation/docs/1.0/python-sdk/common-properties",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Token Class",
+    "permalink": "/documentation/docs/1.0/python-sdk/token-class"
+  },
+  "next": {
+    "title": "Client Class",
+    "permalink": "/documentation/docs/1.0/python-sdk/client-class"
+  }
+}

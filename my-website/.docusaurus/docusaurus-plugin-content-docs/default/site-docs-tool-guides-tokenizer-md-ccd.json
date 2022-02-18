@@ -7,7 +7,7 @@
   "source": "@site/docs/Tool guides/tokenizer.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/tokenizer",
-  "permalink": "/docs/Tool guides/tokenizer",
+  "permalink": "/documentation/docs/next/Tool guides/tokenizer",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Categories",
-    "permalink": "/docs/API/Glossary/categories"
+    "permalink": "/documentation/docs/next/API/Glossary/categories"
   },
   "next": {
-    "title": "POS Tagger",
-    "permalink": "/docs/Tool guides/pos-tagger"
+    "title": "Lemmatizer",
+    "permalink": "/documentation/docs/next/Tool guides/lemmatizer"
   }
 }

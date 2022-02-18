@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/filter-polarity",
+  "id": "version-2.0/Tutorials/Python SDK/TextChunk/filter-polarity",
+  "isDocsHomePage": false,
+  "title": "Filter Polarity",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/Python SDK/TextChunk/filter-polarity.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/filter-polarity",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-polarity",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Meaning Emotion",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/meaning-emotion"
+  },
+  "next": {
+    "title": "Filter Emotion",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/TextChunk/filter-emotion"
+  }
+}

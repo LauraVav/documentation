@@ -7,7 +7,7 @@
   "source": "@site/docs/python-sdk/document-class.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/document-class",
-  "permalink": "/docs/python-sdk/document-class",
+  "permalink": "/documentation/docs/next/python-sdk/document-class",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "TextChunk",
-    "permalink": "/docs/python-sdk/texctchunk"
+    "permalink": "/documentation/docs/next/python-sdk/texctchunk"
   },
   "next": {
     "title": "Sentence Class",
-    "permalink": "/docs/python-sdk/sentence-class"
+    "permalink": "/documentation/docs/next/python-sdk/sentence-class"
   }
 }

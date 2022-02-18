@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/detail/dependency-parser",
+  "id": "Tutorials/API/detail/dependency-parser",
+  "isDocsHomePage": false,
+  "title": "Dependency Parser",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/API/detail/dependency-parser.md",
+  "sourceDirName": "Tutorials/API/detail",
+  "slug": "/Tutorials/API/detail/dependency-parser",
+  "permalink": "/documentation/docs/next/Tutorials/API/detail/dependency-parser",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intent Detection",
+    "permalink": "/documentation/docs/next/Tutorials/API/detail/intent-detection"
+  },
+  "next": {
+    "title": "Vocabulary",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary"
+  }
+}

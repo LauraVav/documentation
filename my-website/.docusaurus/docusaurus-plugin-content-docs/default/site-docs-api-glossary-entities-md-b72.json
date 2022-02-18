@@ -7,7 +7,7 @@
   "source": "@site/docs/API/Glossary/entities.md",
   "sourceDirName": "API/Glossary",
   "slug": "/API/Glossary/entities",
-  "permalink": "/docs/API/Glossary/entities",
+  "permalink": "/documentation/docs/next/API/Glossary/entities",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Conjugations",
-    "permalink": "/docs/API/Glossary/conjugations"
+    "permalink": "/documentation/docs/next/API/Glossary/conjugations"
   },
   "next": {
     "title": "Categories",
-    "permalink": "/docs/API/Glossary/categories"
+    "permalink": "/documentation/docs/next/API/Glossary/categories"
   }
 }

@@ -7,20 +7,20 @@
   "source": "@site/docs/Tool guides/pos-tagger.md",
   "sourceDirName": "Tool guides",
   "slug": "/Tool guides/pos-tagger",
-  "permalink": "/docs/Tool guides/pos-tagger",
+  "permalink": "/documentation/docs/next/Tool guides/pos-tagger",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 6
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tokenizer",
-    "permalink": "/docs/Tool guides/tokenizer"
+    "title": "NER",
+    "permalink": "/documentation/docs/next/Tool guides/ner"
   },
   "next": {
-    "title": "Lemmatizer",
-    "permalink": "/docs/Tool guides/lemmatizer"
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/Tool guides/dependency-parser"
   }
 }

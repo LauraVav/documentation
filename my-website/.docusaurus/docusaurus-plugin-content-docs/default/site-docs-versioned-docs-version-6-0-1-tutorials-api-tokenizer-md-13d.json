@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/Tutorials/API/tokenizer",
+  "id": "versioned_docs/version-6.0.1/Tutorials/API/tokenizer",
+  "isDocsHomePage": false,
+  "title": "Tokenizer",
+  "description": "Video",
+  "source": "@site/docs/versioned_docs/version-6.0.1/Tutorials/API/tokenizer.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/Tutorials/API",
+  "slug": "/versioned_docs/version-6.0.1/Tutorials/API/tokenizer",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tutorials/API/tokenizer",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Recognition",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tutorials/API/language-recognition"
+  },
+  "next": {
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tutorials/API/dependency-parser"
+  }
+}

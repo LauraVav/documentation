@@ -7,7 +7,7 @@
   "source": "@site/docs/API/Glossary/possessive-determiners.md",
   "sourceDirName": "API/Glossary",
   "slug": "/API/Glossary/possessive-determiners",
-  "permalink": "/docs/API/Glossary/possessive-determiners",
+  "permalink": "/documentation/docs/next/API/Glossary/possessive-determiners",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Dependency Tags",
-    "permalink": "/docs/API/Glossary/dependency-tags"
+    "permalink": "/documentation/docs/next/API/Glossary/dependency-tags"
   },
   "next": {
     "title": "Pronouns",
-    "permalink": "/docs/API/Glossary/pronouns"
+    "permalink": "/documentation/docs/next/API/Glossary/pronouns"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/API/coreference",
+  "id": "Changelog/versioned_docs/version-6.0.1/API/coreference",
+  "isDocsHomePage": false,
+  "title": "Coreference",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/API/coreference.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/API",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/API/coreference",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/coreference",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Entities Numeral",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/entities-numeral"
+  },
+  "next": {
+    "title": "Emotions",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/API/emotions"
+  }
+}

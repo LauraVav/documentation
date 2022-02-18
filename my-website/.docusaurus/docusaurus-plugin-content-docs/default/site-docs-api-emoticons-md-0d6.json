@@ -7,20 +7,20 @@
   "source": "@site/docs/API/emoticons.md",
   "sourceDirName": "API",
   "slug": "/API/emoticons",
-  "permalink": "/docs/API/emoticons",
+  "permalink": "/documentation/docs/next/API/emoticons",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "POS Tagger",
-    "permalink": "/docs/API/pos-tagger"
+    "title": "Patterns",
+    "permalink": "/documentation/docs/next/python-sdk/patterns"
   },
   "next": {
-    "title": "Parser Dependency",
-    "permalink": "/docs/API/parser-dependency"
+    "title": "Disturbance",
+    "permalink": "/documentation/docs/next/API/disturbance"
   }
 }

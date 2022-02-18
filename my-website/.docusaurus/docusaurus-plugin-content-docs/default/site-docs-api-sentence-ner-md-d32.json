@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentence/ner",
+  "id": "API/sentence/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "The NER sub-api lists all the Numeral Entities and Named Entities found in the sentence.",
+  "source": "@site/docs/API/sentence/ner.md",
+  "sourceDirName": "API/sentence",
+  "slug": "/API/sentence/ner",
+  "permalink": "/documentation/docs/next/API/sentence/ner",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/next/API/sentence/ml-emotion"
+  },
+  "next": {
+    "title": "Sentence Type",
+    "permalink": "/documentation/docs/next/API/sentence/sentence-type"
+  }
+}

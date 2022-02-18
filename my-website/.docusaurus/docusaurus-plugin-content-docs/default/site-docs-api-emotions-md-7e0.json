@@ -7,20 +7,20 @@
   "source": "@site/docs/API/emotions.md",
   "sourceDirName": "API",
   "slug": "/API/emotions",
-  "permalink": "/docs/API/emotions",
+  "permalink": "/documentation/docs/next/API/emotions",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 13,
+  "sidebarPosition": 12,
   "frontMatter": {
-    "sidebar_position": 13
+    "sidebar_position": 12
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sentence Type",
-    "permalink": "/docs/API/sentence-type"
+    "title": "Coreference",
+    "permalink": "/documentation/docs/next/API/coreference"
   },
   "next": {
-    "title": "Sentiment",
-    "permalink": "/docs/API/sentiment"
+    "title": "Lettria Sentence Object",
+    "permalink": "/documentation/docs/next/API/Glossary/lettria-sentence-object"
   }
 }

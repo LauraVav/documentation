@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/API/language-recognition.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/language-recognition",
-  "permalink": "/docs/Tutorials/API/language-recognition",
+  "permalink": "/documentation/docs/next/Tutorials/API/language-recognition",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Sentence Type",
-    "permalink": "/docs/Tutorials/API/sentence-type"
+    "permalink": "/documentation/docs/next/Tutorials/API/sentence-type"
   },
   "next": {
     "title": "Tokenizer",
-    "permalink": "/docs/Tutorials/API/tokenizer"
+    "permalink": "/documentation/docs/next/Tutorials/API/document/tokenizer"
   }
 }

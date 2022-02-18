@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/python-sdk/python-sdk",
+  "id": "versioned_docs/version-6.0.1/python-sdk/python-sdk",
+  "isDocsHomePage": false,
+  "title": "Python SDK",
+  "description": "Requests & Authentication",
+  "source": "@site/docs/versioned_docs/version-6.0.1/python-sdk/python-sdk.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/python-sdk",
+  "slug": "/versioned_docs/version-6.0.1/python-sdk/python-sdk",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/python-sdk/python-sdk",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/intro"
+  },
+  "next": {
+    "title": "NLP Class",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/python-sdk/nlp-class"
+  }
+}

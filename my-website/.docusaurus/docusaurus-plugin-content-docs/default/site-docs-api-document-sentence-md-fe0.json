@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/sentence",
+  "id": "API/document/sentence",
+  "isDocsHomePage": false,
+  "title": "Sentence",
+  "description": "In this object, each key corresponds to the returned object from a sub-API.",
+  "source": "@site/docs/API/document/sentence.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/sentence",
+  "permalink": "/documentation/docs/next/API/document/sentence",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentiment",
+    "permalink": "/documentation/docs/next/API/document/sentiment"
+  },
+  "next": {
+    "title": "Sentence",
+    "permalink": "/documentation/docs/next/API/sentence/sentence"
+  }
+}

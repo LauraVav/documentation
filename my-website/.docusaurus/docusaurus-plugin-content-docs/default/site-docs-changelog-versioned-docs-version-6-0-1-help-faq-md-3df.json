@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/help/faq",
+  "id": "Changelog/versioned_docs/version-6.0.1/help/faq",
+  "isDocsHomePage": false,
+  "title": "FAQs",
+  "description": "---",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/help/faq.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/help",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/help/faq",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/help/faq",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Filter Polarity",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity"
+  }
+}

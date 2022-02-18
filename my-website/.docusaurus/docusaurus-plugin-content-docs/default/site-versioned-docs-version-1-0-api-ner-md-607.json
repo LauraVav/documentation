@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/ner",
+  "id": "version-1.0/API/ner",
+  "isDocsHomePage": false,
+  "title": "NER",
+  "description": "The NER sub-api lists all the Numeral Entities and Named Entities found in the sentence.",
+  "source": "@site/versioned_docs/version-1.0/API/ner.md",
+  "sourceDirName": "API",
+  "slug": "/API/ner",
+  "permalink": "/documentation/docs/1.0/API/ner",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Entities Numeral",
+    "permalink": "/documentation/docs/1.0/API/entities-numeral"
+  },
+  "next": {
+    "title": "Language Used",
+    "permalink": "/documentation/docs/1.0/API/language-used"
+  }
+}

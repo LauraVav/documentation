@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/categories",
+  "id": "version-1.0/API/Glossary/categories",
+  "isDocsHomePage": false,
+  "title": "Categories",
+  "description": "List of all categories that can be found in Category Objects. Categories are organised by super-categories, each containing a number of sub-categories.",
+  "source": "@site/versioned_docs/version-1.0/API/Glossary/categories.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/categories",
+  "permalink": "/documentation/docs/1.0/API/Glossary/categories",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Entities",
+    "permalink": "/documentation/docs/1.0/API/Glossary/entities"
+  },
+  "next": {
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/1.0/Tool guides/tokenizer"
+  }
+}

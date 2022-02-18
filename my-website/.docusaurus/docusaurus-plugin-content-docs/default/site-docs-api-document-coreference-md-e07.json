@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/coreference",
+  "id": "API/document/coreference",
+  "isDocsHomePage": false,
+  "title": "Coreference",
+  "description": "Go back to the Document Object.",
+  "source": "@site/docs/API/document/coreference.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/coreference",
+  "permalink": "/documentation/docs/next/API/document/coreference",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Document",
+    "permalink": "/documentation/docs/next/API/document/document"
+  },
+  "next": {
+    "title": "Language Used",
+    "permalink": "/documentation/docs/next/API/document/language-used"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/nlp-class",
+  "id": "version-6.0.1/python-sdk/nlp-class",
+  "isDocsHomePage": false,
+  "title": "NLP Class",
+  "description": "What's the NLP class?",
+  "source": "@site/versioned_docs/version-6.0.1/python-sdk/nlp-class.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/nlp-class",
+  "permalink": "/documentation/docs/python-sdk/nlp-class",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Python SDK",
+    "permalink": "/documentation/docs/python-sdk/python-sdk"
+  },
+  "next": {
+    "title": "TextChunk",
+    "permalink": "/documentation/docs/python-sdk/texctchunk"
+  }
+}

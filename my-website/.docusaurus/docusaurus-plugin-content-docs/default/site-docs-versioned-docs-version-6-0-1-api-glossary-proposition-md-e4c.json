@@ -1,0 +1,26 @@
+{
+  "unversionedId": "versioned_docs/version-6.0.1/API/Glossary/proposition",
+  "id": "versioned_docs/version-6.0.1/API/Glossary/proposition",
+  "isDocsHomePage": false,
+  "title": "Proposition",
+  "description": "Subsentence Object",
+  "source": "@site/docs/versioned_docs/version-6.0.1/API/Glossary/proposition.md",
+  "sourceDirName": "versioned_docs/version-6.0.1/API/Glossary",
+  "slug": "/versioned_docs/version-6.0.1/API/Glossary/proposition",
+  "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/proposition",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Sentiment",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/API/Glossary/ml-sentiment"
+  },
+  "next": {
+    "title": "Tokenizer",
+    "permalink": "/documentation/docs/next/versioned_docs/version-6.0.1/Tool guides/tokenizer"
+  }
+}

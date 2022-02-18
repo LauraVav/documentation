@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/word-sentiment",
+  "id": "version-6.0.1/Tutorials/Python SDK/word-sentiment",
+  "isDocsHomePage": false,
+  "title": "Word Sentiment",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-sentiment.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/word-sentiment",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/word-sentiment",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Word Emotion",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/word-emotion"
+  },
+  "next": {
+    "title": "Meaning Sentiment",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/meaning-sentiment"
+  }
+}

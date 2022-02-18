@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/word-frequency",
+  "id": "version-6.0.1/Tutorials/Python SDK/word-frequency",
+  "isDocsHomePage": false,
+  "title": "Word Frequency",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-6.0.1/Tutorials/Python SDK/word-frequency.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/word-frequency",
+  "permalink": "/documentation/docs/Tutorials/Python SDK/word-frequency",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Word Count",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/word-count"
+  },
+  "next": {
+    "title": "List Entities",
+    "permalink": "/documentation/docs/Tutorials/Python SDK/list-entities"
+  }
+}

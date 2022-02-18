@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/entities-numeral",
+  "id": "version-1.0/API/entities-numeral",
+  "isDocsHomePage": false,
+  "title": "Entities Numeral",
+  "description": "Numeral Entity Object",
+  "source": "@site/versioned_docs/version-1.0/API/entities-numeral.md",
+  "sourceDirName": "API",
+  "slug": "/API/entities-numeral",
+  "permalink": "/documentation/docs/1.0/API/entities-numeral",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "NLU",
+    "permalink": "/documentation/docs/1.0/API/nlu"
+  },
+  "next": {
+    "title": "NER",
+    "permalink": "/documentation/docs/1.0/API/ner"
+  }
+}

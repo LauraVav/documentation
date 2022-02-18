@@ -7,7 +7,7 @@
   "source": "@site/docs/API/Glossary/conjugations.md",
   "sourceDirName": "API/Glossary",
   "slug": "/API/Glossary/conjugations",
-  "permalink": "/docs/API/Glossary/conjugations",
+  "permalink": "/documentation/docs/next/API/Glossary/conjugations",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Pronouns",
-    "permalink": "/docs/API/Glossary/pronouns"
+    "permalink": "/documentation/docs/next/API/Glossary/pronouns"
   },
   "next": {
     "title": "Entities",
-    "permalink": "/docs/API/Glossary/entities"
+    "permalink": "/documentation/docs/next/API/Glossary/entities"
   }
 }

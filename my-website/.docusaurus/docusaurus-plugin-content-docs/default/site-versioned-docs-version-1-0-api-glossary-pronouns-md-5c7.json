@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/pronouns",
+  "id": "version-1.0/API/Glossary/pronouns",
+  "isDocsHomePage": false,
+  "title": "Pronouns",
+  "description": "| VALUE \t| EXAMPLES    \t|",
+  "source": "@site/versioned_docs/version-1.0/API/Glossary/pronouns.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/pronouns",
+  "permalink": "/documentation/docs/1.0/API/Glossary/pronouns",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Possessive Determiners",
+    "permalink": "/documentation/docs/1.0/API/Glossary/possessive-determiners"
+  },
+  "next": {
+    "title": "Conjugations",
+    "permalink": "/documentation/docs/1.0/API/Glossary/conjugations"
+  }
+}

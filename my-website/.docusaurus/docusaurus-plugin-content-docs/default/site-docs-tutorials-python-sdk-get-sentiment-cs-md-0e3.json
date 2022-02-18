@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/get-sentiment-CS.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/get-sentiment-CS",
-  "permalink": "/docs/Tutorials/Python SDK/get-sentiment-CS",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/get-sentiment-CS",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "List Entities",
-    "permalink": "/docs/Tutorials/Python SDK/list-entities"
+    "title": "Get Emotion",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/get-emotion"
   },
   "next": {
-    "title": "Get Emotion",
-    "permalink": "/docs/Tutorials/Python SDK/get-emotion"
+    "title": "Word Emotion",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/word-emotion"
   }
 }

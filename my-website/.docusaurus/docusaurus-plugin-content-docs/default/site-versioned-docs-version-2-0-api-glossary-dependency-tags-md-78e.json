@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/dependency-tags",
+  "id": "version-2.0/API/Glossary/dependency-tags",
+  "isDocsHomePage": false,
+  "title": "Dependency Tags",
+  "description": "We use the universal dependencies for our dependency parser.",
+  "source": "@site/versioned_docs/version-2.0/API/Glossary/dependency-tags.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/dependency-tags",
+  "permalink": "/documentation/docs/API/Glossary/dependency-tags",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Tags",
+    "permalink": "/documentation/docs/API/Glossary/tags"
+  },
+  "next": {
+    "title": "Possessive Determiners",
+    "permalink": "/documentation/docs/API/Glossary/possessive-determiners"
+  }
+}

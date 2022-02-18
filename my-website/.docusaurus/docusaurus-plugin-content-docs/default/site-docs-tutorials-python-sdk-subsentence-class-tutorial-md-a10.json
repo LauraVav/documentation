@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/subsentence-class-tutorial",
+  "id": "Tutorials/Python SDK/subsentence-class-tutorial",
+  "isDocsHomePage": false,
+  "title": "Subsentence Class",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/subsentence-class-tutorial.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/subsentence-class-tutorial",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/subsentence-class-tutorial",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sentence Class",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/sentence-class-tutorial"
+  },
+  "next": {
+    "title": "Common Properties",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/common-properties"
+  }
+}

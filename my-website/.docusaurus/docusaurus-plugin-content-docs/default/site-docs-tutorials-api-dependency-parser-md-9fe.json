@@ -7,20 +7,20 @@
   "source": "@site/docs/Tutorials/API/dependency-parser.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/dependency-parser",
-  "permalink": "/docs/Tutorials/API/dependency-parser",
+  "permalink": "/documentation/docs/next/Tutorials/API/dependency-parser",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 9,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 9
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tokenizer",
-    "permalink": "/docs/Tutorials/API/tokenizer"
+    "title": "Sentiment Analysis",
+    "permalink": "/documentation/docs/next/Tutorials/API/document/sentiment-analysis"
   },
   "next": {
-    "title": "Emotion Analysis",
-    "permalink": "/docs/Tutorials/API/emotion-analysis"
+    "title": "Vocabulary",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary"
   }
 }

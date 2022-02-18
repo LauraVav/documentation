@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/categories",
+  "id": "version-6.0.1/API/Glossary/categories",
+  "isDocsHomePage": false,
+  "title": "Categories",
+  "description": "List of all categories that can be found in Category Objects. Categories are organised by super-categories, each containing a number of sub-categories.",
+  "source": "@site/versioned_docs/version-6.0.1/API/Glossary/categories.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/categories",
+  "permalink": "/documentation/docs/API/Glossary/categories",
+  "tags": [],
+  "version": "6.0.1",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "NLC",
+    "permalink": "/documentation/docs/API/Glossary/nlc"
+  },
+  "next": {
+    "title": "Parser Dependency",
+    "permalink": "/documentation/docs/API/Glossary/parser-dependency"
+  }
+}

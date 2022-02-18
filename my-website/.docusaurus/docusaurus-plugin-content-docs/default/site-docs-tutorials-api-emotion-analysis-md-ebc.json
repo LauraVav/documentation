@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/API/emotion-analysis.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/emotion-analysis",
-  "permalink": "/docs/Tutorials/API/emotion-analysis",
+  "permalink": "/documentation/docs/next/Tutorials/API/emotion-analysis",
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Dependency Parser",
-    "permalink": "/docs/Tutorials/API/dependency-parser"
+    "title": "Sentiment Analysis",
+    "permalink": "/documentation/docs/next/Tutorials/API/document/sentiment-analysis"
   },
   "next": {
-    "title": "Sentiment Analysis",
-    "permalink": "/docs/Tutorials/API/sentiment-analysis"
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/Tutorials/API/dependency-parser"
   }
 }

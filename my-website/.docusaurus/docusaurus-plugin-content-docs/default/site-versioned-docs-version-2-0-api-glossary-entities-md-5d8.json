@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/entities",
+  "id": "version-2.0/API/Glossary/entities",
+  "isDocsHomePage": false,
+  "title": "Entities",
+  "description": "Entity types",
+  "source": "@site/versioned_docs/version-2.0/API/Glossary/entities.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/entities",
+  "permalink": "/documentation/docs/API/Glossary/entities",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Conjugations",
+    "permalink": "/documentation/docs/API/Glossary/conjugations"
+  },
+  "next": {
+    "title": "Categories",
+    "permalink": "/documentation/docs/API/Glossary/categories"
+  }
+}

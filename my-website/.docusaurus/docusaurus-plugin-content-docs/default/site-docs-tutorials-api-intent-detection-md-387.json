@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/API/intent-detection.md",
   "sourceDirName": "Tutorials/API",
   "slug": "/Tutorials/API/intent-detection",
-  "permalink": "/docs/Tutorials/API/intent-detection",
+  "permalink": "/documentation/docs/next/Tutorials/API/intent-detection",
   "tags": [],
   "version": "current",
   "sidebarPosition": 9,
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Sentiment Analysis",
-    "permalink": "/docs/Tutorials/API/sentiment-analysis"
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/Tutorials/API/dependency-parser"
   },
   "next": {
-    "title": "NER",
-    "permalink": "/docs/Tutorials/API/ner"
+    "title": "Vocabulary",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary"
   }
 }

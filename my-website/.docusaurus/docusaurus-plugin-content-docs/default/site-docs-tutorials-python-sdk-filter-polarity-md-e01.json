@@ -7,7 +7,7 @@
   "source": "@site/docs/Tutorials/Python SDK/filter-polarity.md",
   "sourceDirName": "Tutorials/Python SDK",
   "slug": "/Tutorials/Python SDK/filter-polarity",
-  "permalink": "/docs/Tutorials/Python SDK/filter-polarity",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/filter-polarity",
   "tags": [],
   "version": "current",
   "sidebarPosition": 12,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Filter Emotion",
-    "permalink": "/docs/Tutorials/Python SDK/filter-emotion"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/filter-emotion"
   },
   "next": {
     "title": "Filter Type",
-    "permalink": "/docs/Tutorials/Python SDK/filter-type"
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/filter-type"
   }
 }

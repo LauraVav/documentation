@@ -7,7 +7,7 @@
   "source": "@site/docs/python-sdk/sentence-class.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/sentence-class",
-  "permalink": "/docs/python-sdk/sentence-class",
+  "permalink": "/documentation/docs/next/python-sdk/sentence-class",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Document Class",
-    "permalink": "/docs/python-sdk/document-class"
+    "permalink": "/documentation/docs/next/python-sdk/document-class"
   },
   "next": {
     "title": "Subsentence Class",
-    "permalink": "/docs/python-sdk/subsentence-class"
+    "permalink": "/documentation/docs/next/python-sdk/subsentence-class"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/TextChunk/vocabulary",
+  "id": "Tutorials/Python SDK/TextChunk/vocabulary",
+  "isDocsHomePage": false,
+  "title": "Vocabulary",
+  "description": "Video",
+  "source": "@site/docs/Tutorials/Python SDK/TextChunk/vocabulary.md",
+  "sourceDirName": "Tutorials/Python SDK/TextChunk",
+  "slug": "/Tutorials/Python SDK/TextChunk/vocabulary",
+  "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/vocabulary",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/next/Tutorials/API/detail/dependency-parser"
+  },
+  "next": {
+    "title": "Word Count",
+    "permalink": "/documentation/docs/next/Tutorials/Python SDK/TextChunk/word-count"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/Glossary/synthesis",
+  "id": "API/Glossary/synthesis",
+  "isDocsHomePage": false,
+  "title": "Synthesis",
+  "description": "Compiles all the most relevant information for each token.",
+  "source": "@site/docs/API/Glossary/synthesis.md",
+  "sourceDirName": "API/Glossary",
+  "slug": "/API/Glossary/synthesis",
+  "permalink": "/documentation/docs/next/API/Glossary/synthesis",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependency Tags",
+    "permalink": "/documentation/docs/next/API/Glossary/dependency-tags"
+  },
+  "next": {
+    "title": "Possessive Determiners",
+    "permalink": "/documentation/docs/next/API/Glossary/possessive-determiners"
+  }
+}

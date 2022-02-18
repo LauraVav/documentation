@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/lemmitizer",
+  "id": "version-1.0/API/lemmitizer",
+  "isDocsHomePage": false,
+  "title": "Lemmatizer",
+  "description": "The content of the lemmatizer object is different for each tag. The table bellow references all the keys that are available, and lists the tags that will return them (see POS Tagger and list of tags).",
+  "source": "@site/versioned_docs/version-1.0/API/lemmitizer.md",
+  "sourceDirName": "API",
+  "slug": "/API/lemmitizer",
+  "permalink": "/documentation/docs/1.0/API/lemmitizer",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Synthesis",
+    "permalink": "/documentation/docs/1.0/API/synthesis"
+  },
+  "next": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/1.0/API/pos-tagger"
+  }
+}

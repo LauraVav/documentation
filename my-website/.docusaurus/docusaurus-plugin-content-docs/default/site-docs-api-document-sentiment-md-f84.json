@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/sentiment",
+  "id": "API/document/sentiment",
+  "isDocsHomePage": false,
+  "title": "Sentiment",
+  "description": "Go back to the Document Object.",
+  "source": "@site/docs/API/document/sentiment.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/sentiment",
+  "permalink": "/documentation/docs/next/API/document/sentiment",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Emoticons",
+    "permalink": "/documentation/docs/next/API/document/emoticons"
+  },
+  "next": {
+    "title": "Emotions",
+    "permalink": "/documentation/docs/next/API/document/emotions"
+  }
+}

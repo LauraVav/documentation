@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python-sdk/client-class",
+  "id": "version-1.0/python-sdk/client-class",
+  "isDocsHomePage": false,
+  "title": "Client Class",
+  "description": "Client used to perform requests to our API.",
+  "source": "@site/versioned_docs/version-1.0/python-sdk/client-class.md",
+  "sourceDirName": "python-sdk",
+  "slug": "/python-sdk/client-class",
+  "permalink": "/documentation/docs/1.0/python-sdk/client-class",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Common Properties",
+    "permalink": "/documentation/docs/1.0/python-sdk/common-properties"
+  },
+  "next": {
+    "title": "Patterns",
+    "permalink": "/documentation/docs/1.0/python-sdk/patterns"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/document/emoticons",
+  "id": "API/document/emoticons",
+  "isDocsHomePage": false,
+  "title": "Emoticons",
+  "description": "List all emoticons found.",
+  "source": "@site/docs/API/document/emoticons.md",
+  "sourceDirName": "API/document",
+  "slug": "/API/document/emoticons",
+  "permalink": "/documentation/docs/next/API/document/emoticons",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Language Used",
+    "permalink": "/documentation/docs/next/API/document/language-used"
+  },
+  "next": {
+    "title": "Sentiment",
+    "permalink": "/documentation/docs/next/API/document/sentiment"
+  }
+}

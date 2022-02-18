@@ -1,0 +1,26 @@
+{
+  "unversionedId": "API/sentiment",
+  "id": "version-1.0/API/sentiment",
+  "isDocsHomePage": false,
+  "title": "Sentiment",
+  "description": "Go back to the Sentence Object.",
+  "source": "@site/versioned_docs/version-1.0/API/sentiment.md",
+  "sourceDirName": "API",
+  "slug": "/API/sentiment",
+  "permalink": "/documentation/docs/1.0/API/sentiment",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "ML Emotion",
+    "permalink": "/documentation/docs/1.0/API/ml-emotion"
+  },
+  "next": {
+    "title": "Proposition",
+    "permalink": "/documentation/docs/1.0/API/proposition"
+  }
+}

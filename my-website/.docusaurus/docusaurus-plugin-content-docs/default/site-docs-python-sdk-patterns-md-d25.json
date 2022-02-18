@@ -7,7 +7,7 @@
   "source": "@site/docs/python-sdk/patterns.md",
   "sourceDirName": "python-sdk",
   "slug": "/python-sdk/patterns",
-  "permalink": "/docs/python-sdk/patterns",
+  "permalink": "/documentation/docs/next/python-sdk/patterns",
   "tags": [],
   "version": "current",
   "sidebarPosition": 10,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Client Class",
-    "permalink": "/docs/python-sdk/client-class"
+    "permalink": "/documentation/docs/next/python-sdk/client-class"
   },
   "next": {
-    "title": "Lettria Sentence Object",
-    "permalink": "/docs/API/lettria-sentence-object"
+    "title": "API",
+    "permalink": "/documentation/docs/next/API/api"
   }
 }

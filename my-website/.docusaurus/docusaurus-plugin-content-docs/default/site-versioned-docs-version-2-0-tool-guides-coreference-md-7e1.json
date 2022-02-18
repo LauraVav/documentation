@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tool guides/coreference",
+  "id": "version-2.0/Tool guides/coreference",
+  "isDocsHomePage": false,
+  "title": "Coreference",
+  "description": "What is coreference?",
+  "source": "@site/versioned_docs/version-2.0/Tool guides/coreference.md",
+  "sourceDirName": "Tool guides",
+  "slug": "/Tool guides/coreference",
+  "permalink": "/documentation/docs/Tool guides/coreference",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "Dependency Parser",
+    "permalink": "/documentation/docs/Tool guides/dependency-parser"
+  },
+  "next": {
+    "title": "NLU",
+    "permalink": "/documentation/docs/Tool guides/nlu"
+  }
+}

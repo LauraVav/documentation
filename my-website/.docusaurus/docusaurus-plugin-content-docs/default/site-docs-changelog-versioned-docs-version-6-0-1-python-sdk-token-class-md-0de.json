@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/python-sdk/token-class",
+  "id": "Changelog/versioned_docs/version-6.0.1/python-sdk/token-class",
+  "isDocsHomePage": false,
+  "title": "Token Class",
+  "description": "Token stores data relative to a specific token. Tokens are delimited according to our Tokenizer.",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/python-sdk/token-class.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/python-sdk",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/python-sdk/token-class",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/token-class",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Subsentence Class",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/subsentence-class"
+  },
+  "next": {
+    "title": "Common Properties",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/python-sdk/common-properties"
+  }
+}

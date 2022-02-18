@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/API/detail/lemmatizer",
+  "id": "version-2.0/Tutorials/API/detail/lemmatizer",
+  "isDocsHomePage": false,
+  "title": "Lemmatizer",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-2.0/Tutorials/API/detail/lemmatizer.md",
+  "sourceDirName": "Tutorials/API/detail",
+  "slug": "/Tutorials/API/detail/lemmatizer",
+  "permalink": "/documentation/docs/Tutorials/API/detail/lemmatizer",
+  "tags": [],
+  "version": "2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "version-2.0/tutorialSidebar",
+  "previous": {
+    "title": "POS Tagger",
+    "permalink": "/documentation/docs/Tutorials/API/detail/pos-tagger"
+  },
+  "next": {
+    "title": "Intent Detection",
+    "permalink": "/documentation/docs/Tutorials/API/detail/intent-detection"
+  }
+}

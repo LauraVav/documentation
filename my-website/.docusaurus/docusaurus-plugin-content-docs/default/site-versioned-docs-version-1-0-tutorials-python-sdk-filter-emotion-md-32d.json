@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Tutorials/Python SDK/filter-emotion",
+  "id": "version-1.0/Tutorials/Python SDK/filter-emotion",
+  "isDocsHomePage": false,
+  "title": "Filter Emotion",
+  "description": "Video",
+  "source": "@site/versioned_docs/version-1.0/Tutorials/Python SDK/filter-emotion.md",
+  "sourceDirName": "Tutorials/Python SDK",
+  "slug": "/Tutorials/Python SDK/filter-emotion",
+  "permalink": "/documentation/docs/1.0/Tutorials/Python SDK/filter-emotion",
+  "tags": [],
+  "version": "1.0",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "Meaning Emotion",
+    "permalink": "/documentation/docs/1.0/Tutorials/Python SDK/meaning-emotion"
+  },
+  "next": {
+    "title": "Filter Polarity",
+    "permalink": "/documentation/docs/1.0/Tutorials/Python SDK/filter-polarity"
+  }
+}

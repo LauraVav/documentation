@@ -1,0 +1,19 @@
+{
+  "unversionedId": "ner",
+  "id": "version-1.0/ner",
+  "isDocsHomePage": false,
+  "title": "ner",
+  "description": "",
+  "source": "@site/versioned_docs/version-1.0/ner.md",
+  "sourceDirName": ".",
+  "slug": "/ner",
+  "permalink": "/documentation/docs/1.0/ner",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "version-1.0/tutorialSidebar",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/documentation/docs/1.0/help/faq"
+  }
+}

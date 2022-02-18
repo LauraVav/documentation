@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity",
+  "id": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity",
+  "isDocsHomePage": false,
+  "title": "Filter Polarity",
+  "description": "Video",
+  "source": "@site/docs/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity.md",
+  "sourceDirName": "Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK",
+  "slug": "/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity",
+  "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-polarity",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Filter Emotion",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/Tutorials/Python SDK/filter-emotion"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/documentation/docs/next/Changelog/versioned_docs/version-6.0.1/help/faq"
+  }
+}
